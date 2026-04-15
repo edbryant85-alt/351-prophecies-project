@@ -248,6 +248,11 @@ a:hover {
   text-transform: uppercase;
 }
 
+.badge.claim-badge {
+  background: rgba(85, 107, 123, 0.12);
+  color: #415563;
+}
+
 .article h2 {
   margin-top: 42px;
   margin-bottom: 10px;
@@ -276,6 +281,75 @@ a:hover {
   list-style: none;
   padding: 0;
   margin: 0;
+}
+
+.overview-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  margin: 6px 0 22px;
+  padding: 10px 14px;
+  border: 1px solid rgba(85, 107, 123, 0.2);
+  border-radius: 12px;
+  background: rgba(232, 237, 240, 0.72);
+  color: #415563;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 0.9rem;
+  font-weight: 600;
+}
+
+.overview-link:hover {
+  text-decoration: none;
+  background: rgba(232, 237, 240, 0.92);
+}
+
+.meta-panel,
+.focus-panel,
+.conclusion-panel {
+  margin: 26px 0 8px;
+  padding: 18px 18px 16px;
+  border: 1px solid rgba(216, 210, 196, 0.95);
+  border-radius: 16px;
+  background: rgba(255, 255, 255, 0.72);
+}
+
+.meta-panel h2,
+.focus-panel h2,
+.conclusion-panel h2 {
+  margin-top: 0;
+  padding-top: 0;
+  border-top: none;
+}
+
+.meta-panel ul,
+.focus-panel ul {
+  margin-bottom: 0;
+}
+
+.section-stack > *:first-child {
+  margin-top: 0;
+}
+
+.section-stack > *:last-child {
+  margin-bottom: 0;
+}
+
+.mini-nav {
+  display: grid;
+  gap: 10px;
+}
+
+.mini-nav a {
+  display: block;
+  padding: 10px 12px;
+  border: 1px solid rgba(216, 210, 196, 0.95);
+  border-radius: 10px;
+  background: rgba(255, 255, 255, 0.78);
+}
+
+.mini-nav a:hover {
+  text-decoration: none;
+  background: rgba(232, 237, 240, 0.72);
 }
 
 .quiet-list li + li {
