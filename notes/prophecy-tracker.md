@@ -361,4 +361,4 @@
 - [ ] #351 Malachi 4:6 — Forerunner would turn many to righteousness
 
 ## Completed
-- [ ]
+No completed entries yet.

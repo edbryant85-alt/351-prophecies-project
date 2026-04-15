@@ -1,27 +1,36 @@
 # Import Notes
 
 ## Sources Used
-- The 351-prophecy catalog was imported from the source list provided in the project workspace context for this repository task.
-- The skeptic criteria definitions were taken from [content/methodology.md](/workspaces/351-prophecies-project/content/methodology.md).
+- The prophecy catalog was imported from `sources/raw/351-list.docx/351-Old-Testament-Prophecies-Fulfilled-in-Jesus-Christ.docx`.
+- The failed-criteria mapping was imported from `sources/raw/skeptic-criteria.docx/Prophecy criteria evaluation.docx`.
+- The six-criteria definitions remain documented in [content/methodology.md](/workspaces/351-prophecies-project/content/methodology.md).
 
 ## Imported Automatically
 - prophecy number
 - title
-- slug
+- slug (preserved from the current dataset)
 - Old Testament reference
 - claim summary
 - claimed New Testament fulfillment
-- status
+- skeptic failed criteria
+- status (preserved from the current dataset)
 
-## What Still Needs Human Review
-- claim-by-claim `skeptic_failed_criteria` values were not available as a complete in-repo mapping source
-- existing chapter-level pages were reused as anchor pages for the first numbered claim under that passage when possible
-- claim wording, page scope, and title conventions should be reviewed for passages that contain many separate numbered claims
-- all generated placeholder pages still need research content beyond the imported reference fields
+## What Matched Cleanly
+- All 351 prophecy rows were extracted from the source list docx.
+- All 351 failed-criteria rows were extracted from the criteria docx.
+- Number-to-number matching between the two source documents was clean.
+
+## What Needs Manual Review
+- Existing chapter-level anchor pages are still being used for some first-in-sequence numbered claims.
+- The project still contains one orphan page that is not part of the 351-entry dataset.
+- Some older flagship page files still contain chapter-level placeholder wording that does not perfectly match the imported claim-level titles.
+- Generated placeholder pages still need actual research content.
 
 ## Unclear Matches Or Placeholder Values
-- Per-entry skeptic criteria remain blank except where an existing page already contained a value.
-- Some preexisting chapter-level pages now serve as anchor slugs for the first imported claim from that passage and may eventually need to be split or renamed for cleaner one-claim-per-page structure.
+- Orphan page(s) with no matching YAML entry: micah-4.
+- Every YAML entry currently has a matching prophecy page file.
+- The import preserved the existing slug strategy rather than renaming files during this pass.
+- Existing overview-style pages such as `isaiah-53.md` and `psalm-22.md` should be reviewed later to decide whether they remain overview pages or become strictly claim-level pages.
 
 Examples of reused anchor pages:
 - #22 exodus-12 <= Exodus 12:5
