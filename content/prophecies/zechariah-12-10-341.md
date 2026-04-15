@@ -3,6 +3,8 @@
 > NOTE: The following content is AI-generated placeholder analysis for structural and research development purposes. It is subject to review, correction, and expansion.
 
 
+> NOTE: This page analyzes a specific prophecy claim. For a broader contextual overview, see [Zechariah 12](./zechariah-12.md).
+
 ## Claim
 This entry evaluates the claim that The Messiah would be rejected.
 

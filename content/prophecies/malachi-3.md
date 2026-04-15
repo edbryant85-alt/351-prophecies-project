@@ -3,6 +3,12 @@
 > NOTE: The following content is AI-generated placeholder analysis for structural and research development purposes. It is subject to review, correction, and expansion.
 
 
+> NOTE: This is an overview page summarizing multiple prophecy claims associated with this passage. For detailed analysis, see the individual claim pages linked below.
+
+## Related Prophecy Claims
+- [Malachi 3:1b (Claim 348)](./malachi-3-1-348.md)
+- [Malachi 3:1c (Claim 349)](./malachi-3-1-349.md)
+
 ## Claim
 This entry examines the claimed prophecy associated with Malachi 3.
 

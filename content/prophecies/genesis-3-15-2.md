@@ -3,6 +3,8 @@
 > NOTE: The following content is AI-generated placeholder analysis for structural and research development purposes. It is subject to review, correction, and expansion.
 
 
+> NOTE: This page analyzes a specific prophecy claim. For a broader contextual overview, see [Genesis 3:15](./genesis-3-15.md).
+
 ## Claim
 This entry evaluates the claim that He will bruise Satan's head.
 

@@ -3,6 +3,13 @@
 > NOTE: The following content is AI-generated placeholder analysis for structural and research development purposes. It is subject to review, correction, and expansion.
 
 
+> NOTE: This is an overview page summarizing multiple prophecy claims associated with this passage. For detailed analysis, see the individual claim pages linked below.
+
+## Related Prophecy Claims
+- [Exodus 12:13 (Claim 23)](./exodus-12-13-23.md)
+- [Exodus 12:21-27 (Claim 24)](./exodus-12-21-27-24.md)
+- [Exodus 12:46 (Claim 25)](./exodus-12-46-25.md)
+
 ## Claim
 This entry examines the claimed prophecy associated with Exodus 12.
 

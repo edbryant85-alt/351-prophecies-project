@@ -3,6 +3,15 @@
 > NOTE: The following content is AI-generated placeholder analysis for structural and research development purposes. It is subject to review, correction, and expansion.
 
 
+> NOTE: This is an overview page summarizing multiple prophecy claims associated with this passage. For detailed analysis, see the individual claim pages linked below.
+
+## Related Prophecy Claims
+- [Zechariah 9:9b (Claim 320)](./zechariah-9-9-320.md)
+- [Zechariah 9:9c (Claim 321)](./zechariah-9-9-321.md)
+- [Zechariah 9:9d (Claim 322)](./zechariah-9-9-322.md)
+- [Zechariah 9:9e (Claim 323)](./zechariah-9-9-323.md)
+- [Zechariah 9:9f (Claim 324)](./zechariah-9-9-324.md)
+
 ## Claim
 This entry examines the claimed prophecy associated with Zechariah 9.
 

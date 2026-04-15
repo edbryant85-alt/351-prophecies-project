@@ -3,6 +3,13 @@
 > NOTE: The following content is AI-generated placeholder analysis for structural and research development purposes. It is subject to review, correction, and expansion.
 
 
+> NOTE: This is an overview page summarizing multiple prophecy claims associated with this passage. For detailed analysis, see the individual claim pages linked below.
+
+## Related Prophecy Claims
+- [2 Samuel 7:13 (Claim 50)](./2-samuel-7-13-50.md)
+- [2 Samuel 7:14a (Claim 51)](./2-samuel-7-14-51.md)
+- [2 Samuel 7:16 (Claim 52)](./2-samuel-7-16-52.md)
+
 ## Claim
 This entry examines the claimed prophecy associated with 2 Samuel 7.
 

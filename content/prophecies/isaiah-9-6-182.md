@@ -3,6 +3,8 @@
 > NOTE: The following content is AI-generated placeholder analysis for structural and research development purposes. It is subject to review, correction, and expansion.
 
 
+> NOTE: This page analyzes a specific prophecy claim. For a broader contextual overview, see [Isaiah 9:6](./isaiah-9-6.md).
+
 ## Claim
 This entry evaluates the claim that The Prince of Peace, Sar Shalom.
 

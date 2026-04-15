@@ -3,6 +3,22 @@
 > NOTE: The following content is AI-generated placeholder analysis for structural and research development purposes. It is subject to review, correction, and expansion.
 
 
+> NOTE: This is an overview page summarizing multiple prophecy claims associated with this passage. For detailed analysis, see the individual claim pages linked below.
+
+## Related Prophecy Claims
+- [Zechariah 11:4-6b (Claim 327)](./zechariah-11-4-6-327.md)
+- [Zechariah 11:4-6c (Claim 328)](./zechariah-11-4-6-328.md)
+- [Zechariah 11:7 (Claim 329)](./zechariah-11-7-329.md)
+- [Zechariah 11:8a (Claim 330)](./zechariah-11-8-330.md)
+- [Zechariah 11:8b (Claim 331)](./zechariah-11-8-331.md)
+- [Zechariah 11:9 (Claim 332)](./zechariah-11-9-332.md)
+- [Zechariah 11:10-11a (Claim 333)](./zechariah-11-10-11-333.md)
+- [Zechariah 11:10-11b (Claim 334)](./zechariah-11-10-11-334.md)
+- [Zechariah 11:12-13a (Claim 335)](./zechariah-11-12-13-335.md)
+- [Zechariah 11:12-13b (Claim 336)](./zechariah-11-12-13-336.md)
+- [Zechariah 11:12-13c (Claim 337)](./zechariah-11-12-13-337.md)
+- [Zechariah 11:12-13d (Claim 338)](./zechariah-11-12-13-338.md)
+
 ## Claim
 State the exact prophecy claim clearly.
 

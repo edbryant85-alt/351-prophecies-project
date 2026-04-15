@@ -3,6 +3,16 @@
 > NOTE: The following content is AI-generated placeholder analysis for structural and research development purposes. It is subject to review, correction, and expansion.
 
 
+> NOTE: This is an overview page summarizing multiple prophecy claims associated with this passage. For detailed analysis, see the individual claim pages linked below.
+
+## Related Prophecy Claims
+- [Isaiah 42:2 (Claim 211)](./isaiah-42-2-211.md)
+- [Isaiah 42:3 (Claim 212)](./isaiah-42-3-212.md)
+- [Isaiah 42:4 (Claim 213)](./isaiah-42-4-213.md)
+- [Isaiah 42:6 (Claim 214)](./isaiah-42-6-214.md)
+- [Isaiah 42:1-6 (Claim 215)](./isaiah-42-1-6-215.md)
+- [Isaiah 42:7 (Claim 216)](./isaiah-42-7-216.md)
+
 ## Claim
 This entry examines the claimed prophecy associated with Isaiah 42.
 

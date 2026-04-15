@@ -3,6 +3,12 @@
 > NOTE: The following content is AI-generated placeholder analysis for structural and research development purposes. It is subject to review, correction, and expansion.
 
 
+> NOTE: This is an overview page summarizing multiple prophecy claims associated with this passage. For detailed analysis, see the individual claim pages linked below.
+
+## Related Prophecy Claims
+- [Micah 5:2b (Claim 313)](./micah-5-2-313.md)
+- [Micah 5:2c (Claim 314)](./micah-5-2-314.md)
+
 ## Claim
 State the exact prophecy claim clearly.
 

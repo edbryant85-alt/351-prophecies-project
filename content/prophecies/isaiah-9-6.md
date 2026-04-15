@@ -3,6 +3,17 @@
 > NOTE: The following content is AI-generated placeholder analysis for structural and research development purposes. It is subject to review, correction, and expansion.
 
 
+> NOTE: This is an overview page summarizing multiple prophecy claims associated with this passage. For detailed analysis, see the individual claim pages linked below.
+
+## Related Prophecy Claims
+- [Isaiah 9:6 (Claim 176)](./isaiah-9-6-176.md)
+- [Isaiah 9:6 (Claim 177)](./isaiah-9-6-177.md)
+- [Isaiah 9:6 (Claim 178)](./isaiah-9-6-178.md)
+- [Isaiah 9:6 (Claim 179)](./isaiah-9-6-179.md)
+- [Isaiah 9:6 (Claim 180)](./isaiah-9-6-180.md)
+- [Isaiah 9:6 (Claim 181)](./isaiah-9-6-181.md)
+- [Isaiah 9:6 (Claim 182)](./isaiah-9-6-182.md)
+
 ## Claim
 This entry examines the claimed prophecy associated with Isaiah 9:6.
 

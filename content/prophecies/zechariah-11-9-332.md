@@ -3,6 +3,8 @@
 > NOTE: The following content is AI-generated placeholder analysis for structural and research development purposes. It is subject to review, correction, and expansion.
 
 
+> NOTE: This page analyzes a specific prophecy claim. For a broader contextual overview, see [Zechariah 11](./zechariah-11.md).
+
 ## Claim
 This entry evaluates the claim that Stops ministering to those who rejected Him.
 

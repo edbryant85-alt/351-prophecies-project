@@ -3,6 +3,11 @@
 > NOTE: The following content is AI-generated placeholder analysis for structural and research development purposes. It is subject to review, correction, and expansion.
 
 
+> NOTE: This is an overview page summarizing multiple prophecy claims associated with this passage. For detailed analysis, see the individual claim pages linked below.
+
+## Related Prophecy Claims
+- [Genesis 3:15 (Claim 2)](./genesis-3-15-2.md)
+
 ## Claim
 State the exact prophecy claim clearly.
 

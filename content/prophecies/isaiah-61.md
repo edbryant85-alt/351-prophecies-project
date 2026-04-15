@@ -3,6 +3,13 @@
 > NOTE: The following content is AI-generated placeholder analysis for structural and research development purposes. It is subject to review, correction, and expansion.
 
 
+> NOTE: This is an overview page summarizing multiple prophecy claims associated with this passage. For detailed analysis, see the individual claim pages linked below.
+
+## Related Prophecy Claims
+- [Isaiah 61:1b (Claim 286)](./isaiah-61-1-286.md)
+- [Isaiah 61:1c (Claim 287)](./isaiah-61-1-287.md)
+- [Isaiah 61:1-2a (Claim 288)](./isaiah-61-1-2-288.md)
+
 ## Claim
 This entry examines the claimed prophecy associated with Isaiah 61.
 
