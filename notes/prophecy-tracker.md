@@ -6,35 +6,359 @@
 - Completed
 
 ## In Progress
-- [ ] Daniel 9
-- [ ] Genesis 3:15
-- [ ] Isaiah 7:14
-- [ ] Isaiah 53
-- [ ] Micah 5:2
-- [ ] Psalm 22
-- [ ] Zechariah 11
+- [ ] #1 Genesis 3:15 — Seed of a woman (virgin birth)
+- [ ] #74 Psalm 22:1 — Forsaken because of sins of others
+- [ ] #170 Isaiah 7:14 — To be born of a virgin
+- [ ] #242 Isaiah 53:1 — His people would not believe Him
+- [ ] #300 Daniel 9:24a — To make an end to sins
+- [ ] #312 Micah 5:2a — Born in Bethlehem
+- [ ] #326 Zechariah 11:4-6a — At His coming, Israel to have unfit leaders
 
 ## Not Started
-- [ ] 2 Samuel 7
-- [ ] Daniel 7
-- [ ] Exodus 12
-- [ ] Ezekiel 34
-- [ ] Genesis 22:8
-- [ ] Isaiah 9:6
-- [ ] Isaiah 11
-- [ ] Isaiah 42
-- [ ] Isaiah 50
-- [ ] Isaiah 61
-- [ ] Jeremiah 31
-- [ ] Malachi 3
-- [ ] Malachi 4
-- [ ] Micah 4
-- [ ] Psalm 2
-- [ ] Psalm 16
-- [ ] Psalm 41:9
-- [ ] Psalm 110
-- [ ] Zechariah 9
-- [ ] Zechariah 12
+- [ ] #2 Genesis 3:15 — He will bruise Satan's head
+- [ ] #3 Genesis 5:24 — The bodily ascension to heaven illustrated
+- [ ] #4 Genesis 9:26-27 — The God of Shem will be the Son of Shem
+- [ ] #5 Genesis 12:3 — Seed of Abraham will bless all nations
+- [ ] #6 Genesis 12:7 — The Promise made to Abraham's Seed
+- [ ] #7 Genesis 14:18 — A priest after the order of Melchizedek
+- [ ] #8 Genesis 14:18 — King of Peace and Righteousness
+- [ ] #9 Genesis 14:18 — The Last Supper foreshadowed
+- [ ] #10 Genesis 17:19 — Seed of Isaac (Gen 21:12)
+- [ ] #11 Genesis 22:8 — The Lamb of God promised
+- [ ] #12 Genesis 22:18 — As Isaac's seed, will bless all nations
+- [ ] #13 Genesis 26:2-5 — The Seed of Isaac promised as the Redeemer
+- [ ] #14 Genesis 28:12 — The Bridge to heaven
+- [ ] #15 Genesis 28:14 — The Seed of Jacob
+- [ ] #16 Genesis 49:10 — The time of His coming
+- [ ] #17 Genesis 49:10 — The Seed of Judah
+- [ ] #18 Genesis 49:10 — Called Shiloh or One Sent
+- [ ] #19 Genesis 49:10 — Messiah to come before Judah lost identity
+- [ ] #20 Genesis 49:10 — Unto Him shall the obedience of the people be
+- [ ] #21 Exodus 3:13-15 — The Great "I AM"
+- [ ] #22 Exodus 12:5 — A Lamb without blemish
+- [ ] #23 Exodus 12:13 — The blood of the Lamb saves from wrath
+- [ ] #24 Exodus 12:21-27 — Christ is our Passover
+- [ ] #25 Exodus 12:46 — Not a bone of the Lamb to be broken
+- [ ] #26 Exodus 15:2 — His exaltation predicted as Yeshua
+- [ ] #27 Exodus 15:11 — His Character-Holiness
+- [ ] #28 Exodus 17:6 — The Spiritual Rock of Israel
+- [ ] #29 Exodus 33:19 — His Character-Merciful
+- [ ] #30 Leviticus 1:2-9 — His sacrifice a sweet smelling savor unto God
+- [ ] #31 Leviticus 14:11 — The leper cleansed-Sign to priesthood
+- [ ] #32 Leviticus 16:15-17 — Prefigures Christ's once-for-all death
+- [ ] #33 Leviticus 16:27 — Suffering outside the Camp
+- [ ] #34 Leviticus 17:11 — The Blood-the life of the flesh
+- [ ] #35 Leviticus 17:11 — It is the blood that makes atonement
+- [ ] #36 Leviticus 23:36-37 — The Drink-offering: "If any man thirst"
+- [ ] #37 Numbers 9:12 — Not a bone of Him broken
+- [ ] #38 Numbers 21:9 — The serpent on a pole-Christ lifted up
+- [ ] #39 Numbers 24:17 — Time: "I shall see him, but not now."
+- [ ] #40 Deuteronomy 18:15 — "This is of a truth that prophet"
+- [ ] #41 Deuteronomy 18:15-16 — "Had you believed Moses, you would believe me."
+- [ ] #42 Deuteronomy 18:18 — Sent by the Father to speak His word
+- [ ] #43 Deuteronomy 18:19 — Whoever will not hear must bear his sin
+- [ ] #44 Deuteronomy 21:23 — Cursed is he that hangs on a tree
+- [ ] #45 Joshua 5:14-15 — The Captain of our salvation
+- [ ] #46 Ruth 4:4-10 — Christ, our kinsman, has redeemed us
+- [ ] #47 1 Samuel 2:35 — A Faithful Priest
+- [ ] #48 1 Samuel 2:10 — Shall be an anointed King to the Lord
+- [ ] #49 2 Samuel 7:12 — David's Seed
+- [ ] #50 2 Samuel 7:13 — His Kingdom is everlasting
+- [ ] #51 2 Samuel 7:14a — The Son of God
+- [ ] #52 2 Samuel 7:16 — David's house established forever
+- [ ] #53 2 Kings 2:11 — The bodily ascension to heaven illustrated
+- [ ] #54 1 Chronicles 17:11 — David's Seed
+- [ ] #55 1 Chronicles 17:12-13 — To reign on David's throne forever
+- [ ] #56 1 Chronicles 17:13 — "I will be His Father, He...my Son."
+- [ ] #57 Job 9:32-33 — Mediator between man and God
+- [ ] #58 Job 19:23-27 — The Resurrection predicted
+- [ ] #59 Psalm 2:1-3 — The enmity of kings foreordained
+- [ ] #60 Psalm 2:2 — To own the title, Anointed (Christ)
+- [ ] #61 Psalm 2:6 — His Character-Holiness
+- [ ] #62 Psalm 2:6 — To own the title King
+- [ ] #63 Psalm 2:7 — Declared the Beloved Son
+- [ ] #64 Psalm 2:7-8 — The Crucifixion and Resurrection intimated
+- [ ] #65 Psalm 2:8-9 — Rule the nations with a rod of iron
+- [ ] #66 Psalm 2:12 — Life comes through faith in Him
+- [ ] #67 Psalm 8:2 — The mouths of babes perfect His praise
+- [ ] #68 Psalm 8:5-6 — His humiliation and exaltation
+- [ ] #69 Psalm 9:7-10 — Judge the world in righteousness
+- [ ] #70 Psalm 16:10 — Was not to see corruption
+- [ ] #71 Psalm 16:9-11 — Was to arise from the dead
+- [ ] #72 Psalm 17:15 — The resurrection predicted
+- [ ] #73 Psalm 18:2-3 — The horn of salvation
+- [ ] #75 Psalm 22:1 — "My God, my God, why have You forsaken me?"
+- [ ] #76 Psalm 22:2 — Darkness upon Calvary for three hours
+- [ ] #77 Psalm 22:7 — They shoot out the lip and shake the head
+- [ ] #78 Psalm 22:8 — "He trusted in God, let Him deliver Him"
+- [ ] #79 Psalm 22:9-10 — Born the Savior
+- [ ] #80 Psalm 22:12-13 — They seek His death
+- [ ] #81 Psalm 22:14 — His blood poured out when they pierced His side
+- [ ] #82 Psalm 22:14-15 — Suffered agony on Calvary
+- [ ] #83 Psalm 22:15 — He thirsted
+- [ ] #84 Psalm 22:16 — They pierced His hands and His feet
+- [ ] #85 Psalm 22:17-18 — Stripped Him before the stares of men
+- [ ] #86 Psalm 22:18 — They parted His garments
+- [ ] #87 Psalm 22:20-21 — He committed Himself to God
+- [ ] #88 Psalm 22:20-21 — Satanic power bruising the Redeemer's heel
+- [ ] #89 Psalm 22:22 — His Resurrection declared
+- [ ] #90 Psalm 22:27-28 — He shall be the governor of the nations
+- [ ] #91 Psalm 22:31 — "It is finished"
+- [ ] #92 Psalm 23:1 — "I am the Good Shepherd"
+- [ ] #93 Psalm 24:3 — His exaltation predicted
+- [ ] #94 Psalm 30:3 — His resurrection predicted
+- [ ] #95 Psalm 31:5 — "Into Your hands I commit my spirit"
+- [ ] #96 Psalm 31:11 — His acquaintances fled from Him
+- [ ] #97 Psalm 31:13 — They took counsel to put Him to death
+- [ ] #98 Psalm 31:14-15 — "He trusted in God, let Him deliver him"
+- [ ] #99 Psalm 34:20 — Not a bone of Him broken
+- [ ] #100 Psalm 35:11 — False witnesses rose up against Him
+- [ ] #101 Psalm 35:19 — He was hated without a cause
+- [ ] #102 Psalm 38:11 — His friends stood afar off
+- [ ] #103 Psalm 38:12 — Enemies try to entangle Him by craft
+- [ ] #104 Psalm 38:12-13 — Silent before His accusers
+- [ ] #105 Psalm 38:20 — He went about doing good
+- [ ] #106 Psalm 40:2-5 — The joy of His resurrection predicted
+- [ ] #107 Psalm 40:6-8 — His delight-the will of the Father
+- [ ] #108 Psalm 40:9 — He was to preach the Righteousness in Israel
+- [ ] #109 Psalm 40:14 — Confronted by adversaries in the Garden
+- [ ] #110 Psalm 41:9 — Betrayed by a familiar friend
+- [ ] #111 Psalm 45:2 — Words of Grace come from His lips
+- [ ] #112 Psalm 45:6 — To own the title, God or Elohim
+- [ ] #113 Psalm 45:7 — A special anointing by the Holy Spirit
+- [ ] #114 Psalm 45:7-8 — Called the Christ (Messiah or Anointed)
+- [ ] #115 Psalm 45:17 — His name remembered forever
+- [ ] #116 Psalm 55:12-14 — Betrayed by a friend, not an enemy
+- [ ] #117 Psalm 55:15 — Unrepentant death of the Betrayer
+- [ ] #118 Psalm 68:18 — To give gifts to men
+- [ ] #119 Psalm 68:18 — Ascended into Heaven
+- [ ] #120 Psalm 69:4 — Hated without a cause
+- [ ] #121 Psalm 69:8 — A stranger to own brethren
+- [ ] #122 Psalm 69:9 — Zealous for the Lord's House
+- [ ] #123 Psalm 69:14-20 — Messiah's anguish of soul before crucifixion
+- [ ] #124 Psalm 69:20 — "My soul is exceeding sorrowful"
+- [ ] #125 Psalm 69:21 — Given vinegar in thirst
+- [ ] #126 Psalm 69:26 — The Savior given and smitten by God
+- [ ] #127 Psalm 72:10-11 — Great persons were to visit Him
+- [ ] #128 Psalm 72:16 — The corn of wheat to fall into the Ground
+- [ ] #129 Psalm 72:17 — Belief on His name will produce offspring
+- [ ] #130 Psalm 72:17 — All nations shall be blessed by Him
+- [ ] #131 Psalm 72:17 — All nations shall call Him blessed
+- [ ] #132 Psalm 78:1-2 — He would teach in parables
+- [ ] #133 Psalm 78:2b — To speak the Wisdom of God with authority
+- [ ] #134 Psalm 80:17 — The Man of God's right hand
+- [ ] #135 Psalm 88 — The Suffering and Reproach of Calvary
+- [ ] #136 Psalm 88:8 — They stood afar off and watched
+- [ ] #137 Psalm 89:27 — Firstborn
+- [ ] #138 Psalm 89:27 — Emmanuel to be higher than earthly kings
+- [ ] #139 Psalm 89:35-37 — David's Seed, throne, kingdom endure forever
+- [ ] #140 Psalm 89:36-37 — His character-Faithfulness
+- [ ] #141 Psalm 90:2 — He is from everlasting (Micah 5:2)
+- [ ] #142 Psalm 91:11-12 — Identified as Messianic, used to tempt Christ
+- [ ] #143 Psalm 97:9 — His exaltation predicted
+- [ ] #144 Psalm 100:5 — His character-Goodness
+- [ ] #145 Psalm 102:1-11 — The Suffering and Reproach of Calvary
+- [ ] #146 Psalm 102:25-27 — Messiah is the Preexistent Son
+- [ ] #147 Psalm 109:25 — Ridiculed
+- [ ] #148 Psalm 110:1 — Son of David
+- [ ] #149 Psalm 110:1 — To ascend to the right-hand of the Father
+- [ ] #150 Psalm 110:1 — David's son called Lord
+- [ ] #151 Psalm 110:4 — A priest after Melchizedek's order
+- [ ] #152 Psalm 112:4 — His character-Compassionate, Gracious, et al
+- [ ] #153 Psalm 118:17-18 — Messiah's Resurrection assured
+- [ ] #154 Psalm 118:22-23 — The rejected stone is Head of the corner
+- [ ] #155 Psalm 118:26a — The Blessed One presented to Israel
+- [ ] #156 Psalm 118:26b — To come while Temple standing
+- [ ] #157 Psalm 132:11 — The Seed of David (the fruit of His Body)
+- [ ] #158 Psalm 129:3 — He was scourged
+- [ ] #159 Psalm 138:1-6 — The supremacy of David's Seed amazes kings
+- [ ] #160 Psalm 147:3-6 — The earthly ministry of Christ described
+- [ ] #161 Proverbs 1:23 — He will send the Spirit of God
+- [ ] #162 Proverbs 8:23 — Foreordained from everlasting
+- [ ] #163 Song of Solomon 5:16 — The altogether lovely One
+- [ ] #164 Isaiah 2:3 — He shall teach all nations
+- [ ] #165 Isaiah 2:4 — He shall judge among the nations
+- [ ] #166 Isaiah 6:1 — When Isaiah saw His glory
+- [ ] #167 Isaiah 6:8 — The One Sent by God
+- [ ] #168 Isaiah 6:9-10 — Parables fall on deaf ears
+- [ ] #169 Isaiah 6:9-12 — Blinded to Christ and deaf to His words
+- [ ] #171 Isaiah 7:14 — To be Emmanuel-God with us
+- [ ] #172 Isaiah 8:8 — Called Emmanuel
+- [ ] #173 Isaiah 8:14 — A stone of stumbling, a Rock of offense
+- [ ] #174 Isaiah 9:1-2 — His ministry to begin in Galilee
+- [ ] #175 Isaiah 9:6 — A child born-Humanity
+- [ ] #176 Isaiah 9:6 — A Son given-Deity
+- [ ] #177 Isaiah 9:6 — Declared to be the Son of God with power
+- [ ] #178 Isaiah 9:6 — The Wonderful One, Peleh
+- [ ] #179 Isaiah 9:6 — The Counselor, Yaatz
+- [ ] #180 Isaiah 9:6 — The Mighty God, El Gibor
+- [ ] #181 Isaiah 9:6 — The Everlasting Father, Avi Adth
+- [ ] #182 Isaiah 9:6 — The Prince of Peace, Sar Shalom
+- [ ] #183 Isaiah 9:7 — To establish an everlasting kingdom
+- [ ] #184 Isaiah 9:7 — His Character-Just
+- [ ] #185 Isaiah 9:7 — No end to his Government, Throne, and Peace
+- [ ] #186 Isaiah 11:1 — Called a Nazarene-the Branch, Netzer
+- [ ] #187 Isaiah 11:1 — A rod out of Jesse-Son of Jesse
+- [ ] #188 Isaiah 11:2 — Anointed One by the Spirit
+- [ ] #189 Isaiah 11:2 — His Character-Wisdom, Knowledge, et al
+- [ ] #190 Isaiah 11:3 — He would know their thoughts
+- [ ] #191 Isaiah 11:4 — Judge in righteousness
+- [ ] #192 Isaiah 11:4 — Judges with the sword of His mouth
+- [ ] #193 Isaiah 11:5 — Character: Righteous & Faithful
+- [ ] #194 Isaiah 11:10 — The Gentiles seek Him
+- [ ] #195 Isaiah 12:2 — Called Jesus-Yeshua
+- [ ] #196 Isaiah 22:22 — The One given all authority to govern
+- [ ] #197 Isaiah 25:8 — The Resurrection predicted
+- [ ] #198 Isaiah 26:19 — His power of Resurrection predicted
+- [ ] #199 Isaiah 28:16 — The Messiah is the precious corner stone
+- [ ] #200 Isaiah 28:16 — The Sure Foundation
+- [ ] #201 Isaiah 29:13 — He indicated hypocritical obedience to His Word
+- [ ] #202 Isaiah 29:14 — The wise are confounded by the Word
+- [ ] #203 Isaiah 32:2 — A Refuge-A man shall be a hiding place
+- [ ] #204 Isaiah 35:4 — He will come and save you
+- [ ] #205 Isaiah 35:5-6 — To have a ministry of miracles
+- [ ] #206 Isaiah 40:3-4 — Preceded by forerunner
+- [ ] #207 Isaiah 40:9 — "Behold your God"
+- [ ] #208 Isaiah 40:10 — He will come to reward
+- [ ] #209 Isaiah 40:11 — A shepherd-compassionate life-giver
+- [ ] #210 Isaiah 42:1-4 — The Servant-as a faithful, patient redeemer
+- [ ] #211 Isaiah 42:2 — Meek and lowly
+- [ ] #212 Isaiah 42:3 — He brings hope for the hopeless
+- [ ] #213 Isaiah 42:4 — The nations shall wait on His teachings
+- [ ] #214 Isaiah 42:6 — The Light (salvation) of the Gentiles
+- [ ] #215 Isaiah 42:1-6 — His is a worldwide compassion
+- [ ] #216 Isaiah 42:7 — Blind eyes opened
+- [ ] #217 Isaiah 43:11 — He is the only Savior
+- [ ] #218 Isaiah 44:3 — He will send the Spirit of God
+- [ ] #219 Isaiah 45:21-25 — He is Lord and Savior
+- [ ] #220 Isaiah 45:23 — He will be the Judge
+- [ ] #221 Isaiah 46:9-10 — Declares things not yet done
+- [ ] #222 Isaiah 48:12 — The First and the Last
+- [ ] #223 Isaiah 48:16-17 — He came as a Teacher
+- [ ] #224 Isaiah 49:1 — Called from the womb-His humanity
+- [ ] #225 Isaiah 49:5 — A Servant from the womb
+- [ ] #226 Isaiah 49:6 — He will restore Israel
+- [ ] #227 Isaiah 49:6 — He is Salvation for Israel
+- [ ] #228 Isaiah 49:6 — He is the Light of the Gentiles
+- [ ] #229 Isaiah 49:6 — He is Salvation unto the ends of the earth
+- [ ] #230 Isaiah 49:7 — He is despised of the Nation
+- [ ] #231 Isaiah 50:3 — Heaven is clothed in black at His humiliation
+- [ ] #232 Isaiah 50:4 — He is a learned counselor for the weary
+- [ ] #233 Isaiah 50:5 — The Servant bound willingly to obedience
+- [ ] #234 Isaiah 50:6a — "I gave my back to those who struck Me"
+- [ ] #235 Isaiah 50:6b — He was smitten on the cheeks
+- [ ] #236 Isaiah 50:6c — He was spat upon
+- [ ] #237 Isaiah 52:7 — Published good tidings upon mountains
+- [ ] #238 Isaiah 52:13 — The Servant exalted
+- [ ] #239 Isaiah 52:14 — The Servant shockingly abused
+- [ ] #240 Isaiah 52:15 — Nations startled by message of the Servant
+- [ ] #241 Isaiah 52:15 — His blood shed sprinkles nations
+- [ ] #243 Isaiah 53:2 — Appearance of an ordinary man
+- [ ] #244 Isaiah 53:3a — Despised
+- [ ] #245 Isaiah 53:3b — Rejected
+- [ ] #246 Isaiah 53:3c — Great sorrow and grief
+- [ ] #247 Isaiah 53:3d — Men hide from being associated with Him
+- [ ] #248 Isaiah 53:4a — He would have a healing ministry
+- [ ] #249 Isaiah 53:4b — Thought to be cursed by God
+- [ ] #250 Isaiah 53:5a — Bears penalty for mankind's iniquities
+- [ ] #251 Isaiah 53:5b — His sacrifice provides peace between man and God
+- [ ] #252 Isaiah 53:5c — His sacrifice would heal man of sin
+- [ ] #253 Isaiah 53:6a — He would be the sin-bearer for all mankind
+- [ ] #254 Isaiah 53:6b — God's will that He bear sin for all mankind
+- [ ] #255 Isaiah 53:7a — Oppressed and afflicted
+- [ ] #256 Isaiah 53:7b — Silent before his accusers
+- [ ] #257 Isaiah 53:7c — Sacrificial lamb
+- [ ] #258 Isaiah 53:8a — Confined and persecuted
+- [ ] #259 Isaiah 53:8b — He would be judged
+- [ ] #260 Isaiah 53:8c — Killed
+- [ ] #261 Isaiah 53:8d — Dies for the sins of the world
+- [ ] #262 Isaiah 53:9a — Buried in a rich man's grave
+- [ ] #263 Isaiah 53:9b — Innocent and had done no violence
+- [ ] #264 Isaiah 53:9c — No deceit in his mouth
+- [ ] #265 Isaiah 53:10a — God's will that He die for mankind
+- [ ] #266 Isaiah 53:10b — An offering for sin
+- [ ] #267 Isaiah 53:10c — Resurrected and live forever
+- [ ] #268 Isaiah 53:10d — He would prosper
+- [ ] #269 Isaiah 53:11a — God fully satisfied with His suffering
+- [ ] #270 Isaiah 53:11b — God's servant would justify man
+- [ ] #271 Isaiah 53:11c — The sin-bearer for all mankind
+- [ ] #272 Isaiah 53:12a — Exalted by God because of his sacrifice
+- [ ] #273 Isaiah 53:12b — He would give up his life to save mankind
+- [ ] #274 Isaiah 53:12c — Numbered with the transgressors
+- [ ] #275 Isaiah 53:12d — Sin-bearer for all mankind
+- [ ] #276 Isaiah 53:12e — Intercede to God in behalf of mankind
+- [ ] #277 Isaiah 55:3 — Resurrected by God
+- [ ] #278 Isaiah 55:4a — A witness
+- [ ] #279 Isaiah 55:4b — He is a leader and commander
+- [ ] #280 Isaiah 55:5 — God would glorify Him
+- [ ] #281 Isaiah 59:16a — Intercessor between man and God
+- [ ] #282 Isaiah 59:16b — He would come to provide salvation
+- [ ] #283 Isaiah 59:20 — He would come to Zion as their Redeemer
+- [ ] #284 Isaiah 60:1-3 — He would show light to the Gentiles
+- [ ] #285 Isaiah 61:1a — The Spirit of God upon him
+- [ ] #286 Isaiah 61:1b — The Messiah would preach the good news
+- [ ] #287 Isaiah 61:1c — Provide freedom from the bondage of sin
+- [ ] #288 Isaiah 61:1-2a — Proclaim a period of grace
+- [ ] #289 Jeremiah 23:5-6 — Descendant of David
+- [ ] #290 Jeremiah 23:5-6 — The Messiah would be both God and Man
+- [ ] #291 Jeremiah 31:22 — Born of a virgin
+- [ ] #292 Jeremiah 31:31 — The Messiah would be the new covenant
+- [ ] #293 Jeremiah 33:14-15 — Descendant of David
+- [ ] #294 Ezekiel 34:23-24 — Descendant of David
+- [ ] #295 Ezekiel 37:24-25 — Descendant of David
+- [ ] #296 Daniel 2:44-45 — The Stone that shall break the kingdoms
+- [ ] #297 Daniel 7:13-14a — He would ascend into heaven
+- [ ] #298 Daniel 7:13-14b — Highly exalted
+- [ ] #299 Daniel 7:13-14c — His dominion would be everlasting
+- [ ] #301 Daniel 9:24a — To make reconciliation for iniquity
+- [ ] #302 Daniel 9:24b — He would be holy
+- [ ] #303 Daniel 9:25 — His announcement
+- [ ] #304 Daniel 9:26a — Cut off
+- [ ] #305 Daniel 9:26b — Die for the sins of the world
+- [ ] #306 Daniel 9:26c — Killed before the destruction of the temple
+- [ ] #307 Daniel 10:5-6 — Messiah in a glorified state
+- [ ] #308 Hosea 11:1 — He would be called out of Egypt
+- [ ] #309 Hosea 13:14 — He would defeat death
+- [ ] #310 Joel 2:32 — Offer salvation to all mankind
+- [ ] #311 Jonah 1:17 — Death and resurrection of Christ
+- [ ] #313 Micah 5:2b — Ruler in Israel
+- [ ] #314 Micah 5:2c — From everlasting
+- [ ] #315 Haggai 2:6-9 — He would visit the second Temple
+- [ ] #316 Haggai 2:23 — Descendant of Zerubbabel
+- [ ] #317 Zechariah 3:8 — God's servant
+- [ ] #318 Zechariah 6:12-13 — Priest and King
+- [ ] #319 Zechariah 9:9a — Greeted with rejoicing in Jerusalem
+- [ ] #320 Zechariah 9:9b — Beheld as King
+- [ ] #321 Zechariah 9:9c — The Messiah would be just
+- [ ] #322 Zechariah 9:9d — The Messiah would bring salvation
+- [ ] #323 Zechariah 9:9e — The Messiah would be humble
+- [ ] #324 Zechariah 9:9f — Presented to Jerusalem riding on a donkey
+- [ ] #325 Zechariah 10:4 — The cornerstone
+- [ ] #327 Zechariah 11:4-6b — Rejection causes God to remove His protection
+- [ ] #328 Zechariah 11:4-6c — Rejected in favor of another king
+- [ ] #329 Zechariah 11:7 — Ministry to "poor," the believing remnant
+- [ ] #330 Zechariah 11:8a — Unbelief forces Messiah to reject them
+- [ ] #331 Zechariah 11:8b — Despised
+- [ ] #332 Zechariah 11:9 — Stops ministering to those who rejected Him
+- [ ] #333 Zechariah 11:10-11a — Rejection causes God to remove protection
+- [ ] #334 Zechariah 11:10-11b — The Messiah would be God
+- [ ] #335 Zechariah 11:12-13a — Betrayed for thirty pieces of silver
+- [ ] #336 Zechariah 11:12-13b — Rejected
+- [ ] #337 Zechariah 11:12-13c — Thirty pieces of silver cast in the house of the Lord
+- [ ] #338 Zechariah 11:12-13d — The Messiah would be God
+- [ ] #339 Zechariah 12:10a — The Messiah's body would be pierced
+- [ ] #340 Zechariah 12:10b — The Messiah would be both God and man
+- [ ] #341 Zechariah 12:10c — The Messiah would be rejected
+- [ ] #342 Zechariah 13:7a — God's will He die for mankind
+- [ ] #343 Zechariah 13:7b — A violent death
+- [ ] #344 Zechariah 13:7c — Both God and man
+- [ ] #345 Zechariah 13:7d — Israel scattered as a result of rejecting Him
+- [ ] #346 Zechariah 14:4 — He would return to the Mt. of Olives
+- [ ] #347 Malachi 3:1a — Messenger to prepare the way for Messiah
+- [ ] #348 Malachi 3:1b — Sudden appearance at the temple
+- [ ] #349 Malachi 3:1c — Messenger of the new covenant
+- [ ] #350 Malachi 4:5 — Forerunner in spirit of Elijah
+- [ ] #351 Malachi 4:6 — Forerunner would turn many to righteousness
 
 ## Completed
 - [ ]

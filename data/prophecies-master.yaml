@@ -1,242 +1,3158 @@
-- number: null
-  title: "2 Samuel 7"
-  slug: "2-samuel-7"
-  ot_reference: "2 Samuel 7"
-  claim_summary: ""
-  nt_fulfillment: ""
-  skeptic_failed_criteria: ""
-  status: "not started"
-
-- number: null
-  title: "Daniel 7"
-  slug: "daniel-7"
-  ot_reference: "Daniel 7"
-  claim_summary: ""
-  nt_fulfillment: ""
-  skeptic_failed_criteria: ""
-  status: "not started"
-
-- number: null
-  title: "Daniel 9"
-  slug: "daniel-9"
-  ot_reference: "Daniel 9"
-  claim_summary: "Coming and death of the Messiah on a specific timeline"
-  nt_fulfillment: ""
-  skeptic_failed_criteria: ""
-  status: "in progress"
-
-- number: null
-  title: "Exodus 12"
-  slug: "exodus-12"
-  ot_reference: "Exodus 12"
-  claim_summary: ""
-  nt_fulfillment: ""
-  skeptic_failed_criteria: ""
-  status: "not started"
-
-- number: null
-  title: "Ezekiel 34"
-  slug: "ezekiel-34"
-  ot_reference: "Ezekiel 34"
-  claim_summary: ""
-  nt_fulfillment: ""
-  skeptic_failed_criteria: ""
-  status: "not started"
-
-- number: null
-  title: "Genesis 3:15"
+- number: 1
+  title: "Genesis 3:15 — Seed of a woman (virgin birth)"
   slug: "genesis-3-15"
   ot_reference: "Genesis 3:15"
-  claim_summary: "Defeat of evil through the offspring of the woman"
-  nt_fulfillment: ""
+  claim_summary: "Seed of a woman (virgin birth)"
+  nt_fulfillment: "Gal 4:4-5; Matt 1:18"
   skeptic_failed_criteria: ""
   status: "in progress"
 
-- number: null
-  title: "Genesis 22:8"
+- number: 2
+  title: "Genesis 3:15 — He will bruise Satan's head"
+  slug: "genesis-3-15-2"
+  ot_reference: "Genesis 3:15"
+  claim_summary: "He will bruise Satan's head"
+  nt_fulfillment: "Heb 2:14; 1 John 3:8"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 3
+  title: "Genesis 5:24 — The bodily ascension to heaven illustrated"
+  slug: "genesis-5-24-3"
+  ot_reference: "Genesis 5:24"
+  claim_summary: "The bodily ascension to heaven illustrated"
+  nt_fulfillment: "Mark 16:19"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 4
+  title: "Genesis 9:26-27 — The God of Shem will be the Son of Shem"
+  slug: "genesis-9-26-27-4"
+  ot_reference: "Genesis 9:26-27"
+  claim_summary: "The God of Shem will be the Son of Shem"
+  nt_fulfillment: "Luke 3:36"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 5
+  title: "Genesis 12:3 — Seed of Abraham will bless all nations"
+  slug: "genesis-12-3-5"
+  ot_reference: "Genesis 12:3"
+  claim_summary: "Seed of Abraham will bless all nations"
+  nt_fulfillment: "Gal 3:8; Acts 3:25-26"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 6
+  title: "Genesis 12:7 — The Promise made to Abraham's Seed"
+  slug: "genesis-12-7-6"
+  ot_reference: "Genesis 12:7"
+  claim_summary: "The Promise made to Abraham's Seed"
+  nt_fulfillment: "Gal 3:16"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 7
+  title: "Genesis 14:18 — A priest after the order of Melchizedek"
+  slug: "genesis-14-18-7"
+  ot_reference: "Genesis 14:18"
+  claim_summary: "A priest after the order of Melchizedek"
+  nt_fulfillment: "Heb 6:20"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 8
+  title: "Genesis 14:18 — King of Peace and Righteousness"
+  slug: "genesis-14-18-8"
+  ot_reference: "Genesis 14:18"
+  claim_summary: "King of Peace and Righteousness"
+  nt_fulfillment: "Heb 7:2"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 9
+  title: "Genesis 14:18 — The Last Supper foreshadowed"
+  slug: "genesis-14-18-9"
+  ot_reference: "Genesis 14:18"
+  claim_summary: "The Last Supper foreshadowed"
+  nt_fulfillment: "Matt 26:26-29"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 10
+  title: "Genesis 17:19 — Seed of Isaac (Gen 21:12)"
+  slug: "genesis-17-19-10"
+  ot_reference: "Genesis 17:19"
+  claim_summary: "Seed of Isaac (Gen 21:12)"
+  nt_fulfillment: "Rom 9:7"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 11
+  title: "Genesis 22:8 — The Lamb of God promised"
   slug: "genesis-22-8"
   ot_reference: "Genesis 22:8"
-  claim_summary: ""
-  nt_fulfillment: ""
+  claim_summary: "The Lamb of God promised"
+  nt_fulfillment: "John 1:29"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 12
+  title: "Genesis 22:18 — As Isaac's seed, will bless all nations"
+  slug: "genesis-22-18-12"
+  ot_reference: "Genesis 22:18"
+  claim_summary: "As Isaac's seed, will bless all nations"
+  nt_fulfillment: "Gal 3:16"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 13
+  title: "Genesis 26:2-5 — The Seed of Isaac promised as the Redeemer"
+  slug: "genesis-26-2-5-13"
+  ot_reference: "Genesis 26:2-5"
+  claim_summary: "The Seed of Isaac promised as the Redeemer"
+  nt_fulfillment: "Heb 11:18"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 14
+  title: "Genesis 28:12 — The Bridge to heaven"
+  slug: "genesis-28-12-14"
+  ot_reference: "Genesis 28:12"
+  claim_summary: "The Bridge to heaven"
+  nt_fulfillment: "John 1:51"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 15
+  title: "Genesis 28:14 — The Seed of Jacob"
+  slug: "genesis-28-14-15"
+  ot_reference: "Genesis 28:14"
+  claim_summary: "The Seed of Jacob"
+  nt_fulfillment: "Luke 3:34"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 16
+  title: "Genesis 49:10 — The time of His coming"
+  slug: "genesis-49-10-16"
+  ot_reference: "Genesis 49:10"
+  claim_summary: "The time of His coming"
+  nt_fulfillment: "Luke 2:1-7; Gal 4:4"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 17
+  title: "Genesis 49:10 — The Seed of Judah"
+  slug: "genesis-49-10-17"
+  ot_reference: "Genesis 49:10"
+  claim_summary: "The Seed of Judah"
+  nt_fulfillment: "Luke 3:33"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 18
+  title: "Genesis 49:10 — Called Shiloh or One Sent"
+  slug: "genesis-49-10-18"
+  ot_reference: "Genesis 49:10"
+  claim_summary: "Called Shiloh or One Sent"
+  nt_fulfillment: "John 17:3"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 19
+  title: "Genesis 49:10 — Messiah to come before Judah lost identity"
+  slug: "genesis-49-10-19"
+  ot_reference: "Genesis 49:10"
+  claim_summary: "Messiah to come before Judah lost identity"
+  nt_fulfillment: "John 11:47-52"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 20
+  title: "Genesis 49:10 — Unto Him shall the obedience of the people be"
+  slug: "genesis-49-10-20"
+  ot_reference: "Genesis 49:10"
+  claim_summary: "Unto Him shall the obedience of the people be"
+  nt_fulfillment: "John 10:16"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 21
+  title: "Exodus 3:13-15 — The Great \"I AM\""
+  slug: "exodus-3-13-15-21"
+  ot_reference: "Exodus 3:13-15"
+  claim_summary: "The Great \"I AM\""
+  nt_fulfillment: "John 4:26; 8:58"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 22
+  title: "Exodus 12:5 — A Lamb without blemish"
+  slug: "exodus-12"
+  ot_reference: "Exodus 12:5"
+  claim_summary: "A Lamb without blemish"
+  nt_fulfillment: "Heb 9:14; 1 Pet 1:19"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 23
+  title: "Exodus 12:13 — The blood of the Lamb saves from wrath"
+  slug: "exodus-12-13-23"
+  ot_reference: "Exodus 12:13"
+  claim_summary: "The blood of the Lamb saves from wrath"
+  nt_fulfillment: "Rom 5:8"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 24
+  title: "Exodus 12:21-27 — Christ is our Passover"
+  slug: "exodus-12-21-27-24"
+  ot_reference: "Exodus 12:21-27"
+  claim_summary: "Christ is our Passover"
+  nt_fulfillment: "1 Cor 5:7"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 25
+  title: "Exodus 12:46 — Not a bone of the Lamb to be broken"
+  slug: "exodus-12-46-25"
+  ot_reference: "Exodus 12:46"
+  claim_summary: "Not a bone of the Lamb to be broken"
+  nt_fulfillment: "John 19:31-36"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 26
+  title: "Exodus 15:2 — His exaltation predicted as Yeshua"
+  slug: "exodus-15-2-26"
+  ot_reference: "Exodus 15:2"
+  claim_summary: "His exaltation predicted as Yeshua"
+  nt_fulfillment: "Acts 7:55-56"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 27
+  title: "Exodus 15:11 — His Character-Holiness"
+  slug: "exodus-15-11-27"
+  ot_reference: "Exodus 15:11"
+  claim_summary: "His Character-Holiness"
+  nt_fulfillment: "Luke 1:35; Acts 4:27"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 28
+  title: "Exodus 17:6 — The Spiritual Rock of Israel"
+  slug: "exodus-17-6-28"
+  ot_reference: "Exodus 17:6"
+  claim_summary: "The Spiritual Rock of Israel"
+  nt_fulfillment: "1 Cor 10:4"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 29
+  title: "Exodus 33:19 — His Character-Merciful"
+  slug: "exodus-33-19-29"
+  ot_reference: "Exodus 33:19"
+  claim_summary: "His Character-Merciful"
+  nt_fulfillment: "Luke 1:72"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 30
+  title: "Leviticus 1:2-9 — His sacrifice a sweet smelling savor unto God"
+  slug: "leviticus-1-2-9-30"
+  ot_reference: "Leviticus 1:2-9"
+  claim_summary: "His sacrifice a sweet smelling savor unto God"
+  nt_fulfillment: "Eph 5:2"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 31
+  title: "Leviticus 14:11 — The leper cleansed-Sign to priesthood"
+  slug: "leviticus-14-11-31"
+  ot_reference: "Leviticus 14:11"
+  claim_summary: "The leper cleansed-Sign to priesthood"
+  nt_fulfillment: "Luke 5:12-14; Acts 6:7"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 32
+  title: "Leviticus 16:15-17 — Prefigures Christ's once-for-all death"
+  slug: "leviticus-16-15-17-32"
+  ot_reference: "Leviticus 16:15-17"
+  claim_summary: "Prefigures Christ's once-for-all death"
+  nt_fulfillment: "Heb 9:7-14"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 33
+  title: "Leviticus 16:27 — Suffering outside the Camp"
+  slug: "leviticus-16-27-33"
+  ot_reference: "Leviticus 16:27"
+  claim_summary: "Suffering outside the Camp"
+  nt_fulfillment: "Matt 27:33; Heb. 13:11-12"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 34
+  title: "Leviticus 17:11 — The Blood-the life of the flesh"
+  slug: "leviticus-17-11-34"
+  ot_reference: "Leviticus 17:11"
+  claim_summary: "The Blood-the life of the flesh"
+  nt_fulfillment: "Matt 26:28; Mark 10:45"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 35
+  title: "Leviticus 17:11 — It is the blood that makes atonement"
+  slug: "leviticus-17-11-35"
+  ot_reference: "Leviticus 17:11"
+  claim_summary: "It is the blood that makes atonement"
+  nt_fulfillment: "Rom. 3:23-24; 1 John 1:7"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 36
+  title: "Leviticus 23:36-37 — The Drink-offering: \"If any man thirst\""
+  slug: "leviticus-23-36-37-36"
+  ot_reference: "Leviticus 23:36-37"
+  claim_summary: "The Drink-offering: \"If any man thirst\""
+  nt_fulfillment: "John 7:37"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 37
+  title: "Numbers 9:12 — Not a bone of Him broken"
+  slug: "numbers-9-12-37"
+  ot_reference: "Numbers 9:12"
+  claim_summary: "Not a bone of Him broken"
+  nt_fulfillment: "John 19:31-36"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 38
+  title: "Numbers 21:9 — The serpent on a pole-Christ lifted up"
+  slug: "numbers-21-9-38"
+  ot_reference: "Numbers 21:9"
+  claim_summary: "The serpent on a pole-Christ lifted up"
+  nt_fulfillment: "John 3:14-18; 12:32"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 39
+  title: "Numbers 24:17 — Time: \"I shall see him, but not now.\""
+  slug: "numbers-24-17-39"
+  ot_reference: "Numbers 24:17"
+  claim_summary: "Time: \"I shall see him, but not now.\""
+  nt_fulfillment: "John 1:14; Gal 4:4"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 40
+  title: "Deuteronomy 18:15 — \"This is of a truth that prophet\""
+  slug: "deuteronomy-18-15-40"
+  ot_reference: "Deuteronomy 18:15"
+  claim_summary: "\"This is of a truth that prophet\""
+  nt_fulfillment: "John 6:14"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 41
+  title: "Deuteronomy 18:15-16 — \"Had you believed Moses, you would believe me.\""
+  slug: "deuteronomy-18-15-16-41"
+  ot_reference: "Deuteronomy 18:15-16"
+  claim_summary: "\"Had you believed Moses, you would believe me.\""
+  nt_fulfillment: "John 5:45-47"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 42
+  title: "Deuteronomy 18:18 — Sent by the Father to speak His word"
+  slug: "deuteronomy-18-18-42"
+  ot_reference: "Deuteronomy 18:18"
+  claim_summary: "Sent by the Father to speak His word"
+  nt_fulfillment: "John 8:28-29"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 43
+  title: "Deuteronomy 18:19 — Whoever will not hear must bear his sin"
+  slug: "deuteronomy-18-19-43"
+  ot_reference: "Deuteronomy 18:19"
+  claim_summary: "Whoever will not hear must bear his sin"
+  nt_fulfillment: "Acts 3:22-23"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 44
+  title: "Deuteronomy 21:23 — Cursed is he that hangs on a tree"
+  slug: "deuteronomy-21-23-44"
+  ot_reference: "Deuteronomy 21:23"
+  claim_summary: "Cursed is he that hangs on a tree"
+  nt_fulfillment: "Gal 3:10-13"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 45
+  title: "Joshua 5:14-15 — The Captain of our salvation"
+  slug: "joshua-5-14-15-45"
+  ot_reference: "Joshua 5:14-15"
+  claim_summary: "The Captain of our salvation"
+  nt_fulfillment: "Heb 2:10"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 46
+  title: "Ruth 4:4-10 — Christ, our kinsman, has redeemed us"
+  slug: "ruth-4-4-10-46"
+  ot_reference: "Ruth 4:4-10"
+  claim_summary: "Christ, our kinsman, has redeemed us"
+  nt_fulfillment: "Eph 1:3-7"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 47
+  title: "1 Samuel 2:35 — A Faithful Priest"
+  slug: "1-samuel-2-35-47"
+  ot_reference: "1 Samuel 2:35"
+  claim_summary: "A Faithful Priest"
+  nt_fulfillment: "Heb. 2:17; 3:1-3, 6; 7:24-25"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 48
+  title: "1 Samuel 2:10 — Shall be an anointed King to the Lord"
+  slug: "1-samuel-2-10-48"
+  ot_reference: "1 Samuel 2:10"
+  claim_summary: "Shall be an anointed King to the Lord"
+  nt_fulfillment: "Matt 28:18; John 12:15"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 49
+  title: "2 Samuel 7:12 — David's Seed"
+  slug: "2-samuel-7"
+  ot_reference: "2 Samuel 7:12"
+  claim_summary: "David's Seed"
+  nt_fulfillment: "Matt 1:1"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 50
+  title: "2 Samuel 7:13 — His Kingdom is everlasting"
+  slug: "2-samuel-7-13-50"
+  ot_reference: "2 Samuel 7:13"
+  claim_summary: "His Kingdom is everlasting"
+  nt_fulfillment: "2 Pet 1:11"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 51
+  title: "2 Samuel 7:14a — The Son of God"
+  slug: "2-samuel-7-14-51"
+  ot_reference: "2 Samuel 7:14a"
+  claim_summary: "The Son of God"
+  nt_fulfillment: "Luke 1:32; Rom 1:3-4"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 52
+  title: "2 Samuel 7:16 — David's house established forever"
+  slug: "2-samuel-7-16-52"
+  ot_reference: "2 Samuel 7:16"
+  claim_summary: "David's house established forever"
+  nt_fulfillment: "Luke 3:31; Rev 22:16"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 53
+  title: "2 Kings 2:11 — The bodily ascension to heaven illustrated"
+  slug: "2-kings-2-11-53"
+  ot_reference: "2 Kings 2:11"
+  claim_summary: "The bodily ascension to heaven illustrated"
+  nt_fulfillment: "Luke 24:51"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 54
+  title: "1 Chronicles 17:11 — David's Seed"
+  slug: "1-chronicles-17-11-54"
+  ot_reference: "1 Chronicles 17:11"
+  claim_summary: "David's Seed"
+  nt_fulfillment: "Matt 1:1; 9:27"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 55
+  title: "1 Chronicles 17:12-13 — To reign on David's throne forever"
+  slug: "1-chronicles-17-12-13-55"
+  ot_reference: "1 Chronicles 17:12-13"
+  claim_summary: "To reign on David's throne forever"
+  nt_fulfillment: "Luke 1:32-33"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 56
+  title: "1 Chronicles 17:13 — \"I will be His Father, He...my Son.\""
+  slug: "1-chronicles-17-13-56"
+  ot_reference: "1 Chronicles 17:13"
+  claim_summary: "\"I will be His Father, He...my Son.\""
+  nt_fulfillment: "Heb 1:5"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 57
+  title: "Job 9:32-33 — Mediator between man and God"
+  slug: "job-9-32-33-57"
+  ot_reference: "Job 9:32-33"
+  claim_summary: "Mediator between man and God"
+  nt_fulfillment: "1 Tim 2:5"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 58
+  title: "Job 19:23-27 — The Resurrection predicted"
+  slug: "job-19-23-27-58"
+  ot_reference: "Job 19:23-27"
+  claim_summary: "The Resurrection predicted"
+  nt_fulfillment: "John 5:24-29"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 59
+  title: "Psalm 2:1-3 — The enmity of kings foreordained"
+  slug: "psalm-2"
+  ot_reference: "Psalm 2:1-3"
+  claim_summary: "The enmity of kings foreordained"
+  nt_fulfillment: "Acts 4:25-28"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 60
+  title: "Psalm 2:2 — To own the title, Anointed (Christ)"
+  slug: "psalm-2-2-60"
+  ot_reference: "Psalm 2:2"
+  claim_summary: "To own the title, Anointed (Christ)"
+  nt_fulfillment: "John 1:41; Acts 2:36"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 61
+  title: "Psalm 2:6 — His Character-Holiness"
+  slug: "psalm-2-6-61"
+  ot_reference: "Psalm 2:6"
+  claim_summary: "His Character-Holiness"
+  nt_fulfillment: "John 8:46; Rev 3:7"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 62
+  title: "Psalm 2:6 — To own the title King"
+  slug: "psalm-2-6-62"
+  ot_reference: "Psalm 2:6"
+  claim_summary: "To own the title King"
+  nt_fulfillment: "Matt 2:2"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 63
+  title: "Psalm 2:7 — Declared the Beloved Son"
+  slug: "psalm-2-7-63"
+  ot_reference: "Psalm 2:7"
+  claim_summary: "Declared the Beloved Son"
+  nt_fulfillment: "Matt 3:17; Rom 1:4"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 64
+  title: "Psalm 2:7-8 — The Crucifixion and Resurrection intimated"
+  slug: "psalm-2-7-8-64"
+  ot_reference: "Psalm 2:7-8"
+  claim_summary: "The Crucifixion and Resurrection intimated"
+  nt_fulfillment: "Acts 13:29-33"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 65
+  title: "Psalm 2:8-9 — Rule the nations with a rod of iron"
+  slug: "psalm-2-8-9-65"
+  ot_reference: "Psalm 2:8-9"
+  claim_summary: "Rule the nations with a rod of iron"
+  nt_fulfillment: "Rev 2:27; 12:5; 19:15"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 66
+  title: "Psalm 2:12 — Life comes through faith in Him"
+  slug: "psalm-2-12-66"
+  ot_reference: "Psalm 2:12"
+  claim_summary: "Life comes through faith in Him"
+  nt_fulfillment: "John 20:31"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 67
+  title: "Psalm 8:2 — The mouths of babes perfect His praise"
+  slug: "psalm-8-2-67"
+  ot_reference: "Psalm 8:2"
+  claim_summary: "The mouths of babes perfect His praise"
+  nt_fulfillment: "Matt 21:16"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 68
+  title: "Psalm 8:5-6 — His humiliation and exaltation"
+  slug: "psalm-8-5-6-68"
+  ot_reference: "Psalm 8:5-6"
+  claim_summary: "His humiliation and exaltation"
+  nt_fulfillment: "Heb 2:5-9"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 69
+  title: "Psalm 9:7-10 — Judge the world in righteousness"
+  slug: "psalm-9-7-10-69"
+  ot_reference: "Psalm 9:7-10"
+  claim_summary: "Judge the world in righteousness"
+  nt_fulfillment: "Acts 17:31"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 70
+  title: "Psalm 16:10 — Was not to see corruption"
+  slug: "psalm-16"
+  ot_reference: "Psalm 16:10"
+  claim_summary: "Was not to see corruption"
+  nt_fulfillment: "Acts 2:31; 13:35"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 71
+  title: "Psalm 16:9-11 — Was to arise from the dead"
+  slug: "psalm-16-9-11-71"
+  ot_reference: "Psalm 16:9-11"
+  claim_summary: "Was to arise from the dead"
+  nt_fulfillment: "John 20:9"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 72
+  title: "Psalm 17:15 — The resurrection predicted"
+  slug: "psalm-17-15-72"
+  ot_reference: "Psalm 17:15"
+  claim_summary: "The resurrection predicted"
+  nt_fulfillment: "Luke 24:6"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 73
+  title: "Psalm 18:2-3 — The horn of salvation"
+  slug: "psalm-18-2-3-73"
+  ot_reference: "Psalm 18:2-3"
+  claim_summary: "The horn of salvation"
+  nt_fulfillment: "Luke 1:69-71"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 74
+  title: "Psalm 22:1 — Forsaken because of sins of others"
+  slug: "psalm-22"
+  ot_reference: "Psalm 22:1"
+  claim_summary: "Forsaken because of sins of others"
+  nt_fulfillment: "2 Cor 5:21"
+  skeptic_failed_criteria: ""
+  status: "in progress"
+
+- number: 75
+  title: "Psalm 22:1 — \"My God, my God, why have You forsaken me?\""
+  slug: "psalm-22-1-75"
+  ot_reference: "Psalm 22:1"
+  claim_summary: "\"My God, my God, why have You forsaken me?\""
+  nt_fulfillment: "Matt 27:46"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 76
+  title: "Psalm 22:2 — Darkness upon Calvary for three hours"
+  slug: "psalm-22-2-76"
+  ot_reference: "Psalm 22:2"
+  claim_summary: "Darkness upon Calvary for three hours"
+  nt_fulfillment: "Matt 27:45"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 77
+  title: "Psalm 22:7 — They shoot out the lip and shake the head"
+  slug: "psalm-22-7-77"
+  ot_reference: "Psalm 22:7"
+  claim_summary: "They shoot out the lip and shake the head"
+  nt_fulfillment: "Matt 27:39-44"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 78
+  title: "Psalm 22:8 — \"He trusted in God, let Him deliver Him\""
+  slug: "psalm-22-8-78"
+  ot_reference: "Psalm 22:8"
+  claim_summary: "\"He trusted in God, let Him deliver Him\""
+  nt_fulfillment: "Matt 27:43"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 79
+  title: "Psalm 22:9-10 — Born the Savior"
+  slug: "psalm-22-9-10-79"
+  ot_reference: "Psalm 22:9-10"
+  claim_summary: "Born the Savior"
+  nt_fulfillment: "Luke 2:7"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 80
+  title: "Psalm 22:12-13 — They seek His death"
+  slug: "psalm-22-12-13-80"
+  ot_reference: "Psalm 22:12-13"
+  claim_summary: "They seek His death"
+  nt_fulfillment: "John 19:6"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 81
+  title: "Psalm 22:14 — His blood poured out when they pierced His side"
+  slug: "psalm-22-14-81"
+  ot_reference: "Psalm 22:14"
+  claim_summary: "His blood poured out when they pierced His side"
+  nt_fulfillment: "John 19:34"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 82
+  title: "Psalm 22:14-15 — Suffered agony on Calvary"
+  slug: "psalm-22-14-15-82"
+  ot_reference: "Psalm 22:14-15"
+  claim_summary: "Suffered agony on Calvary"
+  nt_fulfillment: "Mark 15:34-37"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 83
+  title: "Psalm 22:15 — He thirsted"
+  slug: "psalm-22-15-83"
+  ot_reference: "Psalm 22:15"
+  claim_summary: "He thirsted"
+  nt_fulfillment: "John 19:28"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 84
+  title: "Psalm 22:16 — They pierced His hands and His feet"
+  slug: "psalm-22-16-84"
+  ot_reference: "Psalm 22:16"
+  claim_summary: "They pierced His hands and His feet"
+  nt_fulfillment: "John 19:34-37; 20:27"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 85
+  title: "Psalm 22:17-18 — Stripped Him before the stares of men"
+  slug: "psalm-22-17-18-85"
+  ot_reference: "Psalm 22:17-18"
+  claim_summary: "Stripped Him before the stares of men"
+  nt_fulfillment: "Luke 23:34-35"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 86
+  title: "Psalm 22:18 — They parted His garments"
+  slug: "psalm-22-18-86"
+  ot_reference: "Psalm 22:18"
+  claim_summary: "They parted His garments"
+  nt_fulfillment: "John 19:23-24"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 87
+  title: "Psalm 22:20-21 — He committed Himself to God"
+  slug: "psalm-22-20-21-87"
+  ot_reference: "Psalm 22:20-21"
+  claim_summary: "He committed Himself to God"
+  nt_fulfillment: "Luke 23:46"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 88
+  title: "Psalm 22:20-21 — Satanic power bruising the Redeemer's heel"
+  slug: "psalm-22-20-21-88"
+  ot_reference: "Psalm 22:20-21"
+  claim_summary: "Satanic power bruising the Redeemer's heel"
+  nt_fulfillment: "Heb 2:14"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 89
+  title: "Psalm 22:22 — His Resurrection declared"
+  slug: "psalm-22-22-89"
+  ot_reference: "Psalm 22:22"
+  claim_summary: "His Resurrection declared"
+  nt_fulfillment: "John 20:17"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 90
+  title: "Psalm 22:27-28 — He shall be the governor of the nations"
+  slug: "psalm-22-27-28-90"
+  ot_reference: "Psalm 22:27-28"
+  claim_summary: "He shall be the governor of the nations"
+  nt_fulfillment: "Col 1:16"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 91
+  title: "Psalm 22:31 — \"It is finished\""
+  slug: "psalm-22-31-91"
+  ot_reference: "Psalm 22:31"
+  claim_summary: "\"It is finished\""
+  nt_fulfillment: "John 19:30; Heb 10:10-12, 14, 18"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 92
+  title: "Psalm 23:1 — \"I am the Good Shepherd\""
+  slug: "psalm-23-1-92"
+  ot_reference: "Psalm 23:1"
+  claim_summary: "\"I am the Good Shepherd\""
+  nt_fulfillment: "John 10:11; 1 Pet 2:25"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 93
+  title: "Psalm 24:3 — His exaltation predicted"
+  slug: "psalm-24-3-93"
+  ot_reference: "Psalm 24:3"
+  claim_summary: "His exaltation predicted"
+  nt_fulfillment: "Acts 1:11; Phil 2:9"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 94
+  title: "Psalm 30:3 — His resurrection predicted"
+  slug: "psalm-30-3-94"
+  ot_reference: "Psalm 30:3"
+  claim_summary: "His resurrection predicted"
+  nt_fulfillment: "Acts 2:32"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 95
+  title: "Psalm 31:5 — \"Into Your hands I commit my spirit\""
+  slug: "psalm-31-5-95"
+  ot_reference: "Psalm 31:5"
+  claim_summary: "\"Into Your hands I commit my spirit\""
+  nt_fulfillment: "Luke 23:46"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 96
+  title: "Psalm 31:11 — His acquaintances fled from Him"
+  slug: "psalm-31-11-96"
+  ot_reference: "Psalm 31:11"
+  claim_summary: "His acquaintances fled from Him"
+  nt_fulfillment: "Mark 14:50"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 97
+  title: "Psalm 31:13 — They took counsel to put Him to death"
+  slug: "psalm-31-13-97"
+  ot_reference: "Psalm 31:13"
+  claim_summary: "They took counsel to put Him to death"
+  nt_fulfillment: "Matt 27:1; John 11:53"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 98
+  title: "Psalm 31:14-15 — \"He trusted in God, let Him deliver him\""
+  slug: "psalm-31-14-15-98"
+  ot_reference: "Psalm 31:14-15"
+  claim_summary: "\"He trusted in God, let Him deliver him\""
+  nt_fulfillment: "Matt 27:43"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 99
+  title: "Psalm 34:20 — Not a bone of Him broken"
+  slug: "psalm-34-20-99"
+  ot_reference: "Psalm 34:20"
+  claim_summary: "Not a bone of Him broken"
+  nt_fulfillment: "John 19:31-36"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 100
+  title: "Psalm 35:11 — False witnesses rose up against Him"
+  slug: "psalm-35-11-100"
+  ot_reference: "Psalm 35:11"
+  claim_summary: "False witnesses rose up against Him"
+  nt_fulfillment: "Matt 26:59"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 101
+  title: "Psalm 35:19 — He was hated without a cause"
+  slug: "psalm-35-19-101"
+  ot_reference: "Psalm 35:19"
+  claim_summary: "He was hated without a cause"
+  nt_fulfillment: "John 15:25"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 102
+  title: "Psalm 38:11 — His friends stood afar off"
+  slug: "psalm-38-11-102"
+  ot_reference: "Psalm 38:11"
+  claim_summary: "His friends stood afar off"
+  nt_fulfillment: "Luke 23:49"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 103
+  title: "Psalm 38:12 — Enemies try to entangle Him by craft"
+  slug: "psalm-38-12-103"
+  ot_reference: "Psalm 38:12"
+  claim_summary: "Enemies try to entangle Him by craft"
+  nt_fulfillment: "Mark 14:1; Matt 22:15"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 104
+  title: "Psalm 38:12-13 — Silent before His accusers"
+  slug: "psalm-38-12-13-104"
+  ot_reference: "Psalm 38:12-13"
+  claim_summary: "Silent before His accusers"
+  nt_fulfillment: "Matt 27:12-14"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 105
+  title: "Psalm 38:20 — He went about doing good"
+  slug: "psalm-38-20-105"
+  ot_reference: "Psalm 38:20"
+  claim_summary: "He went about doing good"
+  nt_fulfillment: "Acts 10:38"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 106
+  title: "Psalm 40:2-5 — The joy of His resurrection predicted"
+  slug: "psalm-40-2-5-106"
+  ot_reference: "Psalm 40:2-5"
+  claim_summary: "The joy of His resurrection predicted"
+  nt_fulfillment: "John 20:20"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 107
+  title: "Psalm 40:6-8 — His delight-the will of the Father"
+  slug: "psalm-40-6-8-107"
+  ot_reference: "Psalm 40:6-8"
+  claim_summary: "His delight-the will of the Father"
+  nt_fulfillment: "John 4:34; Heb 10:5-10"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 108
+  title: "Psalm 40:9 — He was to preach the Righteousness in Israel"
+  slug: "psalm-40-9-108"
+  ot_reference: "Psalm 40:9"
+  claim_summary: "He was to preach the Righteousness in Israel"
+  nt_fulfillment: "Matt 4:17"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 109
+  title: "Psalm 40:14 — Confronted by adversaries in the Garden"
+  slug: "psalm-40-14-109"
+  ot_reference: "Psalm 40:14"
+  claim_summary: "Confronted by adversaries in the Garden"
+  nt_fulfillment: "John 18:4-6"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 110
+  title: "Psalm 41:9 — Betrayed by a familiar friend"
+  slug: "psalm-41-9"
+  ot_reference: "Psalm 41:9"
+  claim_summary: "Betrayed by a familiar friend"
+  nt_fulfillment: "John 13:18"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 111
+  title: "Psalm 45:2 — Words of Grace come from His lips"
+  slug: "psalm-45-2-111"
+  ot_reference: "Psalm 45:2"
+  claim_summary: "Words of Grace come from His lips"
+  nt_fulfillment: "John 1:17; Luke 4:22"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 112
+  title: "Psalm 45:6 — To own the title, God or Elohim"
+  slug: "psalm-45-6-112"
+  ot_reference: "Psalm 45:6"
+  claim_summary: "To own the title, God or Elohim"
+  nt_fulfillment: "Heb 1:8"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 113
+  title: "Psalm 45:7 — A special anointing by the Holy Spirit"
+  slug: "psalm-45-7-113"
+  ot_reference: "Psalm 45:7"
+  claim_summary: "A special anointing by the Holy Spirit"
+  nt_fulfillment: "Matt 3:16; Heb. 1:9"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 114
+  title: "Psalm 45:7-8 — Called the Christ (Messiah or Anointed)"
+  slug: "psalm-45-7-8-114"
+  ot_reference: "Psalm 45:7-8"
+  claim_summary: "Called the Christ (Messiah or Anointed)"
+  nt_fulfillment: "Luke 2:11"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 115
+  title: "Psalm 45:17 — His name remembered forever"
+  slug: "psalm-45-17-115"
+  ot_reference: "Psalm 45:17"
+  claim_summary: "His name remembered forever"
+  nt_fulfillment: "Eph 1:20-21; Heb. 1:8"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 116
+  title: "Psalm 55:12-14 — Betrayed by a friend, not an enemy"
+  slug: "psalm-55-12-14-116"
+  ot_reference: "Psalm 55:12-14"
+  claim_summary: "Betrayed by a friend, not an enemy"
+  nt_fulfillment: "John 13:18"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 117
+  title: "Psalm 55:15 — Unrepentant death of the Betrayer"
+  slug: "psalm-55-15-117"
+  ot_reference: "Psalm 55:15"
+  claim_summary: "Unrepentant death of the Betrayer"
+  nt_fulfillment: "Matt 27:3-5; Acts 1:16-19"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 118
+  title: "Psalm 68:18 — To give gifts to men"
+  slug: "psalm-68-18-118"
+  ot_reference: "Psalm 68:18"
+  claim_summary: "To give gifts to men"
+  nt_fulfillment: "Eph 4:7-16"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 119
+  title: "Psalm 68:18 — Ascended into Heaven"
+  slug: "psalm-68-18-119"
+  ot_reference: "Psalm 68:18"
+  claim_summary: "Ascended into Heaven"
+  nt_fulfillment: "Luke 24:51"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 120
+  title: "Psalm 69:4 — Hated without a cause"
+  slug: "psalm-69-4-120"
+  ot_reference: "Psalm 69:4"
+  claim_summary: "Hated without a cause"
+  nt_fulfillment: "John 15:25"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 121
+  title: "Psalm 69:8 — A stranger to own brethren"
+  slug: "psalm-69-8-121"
+  ot_reference: "Psalm 69:8"
+  claim_summary: "A stranger to own brethren"
+  nt_fulfillment: "John 1:11; 7:5"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 122
+  title: "Psalm 69:9 — Zealous for the Lord's House"
+  slug: "psalm-69-9-122"
+  ot_reference: "Psalm 69:9"
+  claim_summary: "Zealous for the Lord's House"
+  nt_fulfillment: "John 2:17"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 123
+  title: "Psalm 69:14-20 — Messiah's anguish of soul before crucifixion"
+  slug: "psalm-69-14-20-123"
+  ot_reference: "Psalm 69:14-20"
+  claim_summary: "Messiah's anguish of soul before crucifixion"
+  nt_fulfillment: "Matt 26:36-45"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 124
+  title: "Psalm 69:20 — \"My soul is exceeding sorrowful\""
+  slug: "psalm-69-20-124"
+  ot_reference: "Psalm 69:20"
+  claim_summary: "\"My soul is exceeding sorrowful\""
+  nt_fulfillment: "Matt 26:38"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 125
+  title: "Psalm 69:21 — Given vinegar in thirst"
+  slug: "psalm-69-21-125"
+  ot_reference: "Psalm 69:21"
+  claim_summary: "Given vinegar in thirst"
+  nt_fulfillment: "Matt 27:34"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 126
+  title: "Psalm 69:26 — The Savior given and smitten by God"
+  slug: "psalm-69-26-126"
+  ot_reference: "Psalm 69:26"
+  claim_summary: "The Savior given and smitten by God"
+  nt_fulfillment: "John 17:4; 18:11"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 127
+  title: "Psalm 72:10-11 — Great persons were to visit Him"
+  slug: "psalm-72-10-11-127"
+  ot_reference: "Psalm 72:10-11"
+  claim_summary: "Great persons were to visit Him"
+  nt_fulfillment: "Matt 2:1-11"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 128
+  title: "Psalm 72:16 — The corn of wheat to fall into the Ground"
+  slug: "psalm-72-16-128"
+  ot_reference: "Psalm 72:16"
+  claim_summary: "The corn of wheat to fall into the Ground"
+  nt_fulfillment: "John 12:24-25"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 129
+  title: "Psalm 72:17 — Belief on His name will produce offspring"
+  slug: "psalm-72-17-129"
+  ot_reference: "Psalm 72:17"
+  claim_summary: "Belief on His name will produce offspring"
+  nt_fulfillment: "John 1:12-13"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 130
+  title: "Psalm 72:17 — All nations shall be blessed by Him"
+  slug: "psalm-72-17-130"
+  ot_reference: "Psalm 72:17"
+  claim_summary: "All nations shall be blessed by Him"
+  nt_fulfillment: "Gal 3:8"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 131
+  title: "Psalm 72:17 — All nations shall call Him blessed"
+  slug: "psalm-72-17-131"
+  ot_reference: "Psalm 72:17"
+  claim_summary: "All nations shall call Him blessed"
+  nt_fulfillment: "John 12:13; Rev 5:8-12"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 132
+  title: "Psalm 78:1-2 — He would teach in parables"
+  slug: "psalm-78-1-2-132"
+  ot_reference: "Psalm 78:1-2"
+  claim_summary: "He would teach in parables"
+  nt_fulfillment: "Matt 13:34-35"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 133
+  title: "Psalm 78:2b — To speak the Wisdom of God with authority"
+  slug: "psalm-78-2-133"
+  ot_reference: "Psalm 78:2b"
+  claim_summary: "To speak the Wisdom of God with authority"
+  nt_fulfillment: "Matt 7:29"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 134
+  title: "Psalm 80:17 — The Man of God's right hand"
+  slug: "psalm-80-17-134"
+  ot_reference: "Psalm 80:17"
+  claim_summary: "The Man of God's right hand"
+  nt_fulfillment: "Mark 14:61-62"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 135
+  title: "Psalm 88 — The Suffering and Reproach of Calvary"
+  slug: "psalm-88-135"
+  ot_reference: "Psalm 88"
+  claim_summary: "The Suffering and Reproach of Calvary"
+  nt_fulfillment: "Matt 27:26-50"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 136
+  title: "Psalm 88:8 — They stood afar off and watched"
+  slug: "psalm-88-8-136"
+  ot_reference: "Psalm 88:8"
+  claim_summary: "They stood afar off and watched"
+  nt_fulfillment: "Luke 23:49"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 137
+  title: "Psalm 89:27 — Firstborn"
+  slug: "psalm-89-27-137"
+  ot_reference: "Psalm 89:27"
+  claim_summary: "Firstborn"
+  nt_fulfillment: "Col 1:15-18"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 138
+  title: "Psalm 89:27 — Emmanuel to be higher than earthly kings"
+  slug: "psalm-89-27-138"
+  ot_reference: "Psalm 89:27"
+  claim_summary: "Emmanuel to be higher than earthly kings"
+  nt_fulfillment: "Luke 1:32-33"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 139
+  title: "Psalm 89:35-37 — David's Seed, throne, kingdom endure forever"
+  slug: "psalm-89-35-37-139"
+  ot_reference: "Psalm 89:35-37"
+  claim_summary: "David's Seed, throne, kingdom endure forever"
+  nt_fulfillment: "Luke 1:32-33"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 140
+  title: "Psalm 89:36-37 — His character-Faithfulness"
+  slug: "psalm-89-36-37-140"
+  ot_reference: "Psalm 89:36-37"
+  claim_summary: "His character-Faithfulness"
+  nt_fulfillment: "Rev 1:5; 19:11"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 141
+  title: "Psalm 90:2 — He is from everlasting (Micah 5:2)"
+  slug: "psalm-90-2-141"
+  ot_reference: "Psalm 90:2"
+  claim_summary: "He is from everlasting (Micah 5:2)"
+  nt_fulfillment: "John 1:1"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 142
+  title: "Psalm 91:11-12 — Identified as Messianic, used to tempt Christ"
+  slug: "psalm-91-11-12-142"
+  ot_reference: "Psalm 91:11-12"
+  claim_summary: "Identified as Messianic, used to tempt Christ"
+  nt_fulfillment: "Luke 4:10-11"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 143
+  title: "Psalm 97:9 — His exaltation predicted"
+  slug: "psalm-97-9-143"
+  ot_reference: "Psalm 97:9"
+  claim_summary: "His exaltation predicted"
+  nt_fulfillment: "Acts 1:11; Eph 1:20"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 144
+  title: "Psalm 100:5 — His character-Goodness"
+  slug: "psalm-100-5-144"
+  ot_reference: "Psalm 100:5"
+  claim_summary: "His character-Goodness"
+  nt_fulfillment: "Matt 19:16-17"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 145
+  title: "Psalm 102:1-11 — The Suffering and Reproach of Calvary"
+  slug: "psalm-102-1-11-145"
+  ot_reference: "Psalm 102:1-11"
+  claim_summary: "The Suffering and Reproach of Calvary"
+  nt_fulfillment: "John 19:16-30"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 146
+  title: "Psalm 102:25-27 — Messiah is the Preexistent Son"
+  slug: "psalm-102-25-27-146"
+  ot_reference: "Psalm 102:25-27"
+  claim_summary: "Messiah is the Preexistent Son"
+  nt_fulfillment: "Heb 1:10-12"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 147
+  title: "Psalm 109:25 — Ridiculed"
+  slug: "psalm-109-25-147"
+  ot_reference: "Psalm 109:25"
+  claim_summary: "Ridiculed"
+  nt_fulfillment: "Matt 27:39"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 148
+  title: "Psalm 110:1 — Son of David"
+  slug: "psalm-110"
+  ot_reference: "Psalm 110:1"
+  claim_summary: "Son of David"
+  nt_fulfillment: "Matt 22:42-43"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 149
+  title: "Psalm 110:1 — To ascend to the right-hand of the Father"
+  slug: "psalm-110-1-149"
+  ot_reference: "Psalm 110:1"
+  claim_summary: "To ascend to the right-hand of the Father"
+  nt_fulfillment: "Mark 16:19"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 150
+  title: "Psalm 110:1 — David's son called Lord"
+  slug: "psalm-110-1-150"
+  ot_reference: "Psalm 110:1"
+  claim_summary: "David's son called Lord"
+  nt_fulfillment: "Matt 22:44-45"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 151
+  title: "Psalm 110:4 — A priest after Melchizedek's order"
+  slug: "psalm-110-4-151"
+  ot_reference: "Psalm 110:4"
+  claim_summary: "A priest after Melchizedek's order"
+  nt_fulfillment: "Heb 6:20"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 152
+  title: "Psalm 112:4 — His character-Compassionate, Gracious, et al"
+  slug: "psalm-112-4-152"
+  ot_reference: "Psalm 112:4"
+  claim_summary: "His character-Compassionate, Gracious, et al"
+  nt_fulfillment: "Matt 9:36"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 153
+  title: "Psalm 118:17-18 — Messiah's Resurrection assured"
+  slug: "psalm-118-17-18-153"
+  ot_reference: "Psalm 118:17-18"
+  claim_summary: "Messiah's Resurrection assured"
+  nt_fulfillment: "Luke 24:5-7; 1 Cor 15:20"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 154
+  title: "Psalm 118:22-23 — The rejected stone is Head of the corner"
+  slug: "psalm-118-22-23-154"
+  ot_reference: "Psalm 118:22-23"
+  claim_summary: "The rejected stone is Head of the corner"
+  nt_fulfillment: "Matt 21:42-43"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 155
+  title: "Psalm 118:26a — The Blessed One presented to Israel"
+  slug: "psalm-118-26-155"
+  ot_reference: "Psalm 118:26a"
+  claim_summary: "The Blessed One presented to Israel"
+  nt_fulfillment: "Matt 21:9"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 156
+  title: "Psalm 118:26b — To come while Temple standing"
+  slug: "psalm-118-26-156"
+  ot_reference: "Psalm 118:26b"
+  claim_summary: "To come while Temple standing"
+  nt_fulfillment: "Matt 21:12-15"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 157
+  title: "Psalm 132:11 — The Seed of David (the fruit of His Body)"
+  slug: "psalm-132-11-157"
+  ot_reference: "Psalm 132:11"
+  claim_summary: "The Seed of David (the fruit of His Body)"
+  nt_fulfillment: "Luke 1:32; Act 2:30"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 158
+  title: "Psalm 129:3 — He was scourged"
+  slug: "psalm-129-3-158"
+  ot_reference: "Psalm 129:3"
+  claim_summary: "He was scourged"
+  nt_fulfillment: "Matt 27:26"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 159
+  title: "Psalm 138:1-6 — The supremacy of David's Seed amazes kings"
+  slug: "psalm-138-1-6-159"
+  ot_reference: "Psalm 138:1-6"
+  claim_summary: "The supremacy of David's Seed amazes kings"
+  nt_fulfillment: "Matt 2:2-6"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 160
+  title: "Psalm 147:3-6 — The earthly ministry of Christ described"
+  slug: "psalm-147-3-6-160"
+  ot_reference: "Psalm 147:3-6"
+  claim_summary: "The earthly ministry of Christ described"
+  nt_fulfillment: "Luke 4:18"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 161
+  title: "Proverbs 1:23 — He will send the Spirit of God"
+  slug: "proverbs-1-23-161"
+  ot_reference: "Proverbs 1:23"
+  claim_summary: "He will send the Spirit of God"
+  nt_fulfillment: "John 16:7"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 162
+  title: "Proverbs 8:23 — Foreordained from everlasting"
+  slug: "proverbs-8-23-162"
+  ot_reference: "Proverbs 8:23"
+  claim_summary: "Foreordained from everlasting"
+  nt_fulfillment: "Rev 13:8; 1 Pet 1:19-20"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 163
+  title: "Song of Solomon 5:16 — The altogether lovely One"
+  slug: "song-of-solomon-5-16-163"
+  ot_reference: "Song of Solomon 5:16"
+  claim_summary: "The altogether lovely One"
+  nt_fulfillment: "John 1:17"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 164
+  title: "Isaiah 2:3 — He shall teach all nations"
+  slug: "isaiah-2-3-164"
+  ot_reference: "Isaiah 2:3"
+  claim_summary: "He shall teach all nations"
+  nt_fulfillment: "John 4:25"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 165
+  title: "Isaiah 2:4 — He shall judge among the nations"
+  slug: "isaiah-2-4-165"
+  ot_reference: "Isaiah 2:4"
+  claim_summary: "He shall judge among the nations"
+  nt_fulfillment: "John 5:22"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 166
+  title: "Isaiah 6:1 — When Isaiah saw His glory"
+  slug: "isaiah-6-1-166"
+  ot_reference: "Isaiah 6:1"
+  claim_summary: "When Isaiah saw His glory"
+  nt_fulfillment: "John 12:40-41"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 167
+  title: "Isaiah 6:8 — The One Sent by God"
+  slug: "isaiah-6-8-167"
+  ot_reference: "Isaiah 6:8"
+  claim_summary: "The One Sent by God"
+  nt_fulfillment: "John 12:38-45"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 168
+  title: "Isaiah 6:9-10 — Parables fall on deaf ears"
+  slug: "isaiah-6-9-10-168"
+  ot_reference: "Isaiah 6:9-10"
+  claim_summary: "Parables fall on deaf ears"
+  nt_fulfillment: "Matt 13:13-15"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 169
+  title: "Isaiah 6:9-12 — Blinded to Christ and deaf to His words"
+  slug: "isaiah-6-9-12-169"
+  ot_reference: "Isaiah 6:9-12"
+  claim_summary: "Blinded to Christ and deaf to His words"
+  nt_fulfillment: "Acts 28:23-29"
   skeptic_failed_criteria: ""
   status: "not started"
 
 - number: 170
-  title: "Isaiah 7:14"
+  title: "Isaiah 7:14 — To be born of a virgin"
   slug: "isaiah-7-14"
   ot_reference: "Isaiah 7:14"
-  claim_summary: "Virgin birth prophecy"
-  nt_fulfillment: "Matthew 1:22–23; Luke 1:34–35"
+  claim_summary: "To be born of a virgin"
+  nt_fulfillment: "Luke 1:35"
   skeptic_failed_criteria: "2,4,5,6"
   status: "in progress"
 
-- number: null
-  title: "Isaiah 9:6"
+- number: 171
+  title: "Isaiah 7:14 — To be Emmanuel-God with us"
+  slug: "isaiah-7-14-171"
+  ot_reference: "Isaiah 7:14"
+  claim_summary: "To be Emmanuel-God with us"
+  nt_fulfillment: "Matt 1:18-23; 1 Tim 3:16"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 172
+  title: "Isaiah 8:8 — Called Emmanuel"
+  slug: "isaiah-8-8-172"
+  ot_reference: "Isaiah 8:8"
+  claim_summary: "Called Emmanuel"
+  nt_fulfillment: "Matt 28:20"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 173
+  title: "Isaiah 8:14 — A stone of stumbling, a Rock of offense"
+  slug: "isaiah-8-14-173"
+  ot_reference: "Isaiah 8:14"
+  claim_summary: "A stone of stumbling, a Rock of offense"
+  nt_fulfillment: "1 Pet 2:8"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 174
+  title: "Isaiah 9:1-2 — His ministry to begin in Galilee"
+  slug: "isaiah-9-1-2-174"
+  ot_reference: "Isaiah 9:1-2"
+  claim_summary: "His ministry to begin in Galilee"
+  nt_fulfillment: "Matt 4:12-17"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 175
+  title: "Isaiah 9:6 — A child born-Humanity"
   slug: "isaiah-9-6"
   ot_reference: "Isaiah 9:6"
-  claim_summary: ""
-  nt_fulfillment: ""
+  claim_summary: "A child born-Humanity"
+  nt_fulfillment: "Luke 1:31"
   skeptic_failed_criteria: ""
   status: "not started"
 
-- number: null
-  title: "Isaiah 11"
+- number: 176
+  title: "Isaiah 9:6 — A Son given-Deity"
+  slug: "isaiah-9-6-176"
+  ot_reference: "Isaiah 9:6"
+  claim_summary: "A Son given-Deity"
+  nt_fulfillment: "Luke 1:32; John 1:14; 1 Tim 3:16"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 177
+  title: "Isaiah 9:6 — Declared to be the Son of God with power"
+  slug: "isaiah-9-6-177"
+  ot_reference: "Isaiah 9:6"
+  claim_summary: "Declared to be the Son of God with power"
+  nt_fulfillment: "Rom 1:3-4"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 178
+  title: "Isaiah 9:6 — The Wonderful One, Peleh"
+  slug: "isaiah-9-6-178"
+  ot_reference: "Isaiah 9:6"
+  claim_summary: "The Wonderful One, Peleh"
+  nt_fulfillment: "Luke 4:22"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 179
+  title: "Isaiah 9:6 — The Counselor, Yaatz"
+  slug: "isaiah-9-6-179"
+  ot_reference: "Isaiah 9:6"
+  claim_summary: "The Counselor, Yaatz"
+  nt_fulfillment: "Matt 13:54"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 180
+  title: "Isaiah 9:6 — The Mighty God, El Gibor"
+  slug: "isaiah-9-6-180"
+  ot_reference: "Isaiah 9:6"
+  claim_summary: "The Mighty God, El Gibor"
+  nt_fulfillment: "1 Cor 1:24; Titus 2:3"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 181
+  title: "Isaiah 9:6 — The Everlasting Father, Avi Adth"
+  slug: "isaiah-9-6-181"
+  ot_reference: "Isaiah 9:6"
+  claim_summary: "The Everlasting Father, Avi Adth"
+  nt_fulfillment: "John 8:58; 10:30"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 182
+  title: "Isaiah 9:6 — The Prince of Peace, Sar Shalom"
+  slug: "isaiah-9-6-182"
+  ot_reference: "Isaiah 9:6"
+  claim_summary: "The Prince of Peace, Sar Shalom"
+  nt_fulfillment: "John 16:33"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 183
+  title: "Isaiah 9:7 — To establish an everlasting kingdom"
+  slug: "isaiah-9-7-183"
+  ot_reference: "Isaiah 9:7"
+  claim_summary: "To establish an everlasting kingdom"
+  nt_fulfillment: "Luke 1:32-33"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 184
+  title: "Isaiah 9:7 — His Character-Just"
+  slug: "isaiah-9-7-184"
+  ot_reference: "Isaiah 9:7"
+  claim_summary: "His Character-Just"
+  nt_fulfillment: "John 5:30"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 185
+  title: "Isaiah 9:7 — No end to his Government, Throne, and Peace"
+  slug: "isaiah-9-7-185"
+  ot_reference: "Isaiah 9:7"
+  claim_summary: "No end to his Government, Throne, and Peace"
+  nt_fulfillment: "Luke 1:32-33"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 186
+  title: "Isaiah 11:1 — Called a Nazarene-the Branch, Netzer"
   slug: "isaiah-11"
-  ot_reference: "Isaiah 11"
-  claim_summary: ""
-  nt_fulfillment: ""
+  ot_reference: "Isaiah 11:1"
+  claim_summary: "Called a Nazarene-the Branch, Netzer"
+  nt_fulfillment: "Matt 2:23"
   skeptic_failed_criteria: ""
   status: "not started"
 
-- number: null
-  title: "Isaiah 42"
+- number: 187
+  title: "Isaiah 11:1 — A rod out of Jesse-Son of Jesse"
+  slug: "isaiah-11-1-187"
+  ot_reference: "Isaiah 11:1"
+  claim_summary: "A rod out of Jesse-Son of Jesse"
+  nt_fulfillment: "Luke 3:23-32"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 188
+  title: "Isaiah 11:2 — Anointed One by the Spirit"
+  slug: "isaiah-11-2-188"
+  ot_reference: "Isaiah 11:2"
+  claim_summary: "Anointed One by the Spirit"
+  nt_fulfillment: "Matt 3:16-17; Acts 10:38"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 189
+  title: "Isaiah 11:2 — His Character-Wisdom, Knowledge, et al"
+  slug: "isaiah-11-2-189"
+  ot_reference: "Isaiah 11:2"
+  claim_summary: "His Character-Wisdom, Knowledge, et al"
+  nt_fulfillment: "Col 2:3"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 190
+  title: "Isaiah 11:3 — He would know their thoughts"
+  slug: "isaiah-11-3-190"
+  ot_reference: "Isaiah 11:3"
+  claim_summary: "He would know their thoughts"
+  nt_fulfillment: "Luke 6:8; John 2:25"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 191
+  title: "Isaiah 11:4 — Judge in righteousness"
+  slug: "isaiah-11-4-191"
+  ot_reference: "Isaiah 11:4"
+  claim_summary: "Judge in righteousness"
+  nt_fulfillment: "Acts 17:31"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 192
+  title: "Isaiah 11:4 — Judges with the sword of His mouth"
+  slug: "isaiah-11-4-192"
+  ot_reference: "Isaiah 11:4"
+  claim_summary: "Judges with the sword of His mouth"
+  nt_fulfillment: "Rev 2:16; 19:11, 15"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 193
+  title: "Isaiah 11:5 — Character: Righteous & Faithful"
+  slug: "isaiah-11-5-193"
+  ot_reference: "Isaiah 11:5"
+  claim_summary: "Character: Righteous & Faithful"
+  nt_fulfillment: "Rev 19:11"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 194
+  title: "Isaiah 11:10 — The Gentiles seek Him"
+  slug: "isaiah-11-10-194"
+  ot_reference: "Isaiah 11:10"
+  claim_summary: "The Gentiles seek Him"
+  nt_fulfillment: "John 12:18-21"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 195
+  title: "Isaiah 12:2 — Called Jesus-Yeshua"
+  slug: "isaiah-12-2-195"
+  ot_reference: "Isaiah 12:2"
+  claim_summary: "Called Jesus-Yeshua"
+  nt_fulfillment: "Matt 1:21"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 196
+  title: "Isaiah 22:22 — The One given all authority to govern"
+  slug: "isaiah-22-22-196"
+  ot_reference: "Isaiah 22:22"
+  claim_summary: "The One given all authority to govern"
+  nt_fulfillment: "Rev 3:7"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 197
+  title: "Isaiah 25:8 — The Resurrection predicted"
+  slug: "isaiah-25-8-197"
+  ot_reference: "Isaiah 25:8"
+  claim_summary: "The Resurrection predicted"
+  nt_fulfillment: "1 Cor 15:54"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 198
+  title: "Isaiah 26:19 — His power of Resurrection predicted"
+  slug: "isaiah-26-19-198"
+  ot_reference: "Isaiah 26:19"
+  claim_summary: "His power of Resurrection predicted"
+  nt_fulfillment: "Matt 27:50-54"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 199
+  title: "Isaiah 28:16 — The Messiah is the precious corner stone"
+  slug: "isaiah-28-16-199"
+  ot_reference: "Isaiah 28:16"
+  claim_summary: "The Messiah is the precious corner stone"
+  nt_fulfillment: "Acts 4:11-12"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 200
+  title: "Isaiah 28:16 — The Sure Foundation"
+  slug: "isaiah-28-16-200"
+  ot_reference: "Isaiah 28:16"
+  claim_summary: "The Sure Foundation"
+  nt_fulfillment: "1 Cor 3:11; Matt 16:18"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 201
+  title: "Isaiah 29:13 — He indicated hypocritical obedience to His Word"
+  slug: "isaiah-29-13-201"
+  ot_reference: "Isaiah 29:13"
+  claim_summary: "He indicated hypocritical obedience to His Word"
+  nt_fulfillment: "Matt 15:7-9"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 202
+  title: "Isaiah 29:14 — The wise are confounded by the Word"
+  slug: "isaiah-29-14-202"
+  ot_reference: "Isaiah 29:14"
+  claim_summary: "The wise are confounded by the Word"
+  nt_fulfillment: "1 Cor 1:18-31"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 203
+  title: "Isaiah 32:2 — A Refuge-A man shall be a hiding place"
+  slug: "isaiah-32-2-203"
+  ot_reference: "Isaiah 32:2"
+  claim_summary: "A Refuge-A man shall be a hiding place"
+  nt_fulfillment: "Matt 23:37"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 204
+  title: "Isaiah 35:4 — He will come and save you"
+  slug: "isaiah-35-4-204"
+  ot_reference: "Isaiah 35:4"
+  claim_summary: "He will come and save you"
+  nt_fulfillment: "Matt 1:21"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 205
+  title: "Isaiah 35:5-6 — To have a ministry of miracles"
+  slug: "isaiah-35-5-6-205"
+  ot_reference: "Isaiah 35:5-6"
+  claim_summary: "To have a ministry of miracles"
+  nt_fulfillment: "Matt 11:2-6"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 206
+  title: "Isaiah 40:3-4 — Preceded by forerunner"
+  slug: "isaiah-40-3-4-206"
+  ot_reference: "Isaiah 40:3-4"
+  claim_summary: "Preceded by forerunner"
+  nt_fulfillment: "John 1:23"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 207
+  title: "Isaiah 40:9 — \"Behold your God\""
+  slug: "isaiah-40-9-207"
+  ot_reference: "Isaiah 40:9"
+  claim_summary: "\"Behold your God\""
+  nt_fulfillment: "John 1:36; 19:14"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 208
+  title: "Isaiah 40:10 — He will come to reward"
+  slug: "isaiah-40-10-208"
+  ot_reference: "Isaiah 40:10"
+  claim_summary: "He will come to reward"
+  nt_fulfillment: "Rev 22:12"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 209
+  title: "Isaiah 40:11 — A shepherd-compassionate life-giver"
+  slug: "isaiah-40-11-209"
+  ot_reference: "Isaiah 40:11"
+  claim_summary: "A shepherd-compassionate life-giver"
+  nt_fulfillment: "John 10:10-18"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 210
+  title: "Isaiah 42:1-4 — The Servant-as a faithful, patient redeemer"
   slug: "isaiah-42"
-  ot_reference: "Isaiah 42"
-  claim_summary: ""
-  nt_fulfillment: ""
+  ot_reference: "Isaiah 42:1-4"
+  claim_summary: "The Servant-as a faithful, patient redeemer"
+  nt_fulfillment: "Matt 12:18-21"
   skeptic_failed_criteria: ""
   status: "not started"
 
-- number: null
-  title: "Isaiah 50"
+- number: 211
+  title: "Isaiah 42:2 — Meek and lowly"
+  slug: "isaiah-42-2-211"
+  ot_reference: "Isaiah 42:2"
+  claim_summary: "Meek and lowly"
+  nt_fulfillment: "Matt 11:28-30"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 212
+  title: "Isaiah 42:3 — He brings hope for the hopeless"
+  slug: "isaiah-42-3-212"
+  ot_reference: "Isaiah 42:3"
+  claim_summary: "He brings hope for the hopeless"
+  nt_fulfillment: "John 4"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 213
+  title: "Isaiah 42:4 — The nations shall wait on His teachings"
+  slug: "isaiah-42-4-213"
+  ot_reference: "Isaiah 42:4"
+  claim_summary: "The nations shall wait on His teachings"
+  nt_fulfillment: "John 12:20-26"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 214
+  title: "Isaiah 42:6 — The Light (salvation) of the Gentiles"
+  slug: "isaiah-42-6-214"
+  ot_reference: "Isaiah 42:6"
+  claim_summary: "The Light (salvation) of the Gentiles"
+  nt_fulfillment: "Luke 2:32"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 215
+  title: "Isaiah 42:1-6 — His is a worldwide compassion"
+  slug: "isaiah-42-1-6-215"
+  ot_reference: "Isaiah 42:1-6"
+  claim_summary: "His is a worldwide compassion"
+  nt_fulfillment: "Matt 28:19-20"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 216
+  title: "Isaiah 42:7 — Blind eyes opened"
+  slug: "isaiah-42-7-216"
+  ot_reference: "Isaiah 42:7"
+  claim_summary: "Blind eyes opened"
+  nt_fulfillment: "John 9:25-38"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 217
+  title: "Isaiah 43:11 — He is the only Savior"
+  slug: "isaiah-43-11-217"
+  ot_reference: "Isaiah 43:11"
+  claim_summary: "He is the only Savior"
+  nt_fulfillment: "Acts 4:12"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 218
+  title: "Isaiah 44:3 — He will send the Spirit of God"
+  slug: "isaiah-44-3-218"
+  ot_reference: "Isaiah 44:3"
+  claim_summary: "He will send the Spirit of God"
+  nt_fulfillment: "John 16:7-13"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 219
+  title: "Isaiah 45:21-25 — He is Lord and Savior"
+  slug: "isaiah-45-21-25-219"
+  ot_reference: "Isaiah 45:21-25"
+  claim_summary: "He is Lord and Savior"
+  nt_fulfillment: "Phil 3:20; Titus 2:13"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 220
+  title: "Isaiah 45:23 — He will be the Judge"
+  slug: "isaiah-45-23-220"
+  ot_reference: "Isaiah 45:23"
+  claim_summary: "He will be the Judge"
+  nt_fulfillment: "John 5:22; Rom 14:11"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 221
+  title: "Isaiah 46:9-10 — Declares things not yet done"
+  slug: "isaiah-46-9-10-221"
+  ot_reference: "Isaiah 46:9-10"
+  claim_summary: "Declares things not yet done"
+  nt_fulfillment: "John 13:19"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 222
+  title: "Isaiah 48:12 — The First and the Last"
+  slug: "isaiah-48-12-222"
+  ot_reference: "Isaiah 48:12"
+  claim_summary: "The First and the Last"
+  nt_fulfillment: "John 1:30; Rev 1:8, 17"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 223
+  title: "Isaiah 48:16-17 — He came as a Teacher"
+  slug: "isaiah-48-16-17-223"
+  ot_reference: "Isaiah 48:16-17"
+  claim_summary: "He came as a Teacher"
+  nt_fulfillment: "John 3:2"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 224
+  title: "Isaiah 49:1 — Called from the womb-His humanity"
+  slug: "isaiah-49-1-224"
+  ot_reference: "Isaiah 49:1"
+  claim_summary: "Called from the womb-His humanity"
+  nt_fulfillment: "Matt 1:18"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 225
+  title: "Isaiah 49:5 — A Servant from the womb"
+  slug: "isaiah-49-5-225"
+  ot_reference: "Isaiah 49:5"
+  claim_summary: "A Servant from the womb"
+  nt_fulfillment: "Luke 1:31; Phil 2:7"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 226
+  title: "Isaiah 49:6 — He will restore Israel"
+  slug: "isaiah-49-6-226"
+  ot_reference: "Isaiah 49:6"
+  claim_summary: "He will restore Israel"
+  nt_fulfillment: "Acts 3:19-21; 15:16-17"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 227
+  title: "Isaiah 49:6 — He is Salvation for Israel"
+  slug: "isaiah-49-6-227"
+  ot_reference: "Isaiah 49:6"
+  claim_summary: "He is Salvation for Israel"
+  nt_fulfillment: "Luke 2:29-32"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 228
+  title: "Isaiah 49:6 — He is the Light of the Gentiles"
+  slug: "isaiah-49-6-228"
+  ot_reference: "Isaiah 49:6"
+  claim_summary: "He is the Light of the Gentiles"
+  nt_fulfillment: "John 8:12; Acts 13:47"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 229
+  title: "Isaiah 49:6 — He is Salvation unto the ends of the earth"
+  slug: "isaiah-49-6-229"
+  ot_reference: "Isaiah 49:6"
+  claim_summary: "He is Salvation unto the ends of the earth"
+  nt_fulfillment: "Acts 15:7-18"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 230
+  title: "Isaiah 49:7 — He is despised of the Nation"
+  slug: "isaiah-49-7-230"
+  ot_reference: "Isaiah 49:7"
+  claim_summary: "He is despised of the Nation"
+  nt_fulfillment: "John 1:11; 8:48-49; 19:14-15"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 231
+  title: "Isaiah 50:3 — Heaven is clothed in black at His humiliation"
   slug: "isaiah-50"
-  ot_reference: "Isaiah 50"
-  claim_summary: ""
-  nt_fulfillment: ""
+  ot_reference: "Isaiah 50:3"
+  claim_summary: "Heaven is clothed in black at His humiliation"
+  nt_fulfillment: "Luke 23:44-45"
   skeptic_failed_criteria: ""
   status: "not started"
 
-- number: null
-  title: "Isaiah 53"
+- number: 232
+  title: "Isaiah 50:4 — He is a learned counselor for the weary"
+  slug: "isaiah-50-4-232"
+  ot_reference: "Isaiah 50:4"
+  claim_summary: "He is a learned counselor for the weary"
+  nt_fulfillment: "Matt 7:29; 11:28-29"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 233
+  title: "Isaiah 50:5 — The Servant bound willingly to obedience"
+  slug: "isaiah-50-5-233"
+  ot_reference: "Isaiah 50:5"
+  claim_summary: "The Servant bound willingly to obedience"
+  nt_fulfillment: "Matt 26:39"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 234
+  title: "Isaiah 50:6a — \"I gave my back to those who struck Me\""
+  slug: "isaiah-50-6-234"
+  ot_reference: "Isaiah 50:6a"
+  claim_summary: "\"I gave my back to those who struck Me\""
+  nt_fulfillment: "Matt 27:26"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 235
+  title: "Isaiah 50:6b — He was smitten on the cheeks"
+  slug: "isaiah-50-6-235"
+  ot_reference: "Isaiah 50:6b"
+  claim_summary: "He was smitten on the cheeks"
+  nt_fulfillment: "Matt 26:67"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 236
+  title: "Isaiah 50:6c — He was spat upon"
+  slug: "isaiah-50-6-236"
+  ot_reference: "Isaiah 50:6c"
+  claim_summary: "He was spat upon"
+  nt_fulfillment: "Matt 27:30"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 237
+  title: "Isaiah 52:7 — Published good tidings upon mountains"
+  slug: "isaiah-52-7-237"
+  ot_reference: "Isaiah 52:7"
+  claim_summary: "Published good tidings upon mountains"
+  nt_fulfillment: "Matt 5:12; 15:29; 28:16"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 238
+  title: "Isaiah 52:13 — The Servant exalted"
+  slug: "isaiah-52-13-238"
+  ot_reference: "Isaiah 52:13"
+  claim_summary: "The Servant exalted"
+  nt_fulfillment: "Acts 1:8-11; Eph 1:19-22; Phil 2:5-9"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 239
+  title: "Isaiah 52:14 — The Servant shockingly abused"
+  slug: "isaiah-52-14-239"
+  ot_reference: "Isaiah 52:14"
+  claim_summary: "The Servant shockingly abused"
+  nt_fulfillment: "Luke 18:31-34; Matt 26:67-68"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 240
+  title: "Isaiah 52:15 — Nations startled by message of the Servant"
+  slug: "isaiah-52-15-240"
+  ot_reference: "Isaiah 52:15"
+  claim_summary: "Nations startled by message of the Servant"
+  nt_fulfillment: "Luke 18:31-34; Matt 26:67-68"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 241
+  title: "Isaiah 52:15 — His blood shed sprinkles nations"
+  slug: "isaiah-52-15-241"
+  ot_reference: "Isaiah 52:15"
+  claim_summary: "His blood shed sprinkles nations"
+  nt_fulfillment: "Heb 9:13-14; Rev 1:5"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 242
+  title: "Isaiah 53:1 — His people would not believe Him"
   slug: "isaiah-53"
-  ot_reference: "Isaiah 53"
-  claim_summary: "Suffering servant fulfilled in Jesus"
-  nt_fulfillment: ""
+  ot_reference: "Isaiah 53:1"
+  claim_summary: "His people would not believe Him"
+  nt_fulfillment: "John 12:37-38"
   skeptic_failed_criteria: ""
   status: "in progress"
 
-- number: null
-  title: "Isaiah 61"
+- number: 243
+  title: "Isaiah 53:2 — Appearance of an ordinary man"
+  slug: "isaiah-53-2-243"
+  ot_reference: "Isaiah 53:2"
+  claim_summary: "Appearance of an ordinary man"
+  nt_fulfillment: "Phil 2:6-8"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 244
+  title: "Isaiah 53:3a — Despised"
+  slug: "isaiah-53-3-244"
+  ot_reference: "Isaiah 53:3a"
+  claim_summary: "Despised"
+  nt_fulfillment: "Luke 4:28-29"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 245
+  title: "Isaiah 53:3b — Rejected"
+  slug: "isaiah-53-3-245"
+  ot_reference: "Isaiah 53:3b"
+  claim_summary: "Rejected"
+  nt_fulfillment: "Matt 27:21-23"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 246
+  title: "Isaiah 53:3c — Great sorrow and grief"
+  slug: "isaiah-53-3-246"
+  ot_reference: "Isaiah 53:3c"
+  claim_summary: "Great sorrow and grief"
+  nt_fulfillment: "Matt 26:37-38; Luke 19:41; Heb 4:15"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 247
+  title: "Isaiah 53:3d — Men hide from being associated with Him"
+  slug: "isaiah-53-3-247"
+  ot_reference: "Isaiah 53:3d"
+  claim_summary: "Men hide from being associated with Him"
+  nt_fulfillment: "Mark 14:50-52"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 248
+  title: "Isaiah 53:4a — He would have a healing ministry"
+  slug: "isaiah-53-4-248"
+  ot_reference: "Isaiah 53:4a"
+  claim_summary: "He would have a healing ministry"
+  nt_fulfillment: "Matt 8:16-17"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 249
+  title: "Isaiah 53:4b — Thought to be cursed by God"
+  slug: "isaiah-53-4-249"
+  ot_reference: "Isaiah 53:4b"
+  claim_summary: "Thought to be cursed by God"
+  nt_fulfillment: "Matt 26:66; 27:41-43"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 250
+  title: "Isaiah 53:5a — Bears penalty for mankind's iniquities"
+  slug: "isaiah-53-5-250"
+  ot_reference: "Isaiah 53:5a"
+  claim_summary: "Bears penalty for mankind's iniquities"
+  nt_fulfillment: "2 Cor 5:21; Heb 2:9"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 251
+  title: "Isaiah 53:5b — His sacrifice provides peace between man and God"
+  slug: "isaiah-53-5-251"
+  ot_reference: "Isaiah 53:5b"
+  claim_summary: "His sacrifice provides peace between man and God"
+  nt_fulfillment: "Col 1:20"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 252
+  title: "Isaiah 53:5c — His sacrifice would heal man of sin"
+  slug: "isaiah-53-5-252"
+  ot_reference: "Isaiah 53:5c"
+  claim_summary: "His sacrifice would heal man of sin"
+  nt_fulfillment: "1 Pet 2:24"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 253
+  title: "Isaiah 53:6a — He would be the sin-bearer for all mankind"
+  slug: "isaiah-53-6-253"
+  ot_reference: "Isaiah 53:6a"
+  claim_summary: "He would be the sin-bearer for all mankind"
+  nt_fulfillment: "1 John 2:2; 4:10"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 254
+  title: "Isaiah 53:6b — God's will that He bear sin for all mankind"
+  slug: "isaiah-53-6-254"
+  ot_reference: "Isaiah 53:6b"
+  claim_summary: "God's will that He bear sin for all mankind"
+  nt_fulfillment: "Gal 1:4"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 255
+  title: "Isaiah 53:7a — Oppressed and afflicted"
+  slug: "isaiah-53-7-255"
+  ot_reference: "Isaiah 53:7a"
+  claim_summary: "Oppressed and afflicted"
+  nt_fulfillment: "Matt 27:27-31"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 256
+  title: "Isaiah 53:7b — Silent before his accusers"
+  slug: "isaiah-53-7-256"
+  ot_reference: "Isaiah 53:7b"
+  claim_summary: "Silent before his accusers"
+  nt_fulfillment: "Matt 27:12-14"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 257
+  title: "Isaiah 53:7c — Sacrificial lamb"
+  slug: "isaiah-53-7-257"
+  ot_reference: "Isaiah 53:7c"
+  claim_summary: "Sacrificial lamb"
+  nt_fulfillment: "John 1:29; 1 Pet 1:18-19"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 258
+  title: "Isaiah 53:8a — Confined and persecuted"
+  slug: "isaiah-53-8-258"
+  ot_reference: "Isaiah 53:8a"
+  claim_summary: "Confined and persecuted"
+  nt_fulfillment: "Matt 26:47-27:31"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 259
+  title: "Isaiah 53:8b — He would be judged"
+  slug: "isaiah-53-8-259"
+  ot_reference: "Isaiah 53:8b"
+  claim_summary: "He would be judged"
+  nt_fulfillment: "John 18:13-22"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 260
+  title: "Isaiah 53:8c — Killed"
+  slug: "isaiah-53-8-260"
+  ot_reference: "Isaiah 53:8c"
+  claim_summary: "Killed"
+  nt_fulfillment: "Matt 27:35"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 261
+  title: "Isaiah 53:8d — Dies for the sins of the world"
+  slug: "isaiah-53-8-261"
+  ot_reference: "Isaiah 53:8d"
+  claim_summary: "Dies for the sins of the world"
+  nt_fulfillment: "1 John 2:2"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 262
+  title: "Isaiah 53:9a — Buried in a rich man's grave"
+  slug: "isaiah-53-9-262"
+  ot_reference: "Isaiah 53:9a"
+  claim_summary: "Buried in a rich man's grave"
+  nt_fulfillment: "Matt 27:57"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 263
+  title: "Isaiah 53:9b — Innocent and had done no violence"
+  slug: "isaiah-53-9-263"
+  ot_reference: "Isaiah 53:9b"
+  claim_summary: "Innocent and had done no violence"
+  nt_fulfillment: "Luke 23:41; John 18:38"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 264
+  title: "Isaiah 53:9c — No deceit in his mouth"
+  slug: "isaiah-53-9-264"
+  ot_reference: "Isaiah 53:9c"
+  claim_summary: "No deceit in his mouth"
+  nt_fulfillment: "1 Pet 2:22"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 265
+  title: "Isaiah 53:10a — God's will that He die for mankind"
+  slug: "isaiah-53-10-265"
+  ot_reference: "Isaiah 53:10a"
+  claim_summary: "God's will that He die for mankind"
+  nt_fulfillment: "John 18:11"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 266
+  title: "Isaiah 53:10b — An offering for sin"
+  slug: "isaiah-53-10-266"
+  ot_reference: "Isaiah 53:10b"
+  claim_summary: "An offering for sin"
+  nt_fulfillment: "Matt 20:28; Gal 3:13"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 267
+  title: "Isaiah 53:10c — Resurrected and live forever"
+  slug: "isaiah-53-10-267"
+  ot_reference: "Isaiah 53:10c"
+  claim_summary: "Resurrected and live forever"
+  nt_fulfillment: "Rom 6:9"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 268
+  title: "Isaiah 53:10d — He would prosper"
+  slug: "isaiah-53-10-268"
+  ot_reference: "Isaiah 53:10d"
+  claim_summary: "He would prosper"
+  nt_fulfillment: "John 17:1-5"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 269
+  title: "Isaiah 53:11a — God fully satisfied with His suffering"
+  slug: "isaiah-53-11-269"
+  ot_reference: "Isaiah 53:11a"
+  claim_summary: "God fully satisfied with His suffering"
+  nt_fulfillment: "John 12:27"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 270
+  title: "Isaiah 53:11b — God's servant would justify man"
+  slug: "isaiah-53-11-270"
+  ot_reference: "Isaiah 53:11b"
+  claim_summary: "God's servant would justify man"
+  nt_fulfillment: "Rom 5:8-9, 18-19"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 271
+  title: "Isaiah 53:11c — The sin-bearer for all mankind"
+  slug: "isaiah-53-11-271"
+  ot_reference: "Isaiah 53:11c"
+  claim_summary: "The sin-bearer for all mankind"
+  nt_fulfillment: "Heb 9:28"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 272
+  title: "Isaiah 53:12a — Exalted by God because of his sacrifice"
+  slug: "isaiah-53-12-272"
+  ot_reference: "Isaiah 53:12a"
+  claim_summary: "Exalted by God because of his sacrifice"
+  nt_fulfillment: "Matt 28:18"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 273
+  title: "Isaiah 53:12b — He would give up his life to save mankind"
+  slug: "isaiah-53-12-273"
+  ot_reference: "Isaiah 53:12b"
+  claim_summary: "He would give up his life to save mankind"
+  nt_fulfillment: "Luke 23:46"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 274
+  title: "Isaiah 53:12c — Numbered with the transgressors"
+  slug: "isaiah-53-12-274"
+  ot_reference: "Isaiah 53:12c"
+  claim_summary: "Numbered with the transgressors"
+  nt_fulfillment: "Mark 15:27-28"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 275
+  title: "Isaiah 53:12d — Sin-bearer for all mankind"
+  slug: "isaiah-53-12-275"
+  ot_reference: "Isaiah 53:12d"
+  claim_summary: "Sin-bearer for all mankind"
+  nt_fulfillment: "1 Pet 2:24"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 276
+  title: "Isaiah 53:12e — Intercede to God in behalf of mankind"
+  slug: "isaiah-53-12-276"
+  ot_reference: "Isaiah 53:12e"
+  claim_summary: "Intercede to God in behalf of mankind"
+  nt_fulfillment: "Luke 23:34; Rom 8:34"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 277
+  title: "Isaiah 55:3 — Resurrected by God"
+  slug: "isaiah-55-3-277"
+  ot_reference: "Isaiah 55:3"
+  claim_summary: "Resurrected by God"
+  nt_fulfillment: "Acts 13:34"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 278
+  title: "Isaiah 55:4a — A witness"
+  slug: "isaiah-55-4-278"
+  ot_reference: "Isaiah 55:4a"
+  claim_summary: "A witness"
+  nt_fulfillment: "John 18:37"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 279
+  title: "Isaiah 55:4b — He is a leader and commander"
+  slug: "isaiah-55-4-279"
+  ot_reference: "Isaiah 55:4b"
+  claim_summary: "He is a leader and commander"
+  nt_fulfillment: "Heb 2:10"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 280
+  title: "Isaiah 55:5 — God would glorify Him"
+  slug: "isaiah-55-5-280"
+  ot_reference: "Isaiah 55:5"
+  claim_summary: "God would glorify Him"
+  nt_fulfillment: "Acts 3:13"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 281
+  title: "Isaiah 59:16a — Intercessor between man and God"
+  slug: "isaiah-59-16-281"
+  ot_reference: "Isaiah 59:16a"
+  claim_summary: "Intercessor between man and God"
+  nt_fulfillment: "Matt 10:32"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 282
+  title: "Isaiah 59:16b — He would come to provide salvation"
+  slug: "isaiah-59-16-282"
+  ot_reference: "Isaiah 59:16b"
+  claim_summary: "He would come to provide salvation"
+  nt_fulfillment: "John 6:40"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 283
+  title: "Isaiah 59:20 — He would come to Zion as their Redeemer"
+  slug: "isaiah-59-20-283"
+  ot_reference: "Isaiah 59:20"
+  claim_summary: "He would come to Zion as their Redeemer"
+  nt_fulfillment: "Luke 2:38"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 284
+  title: "Isaiah 60:1-3 — He would show light to the Gentiles"
+  slug: "isaiah-60-1-3-284"
+  ot_reference: "Isaiah 60:1-3"
+  claim_summary: "He would show light to the Gentiles"
+  nt_fulfillment: "Acts 26:23"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 285
+  title: "Isaiah 61:1a — The Spirit of God upon him"
   slug: "isaiah-61"
-  ot_reference: "Isaiah 61"
-  claim_summary: ""
-  nt_fulfillment: ""
+  ot_reference: "Isaiah 61:1a"
+  claim_summary: "The Spirit of God upon him"
+  nt_fulfillment: "Matt 3:16-17"
   skeptic_failed_criteria: ""
   status: "not started"
 
-- number: null
-  title: "Jeremiah 31"
+- number: 286
+  title: "Isaiah 61:1b — The Messiah would preach the good news"
+  slug: "isaiah-61-1-286"
+  ot_reference: "Isaiah 61:1b"
+  claim_summary: "The Messiah would preach the good news"
+  nt_fulfillment: "Luke 4:16-21"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 287
+  title: "Isaiah 61:1c — Provide freedom from the bondage of sin"
+  slug: "isaiah-61-1-287"
+  ot_reference: "Isaiah 61:1c"
+  claim_summary: "Provide freedom from the bondage of sin"
+  nt_fulfillment: "John 8:31-36"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 288
+  title: "Isaiah 61:1-2a — Proclaim a period of grace"
+  slug: "isaiah-61-1-2-288"
+  ot_reference: "Isaiah 61:1-2a"
+  claim_summary: "Proclaim a period of grace"
+  nt_fulfillment: "Gal 4:4-5"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 289
+  title: "Jeremiah 23:5-6 — Descendant of David"
+  slug: "jeremiah-23-5-6-289"
+  ot_reference: "Jeremiah 23:5-6"
+  claim_summary: "Descendant of David"
+  nt_fulfillment: "Luke 3:23-31"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 290
+  title: "Jeremiah 23:5-6 — The Messiah would be both God and Man"
+  slug: "jeremiah-23-5-6-290"
+  ot_reference: "Jeremiah 23:5-6"
+  claim_summary: "The Messiah would be both God and Man"
+  nt_fulfillment: "John 13:13; 1 Tim 3:16"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 291
+  title: "Jeremiah 31:22 — Born of a virgin"
   slug: "jeremiah-31"
-  ot_reference: "Jeremiah 31"
-  claim_summary: ""
-  nt_fulfillment: ""
+  ot_reference: "Jeremiah 31:22"
+  claim_summary: "Born of a virgin"
+  nt_fulfillment: "Matt 1:18-20"
   skeptic_failed_criteria: ""
   status: "not started"
 
-- number: null
-  title: "Malachi 3"
-  slug: "malachi-3"
-  ot_reference: "Malachi 3"
-  claim_summary: ""
-  nt_fulfillment: ""
+- number: 292
+  title: "Jeremiah 31:31 — The Messiah would be the new covenant"
+  slug: "jeremiah-31-31-292"
+  ot_reference: "Jeremiah 31:31"
+  claim_summary: "The Messiah would be the new covenant"
+  nt_fulfillment: "Matt 26:28"
   skeptic_failed_criteria: ""
   status: "not started"
 
-- number: null
-  title: "Malachi 4"
-  slug: "malachi-4"
-  ot_reference: "Malachi 4"
-  claim_summary: ""
-  nt_fulfillment: ""
+- number: 293
+  title: "Jeremiah 33:14-15 — Descendant of David"
+  slug: "jeremiah-33-14-15-293"
+  ot_reference: "Jeremiah 33:14-15"
+  claim_summary: "Descendant of David"
+  nt_fulfillment: "Luke 3:23-31"
   skeptic_failed_criteria: ""
   status: "not started"
 
-- number: null
-  title: "Micah 4"
-  slug: "micah-4"
-  ot_reference: "Micah 4"
-  claim_summary: ""
-  nt_fulfillment: ""
+- number: 294
+  title: "Ezekiel 34:23-24 — Descendant of David"
+  slug: "ezekiel-34"
+  ot_reference: "Ezekiel 34:23-24"
+  claim_summary: "Descendant of David"
+  nt_fulfillment: "Matt 1:1"
   skeptic_failed_criteria: ""
   status: "not started"
 
-- number: null
-  title: "Micah 5:2"
+- number: 295
+  title: "Ezekiel 37:24-25 — Descendant of David"
+  slug: "ezekiel-37-24-25-295"
+  ot_reference: "Ezekiel 37:24-25"
+  claim_summary: "Descendant of David"
+  nt_fulfillment: "Luke 1:31-33"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 296
+  title: "Daniel 2:44-45 — The Stone that shall break the kingdoms"
+  slug: "daniel-2-44-45-296"
+  ot_reference: "Daniel 2:44-45"
+  claim_summary: "The Stone that shall break the kingdoms"
+  nt_fulfillment: "Matt 21:44"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 297
+  title: "Daniel 7:13-14a — He would ascend into heaven"
+  slug: "daniel-7"
+  ot_reference: "Daniel 7:13-14a"
+  claim_summary: "He would ascend into heaven"
+  nt_fulfillment: "Acts 1:9-11"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 298
+  title: "Daniel 7:13-14b — Highly exalted"
+  slug: "daniel-7-13-14-298"
+  ot_reference: "Daniel 7:13-14b"
+  claim_summary: "Highly exalted"
+  nt_fulfillment: "Eph 1:20-22"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 299
+  title: "Daniel 7:13-14c — His dominion would be everlasting"
+  slug: "daniel-7-13-14-299"
+  ot_reference: "Daniel 7:13-14c"
+  claim_summary: "His dominion would be everlasting"
+  nt_fulfillment: "Luke 1:31-33"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 300
+  title: "Daniel 9:24a — To make an end to sins"
+  slug: "daniel-9"
+  ot_reference: "Daniel 9:24a"
+  claim_summary: "To make an end to sins"
+  nt_fulfillment: "Gal 1:3-5"
+  skeptic_failed_criteria: ""
+  status: "in progress"
+
+- number: 301
+  title: "Daniel 9:24a — To make reconciliation for iniquity"
+  slug: "daniel-9-24-301"
+  ot_reference: "Daniel 9:24a"
+  claim_summary: "To make reconciliation for iniquity"
+  nt_fulfillment: "Rom 5:10; 2 Cor 5:18-21"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 302
+  title: "Daniel 9:24b — He would be holy"
+  slug: "daniel-9-24-302"
+  ot_reference: "Daniel 9:24b"
+  claim_summary: "He would be holy"
+  nt_fulfillment: "Luke 1:35"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 303
+  title: "Daniel 9:25 — His announcement"
+  slug: "daniel-9-25-303"
+  ot_reference: "Daniel 9:25"
+  claim_summary: "His announcement"
+  nt_fulfillment: "John 12:12-13"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 304
+  title: "Daniel 9:26a — Cut off"
+  slug: "daniel-9-26-304"
+  ot_reference: "Daniel 9:26a"
+  claim_summary: "Cut off"
+  nt_fulfillment: "Matt 16:21; 21:38-39"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 305
+  title: "Daniel 9:26b — Die for the sins of the world"
+  slug: "daniel-9-26-305"
+  ot_reference: "Daniel 9:26b"
+  claim_summary: "Die for the sins of the world"
+  nt_fulfillment: "Heb 2:9"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 306
+  title: "Daniel 9:26c — Killed before the destruction of the temple"
+  slug: "daniel-9-26-306"
+  ot_reference: "Daniel 9:26c"
+  claim_summary: "Killed before the destruction of the temple"
+  nt_fulfillment: "Matt 27:50-51"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 307
+  title: "Daniel 10:5-6 — Messiah in a glorified state"
+  slug: "daniel-10-5-6-307"
+  ot_reference: "Daniel 10:5-6"
+  claim_summary: "Messiah in a glorified state"
+  nt_fulfillment: "Rev 1:13-16"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 308
+  title: "Hosea 11:1 — He would be called out of Egypt"
+  slug: "hosea-11-1-308"
+  ot_reference: "Hosea 11:1"
+  claim_summary: "He would be called out of Egypt"
+  nt_fulfillment: "Matt 2:15"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 309
+  title: "Hosea 13:14 — He would defeat death"
+  slug: "hosea-13-14-309"
+  ot_reference: "Hosea 13:14"
+  claim_summary: "He would defeat death"
+  nt_fulfillment: "1 Cor 15:55-57"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 310
+  title: "Joel 2:32 — Offer salvation to all mankind"
+  slug: "joel-2-32-310"
+  ot_reference: "Joel 2:32"
+  claim_summary: "Offer salvation to all mankind"
+  nt_fulfillment: "Rom 10:9-13"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 311
+  title: "Jonah 1:17 — Death and resurrection of Christ"
+  slug: "jonah-1-17-311"
+  ot_reference: "Jonah 1:17"
+  claim_summary: "Death and resurrection of Christ"
+  nt_fulfillment: "Matt 12:40; 16:4"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 312
+  title: "Micah 5:2a — Born in Bethlehem"
   slug: "micah-5-2"
-  ot_reference: "Micah 5:2"
-  claim_summary: "Messiah would come from Bethlehem"
-  nt_fulfillment: ""
+  ot_reference: "Micah 5:2a"
+  claim_summary: "Born in Bethlehem"
+  nt_fulfillment: "Matt 2:1-6"
   skeptic_failed_criteria: ""
   status: "in progress"
 
-- number: null
-  title: "Psalm 2"
-  slug: "psalm-2"
-  ot_reference: "Psalm 2"
-  claim_summary: ""
-  nt_fulfillment: ""
+- number: 313
+  title: "Micah 5:2b — Ruler in Israel"
+  slug: "micah-5-2-313"
+  ot_reference: "Micah 5:2b"
+  claim_summary: "Ruler in Israel"
+  nt_fulfillment: "Luke 1:33"
   skeptic_failed_criteria: ""
   status: "not started"
 
-- number: null
-  title: "Psalm 16"
-  slug: "psalm-16"
-  ot_reference: "Psalm 16"
-  claim_summary: ""
-  nt_fulfillment: ""
+- number: 314
+  title: "Micah 5:2c — From everlasting"
+  slug: "micah-5-2-314"
+  ot_reference: "Micah 5:2c"
+  claim_summary: "From everlasting"
+  nt_fulfillment: "John 8:58"
   skeptic_failed_criteria: ""
   status: "not started"
 
-- number: null
-  title: "Psalm 22"
-  slug: "psalm-22"
-  ot_reference: "Psalm 22"
-  claim_summary: "Details of Jesus' suffering and death"
-  nt_fulfillment: ""
-  skeptic_failed_criteria: ""
-  status: "in progress"
-
-- number: null
-  title: "Psalm 41:9"
-  slug: "psalm-41-9"
-  ot_reference: "Psalm 41:9"
-  claim_summary: ""
-  nt_fulfillment: ""
+- number: 315
+  title: "Haggai 2:6-9 — He would visit the second Temple"
+  slug: "haggai-2-6-9-315"
+  ot_reference: "Haggai 2:6-9"
+  claim_summary: "He would visit the second Temple"
+  nt_fulfillment: "Luke 2:27-32"
   skeptic_failed_criteria: ""
   status: "not started"
 
-- number: null
-  title: "Psalm 110"
-  slug: "psalm-110"
-  ot_reference: "Psalm 110"
-  claim_summary: ""
-  nt_fulfillment: ""
+- number: 316
+  title: "Haggai 2:23 — Descendant of Zerubbabel"
+  slug: "haggai-2-23-316"
+  ot_reference: "Haggai 2:23"
+  claim_summary: "Descendant of Zerubbabel"
+  nt_fulfillment: "Luke 2:27-32"
   skeptic_failed_criteria: ""
   status: "not started"
 
-- number: null
-  title: "Zechariah 9"
+- number: 317
+  title: "Zechariah 3:8 — God's servant"
+  slug: "zechariah-3-8-317"
+  ot_reference: "Zechariah 3:8"
+  claim_summary: "God's servant"
+  nt_fulfillment: "John 17:4"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 318
+  title: "Zechariah 6:12-13 — Priest and King"
+  slug: "zechariah-6-12-13-318"
+  ot_reference: "Zechariah 6:12-13"
+  claim_summary: "Priest and King"
+  nt_fulfillment: "Heb 8:1"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 319
+  title: "Zechariah 9:9a — Greeted with rejoicing in Jerusalem"
   slug: "zechariah-9"
-  ot_reference: "Zechariah 9"
-  claim_summary: ""
-  nt_fulfillment: ""
+  ot_reference: "Zechariah 9:9a"
+  claim_summary: "Greeted with rejoicing in Jerusalem"
+  nt_fulfillment: "Matt 21:8-10"
   skeptic_failed_criteria: ""
   status: "not started"
 
-- number: null
-  title: "Zechariah 11"
+- number: 320
+  title: "Zechariah 9:9b — Beheld as King"
+  slug: "zechariah-9-9-320"
+  ot_reference: "Zechariah 9:9b"
+  claim_summary: "Beheld as King"
+  nt_fulfillment: "John 12:12-13"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 321
+  title: "Zechariah 9:9c — The Messiah would be just"
+  slug: "zechariah-9-9-321"
+  ot_reference: "Zechariah 9:9c"
+  claim_summary: "The Messiah would be just"
+  nt_fulfillment: "John 5:30"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 322
+  title: "Zechariah 9:9d — The Messiah would bring salvation"
+  slug: "zechariah-9-9-322"
+  ot_reference: "Zechariah 9:9d"
+  claim_summary: "The Messiah would bring salvation"
+  nt_fulfillment: "Luke 19:10"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 323
+  title: "Zechariah 9:9e — The Messiah would be humble"
+  slug: "zechariah-9-9-323"
+  ot_reference: "Zechariah 9:9e"
+  claim_summary: "The Messiah would be humble"
+  nt_fulfillment: "Matt 11:29"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 324
+  title: "Zechariah 9:9f — Presented to Jerusalem riding on a donkey"
+  slug: "zechariah-9-9-324"
+  ot_reference: "Zechariah 9:9f"
+  claim_summary: "Presented to Jerusalem riding on a donkey"
+  nt_fulfillment: "Matt 21:6-9"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 325
+  title: "Zechariah 10:4 — The cornerstone"
+  slug: "zechariah-10-4-325"
+  ot_reference: "Zechariah 10:4"
+  claim_summary: "The cornerstone"
+  nt_fulfillment: "Eph 2:20"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 326
+  title: "Zechariah 11:4-6a — At His coming, Israel to have unfit leaders"
   slug: "zechariah-11"
-  ot_reference: "Zechariah 11"
-  claim_summary: "Betrayal associated with thirty pieces of silver"
-  nt_fulfillment: ""
+  ot_reference: "Zechariah 11:4-6a"
+  claim_summary: "At His coming, Israel to have unfit leaders"
+  nt_fulfillment: "Matt 23:1-4"
   skeptic_failed_criteria: ""
   status: "in progress"
 
-- number: null
-  title: "Zechariah 12"
+- number: 327
+  title: "Zechariah 11:4-6b — Rejection causes God to remove His protection"
+  slug: "zechariah-11-4-6-327"
+  ot_reference: "Zechariah 11:4-6b"
+  claim_summary: "Rejection causes God to remove His protection"
+  nt_fulfillment: "Luke 19:41-44"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 328
+  title: "Zechariah 11:4-6c — Rejected in favor of another king"
+  slug: "zechariah-11-4-6-328"
+  ot_reference: "Zechariah 11:4-6c"
+  claim_summary: "Rejected in favor of another king"
+  nt_fulfillment: "John 19:13-15"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 329
+  title: "Zechariah 11:7 — Ministry to \"poor,\" the believing remnant"
+  slug: "zechariah-11-7-329"
+  ot_reference: "Zechariah 11:7"
+  claim_summary: "Ministry to \"poor,\" the believing remnant"
+  nt_fulfillment: "Matt 9:35-36"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 330
+  title: "Zechariah 11:8a — Unbelief forces Messiah to reject them"
+  slug: "zechariah-11-8-330"
+  ot_reference: "Zechariah 11:8a"
+  claim_summary: "Unbelief forces Messiah to reject them"
+  nt_fulfillment: "Matt 23:33"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 331
+  title: "Zechariah 11:8b — Despised"
+  slug: "zechariah-11-8-331"
+  ot_reference: "Zechariah 11:8b"
+  claim_summary: "Despised"
+  nt_fulfillment: "Matt 27:20"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 332
+  title: "Zechariah 11:9 — Stops ministering to those who rejected Him"
+  slug: "zechariah-11-9-332"
+  ot_reference: "Zechariah 11:9"
+  claim_summary: "Stops ministering to those who rejected Him"
+  nt_fulfillment: "Matt 13:10-11"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 333
+  title: "Zechariah 11:10-11a — Rejection causes God to remove protection"
+  slug: "zechariah-11-10-11-333"
+  ot_reference: "Zechariah 11:10-11a"
+  claim_summary: "Rejection causes God to remove protection"
+  nt_fulfillment: "Luke 19:41-44"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 334
+  title: "Zechariah 11:10-11b — The Messiah would be God"
+  slug: "zechariah-11-10-11-334"
+  ot_reference: "Zechariah 11:10-11b"
+  claim_summary: "The Messiah would be God"
+  nt_fulfillment: "John 14:7"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 335
+  title: "Zechariah 11:12-13a — Betrayed for thirty pieces of silver"
+  slug: "zechariah-11-12-13-335"
+  ot_reference: "Zechariah 11:12-13a"
+  claim_summary: "Betrayed for thirty pieces of silver"
+  nt_fulfillment: "Matt 26:14-15"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 336
+  title: "Zechariah 11:12-13b — Rejected"
+  slug: "zechariah-11-12-13-336"
+  ot_reference: "Zechariah 11:12-13b"
+  claim_summary: "Rejected"
+  nt_fulfillment: "Matt 26:14-15"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 337
+  title: "Zechariah 11:12-13c — Thirty pieces of silver cast in the house of the Lord"
+  slug: "zechariah-11-12-13-337"
+  ot_reference: "Zechariah 11:12-13c"
+  claim_summary: "Thirty pieces of silver cast in the house of the Lord"
+  nt_fulfillment: "Matt 27:3-5"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 338
+  title: "Zechariah 11:12-13d — The Messiah would be God"
+  slug: "zechariah-11-12-13-338"
+  ot_reference: "Zechariah 11:12-13d"
+  claim_summary: "The Messiah would be God"
+  nt_fulfillment: "John 12:45"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 339
+  title: "Zechariah 12:10a — The Messiah's body would be pierced"
   slug: "zechariah-12"
-  ot_reference: "Zechariah 12"
-  claim_summary: ""
-  nt_fulfillment: ""
+  ot_reference: "Zechariah 12:10a"
+  claim_summary: "The Messiah's body would be pierced"
+  nt_fulfillment: "John 19:34-37"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 340
+  title: "Zechariah 12:10b — The Messiah would be both God and man"
+  slug: "zechariah-12-10-340"
+  ot_reference: "Zechariah 12:10b"
+  claim_summary: "The Messiah would be both God and man"
+  nt_fulfillment: "John 10:30"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 341
+  title: "Zechariah 12:10c — The Messiah would be rejected"
+  slug: "zechariah-12-10-341"
+  ot_reference: "Zechariah 12:10c"
+  claim_summary: "The Messiah would be rejected"
+  nt_fulfillment: "John 1:11"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 342
+  title: "Zechariah 13:7a — God's will He die for mankind"
+  slug: "zechariah-13-7-342"
+  ot_reference: "Zechariah 13:7a"
+  claim_summary: "God's will He die for mankind"
+  nt_fulfillment: "John 18:11"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 343
+  title: "Zechariah 13:7b — A violent death"
+  slug: "zechariah-13-7-343"
+  ot_reference: "Zechariah 13:7b"
+  claim_summary: "A violent death"
+  nt_fulfillment: "Mark 14:27"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 344
+  title: "Zechariah 13:7c — Both God and man"
+  slug: "zechariah-13-7-344"
+  ot_reference: "Zechariah 13:7c"
+  claim_summary: "Both God and man"
+  nt_fulfillment: "John 14:9"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 345
+  title: "Zechariah 13:7d — Israel scattered as a result of rejecting Him"
+  slug: "zechariah-13-7-345"
+  ot_reference: "Zechariah 13:7d"
+  claim_summary: "Israel scattered as a result of rejecting Him"
+  nt_fulfillment: "Matt 26:31-56"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 346
+  title: "Zechariah 14:4 — He would return to the Mt. of Olives"
+  slug: "zechariah-14-4-346"
+  ot_reference: "Zechariah 14:4"
+  claim_summary: "He would return to the Mt. of Olives"
+  nt_fulfillment: "Acts 1:11-12"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 347
+  title: "Malachi 3:1a — Messenger to prepare the way for Messiah"
+  slug: "malachi-3"
+  ot_reference: "Malachi 3:1a"
+  claim_summary: "Messenger to prepare the way for Messiah"
+  nt_fulfillment: "Mark 1:1-8"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 348
+  title: "Malachi 3:1b — Sudden appearance at the temple"
+  slug: "malachi-3-1-348"
+  ot_reference: "Malachi 3:1b"
+  claim_summary: "Sudden appearance at the temple"
+  nt_fulfillment: "Mark 11:15-16"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 349
+  title: "Malachi 3:1c — Messenger of the new covenant"
+  slug: "malachi-3-1-349"
+  ot_reference: "Malachi 3:1c"
+  claim_summary: "Messenger of the new covenant"
+  nt_fulfillment: "Luke 4:43"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 350
+  title: "Malachi 4:5 — Forerunner in spirit of Elijah"
+  slug: "malachi-4"
+  ot_reference: "Malachi 4:5"
+  claim_summary: "Forerunner in spirit of Elijah"
+  nt_fulfillment: "Matt 3:1-3; 11:10-14; 17:11-13"
+  skeptic_failed_criteria: ""
+  status: "not started"
+
+- number: 351
+  title: "Malachi 4:6 — Forerunner would turn many to righteousness"
+  slug: "malachi-4-6-351"
+  ot_reference: "Malachi 4:6"
+  claim_summary: "Forerunner would turn many to righteousness"
+  nt_fulfillment: "Luke 1:16-17"
   skeptic_failed_criteria: ""
   status: "not started"

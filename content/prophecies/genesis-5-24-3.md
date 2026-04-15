@@ -1,0 +1,36 @@
+# Genesis 5:24 — The bodily ascension to heaven illustrated
+
+## Claim
+This entry evaluates the claim that The bodily ascension to heaven illustrated.
+
+## 351 List Reference
+- Number: 3
+- OT Reference: Genesis 5:24
+- Claim Summary: The bodily ascension to heaven illustrated
+- Claimed NT Fulfillment: Mark 16:19
+
+## Skeptic Criteria Evaluation
+- Claimed failed criteria: [Add criteria numbers after review]
+- Brief skeptic summary: [Summarize the skeptical objection for this numbered claim.]
+
+## Old Testament Passage
+
+## Old Testament Context
+
+## Claimed New Testament Fulfillment
+
+## Why a Skeptic Says It Fails
+
+## Original Language Notes
+
+## Historical and Cultural Context
+
+## Jewish Interpretation
+
+## Christian Interpretation
+
+## Textual Issues
+
+## My Conclusion
+
+## Sources
