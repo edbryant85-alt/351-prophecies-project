@@ -224,13 +224,14 @@ a:hover {
 }
 
 .page-note {
-  margin: 0 0 22px;
-  padding: 14px 16px;
-  border-left: 4px solid var(--accent);
-  background: var(--accent-soft);
-  color: var(--muted);
+  margin: 0 0 20px;
+  padding: 10px 12px;
+  border: 1px solid rgba(85, 107, 123, 0.18);
+  border-left: 3px solid rgba(85, 107, 123, 0.55);
+  background: rgba(232, 237, 240, 0.55);
+  color: #6a747d;
   font-family: Arial, Helvetica, sans-serif;
-  font-size: 0.93rem;
+  font-size: 0.82rem;
 }
 
 .badge {
@@ -248,9 +249,14 @@ a:hover {
 }
 
 .article h2 {
-  margin-top: 30px;
+  margin-top: 42px;
   margin-bottom: 10px;
   font-size: 1.28rem;
+}
+
+.article h2:not(:first-of-type) {
+  padding-top: 18px;
+  border-top: 1px solid rgba(216, 210, 196, 0.8);
 }
 
 .article h3 {
@@ -288,7 +294,54 @@ a:hover {
 }
 
 .sidebar-card li + li {
-  margin-top: 10px;
+  margin-top: 12px;
+}
+
+.sidebar-nav {
+  max-height: 360px;
+  overflow: auto;
+  padding-right: 4px;
+}
+
+.sidebar-nav li + li {
+  margin-top: 8px;
+}
+
+.sidebar-nav a {
+  display: block;
+  padding: 10px 12px;
+  border: 1px solid transparent;
+  border-radius: 10px;
+  transition: background-color 0.18s ease, border-color 0.18s ease, transform 0.18s ease;
+}
+
+.sidebar-nav a:hover {
+  background: rgba(232, 237, 240, 0.7);
+  border-color: rgba(85, 107, 123, 0.2);
+  text-decoration: none;
+  transform: translateX(2px);
+}
+
+.sidebar-nav .active {
+  background: rgba(232, 237, 240, 0.92);
+  border-color: rgba(85, 107, 123, 0.26);
+  font-weight: 700;
+}
+
+.breadcrumbs {
+  margin: 0 0 14px;
+  color: var(--muted);
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 0.85rem;
+}
+
+.breadcrumbs a {
+  color: var(--muted);
+}
+
+.breadcrumbs span {
+  margin: 0 6px;
+  color: #9aa4ac;
 }
 
 .sidebar-card .section-label {
@@ -329,6 +382,11 @@ a:hover {
 
   .sidebar {
     position: static;
+    order: 2;
+  }
+
+  .article {
+    order: 1;
   }
 
   .index-list {
