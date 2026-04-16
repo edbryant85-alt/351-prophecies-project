@@ -25,41 +25,53 @@
 - [Psalm 22:31 (Claim 91)](./psalm-22-31-91.md)
 
 ## Claim
-State the exact prophecy claim clearly.
-
-Placeholder:
-[Write the claim in your own words. Example topic: Psalm 22 predicts details of Jesus' suffering and death.]
+Christians often argue that Psalm 22 predicts important aspects of Jesus' suffering, rejection, and death. In Christian interpretation, it has become one of the central Old Testament texts for reading the crucifixion, especially because several lines in the psalm appear to echo scenes in the Gospel passion narratives. At the same time, the passage is heavily disputed because Psalm 22 is first and foremost a lament psalm, not an explicit prophetic oracle about a distant future messiah.
 
 ## 351 List Reference
-- Number:
-- OT Reference:
-- Claim Summary:
-- Claimed NT Fulfillment:
+- Number: Multiple numbered claims in the 351 list
+- OT Reference: Psalm 22
+- Claim Summary: righteous sufferer, mockery, bodily suffering, divided garments, vindication
+- Claimed NT Fulfillment: Passion narratives, Gospel crucifixion scenes, related allusions
 
 ## Skeptic Criteria Evaluation
-In the current project dataset, this claim is provisionally marked as failing criteria 2,3,4,5,6. Many skeptics argue that passages like this are being read through later theological framing rather than as clear, self-contained predictions. On that reading, the claim may depend on ambiguity, typology, or retrospective interpretation rather than a single direct fulfillment.
+Skeptics commonly argue that Psalm 22 fails criteria 2, 3, 4, 5, and 6. Their case is that the psalm is a lament, not an explicit future prediction; that much of its language is poetic and metaphorical; that some details, especially verse 16, are textually disputed; and that the New Testament seems to reuse or frame Jesus' suffering in light of the psalm. On that reading, Psalm 22 works less like a single precise prediction and more like a cluster of motifs later gathered into Christian passion theology.
 ## Old Testament Passage
-This entry centers on Psalm 22:1, which appears in poetic or wisdom literature rather than in a straightforward predictive format. The passage likely uses compressed imagery, parallelism, and thematic language that need to be read in literary context. For placeholder purposes, this section should eventually summarize the immediate unit, its emotional or theological emphasis, and how the specific line functions within the larger composition.
+Psalm 22 begins with a cry of abandonment, moves through mockery, bodily distress, hostile enemies, and public humiliation, and later turns toward rescue, praise, and worldwide acknowledgment of God. The speaker describes himself as surrounded, weakened, and shamed, while enemies jeer and divide his garments. Taken as a whole, the psalm is not simply a scene of suffering but a movement from desperation to vindication and worship.
 ## Old Testament Context
-The historical setting is often less direct here than in narrative or prophetic prose, because poetry can speak through lament, praise, royal language, wisdom reflection, or temple imagery. The original audience would have heard the passage as part of Israel's worshipping and literary tradition, not necessarily as a detached prediction formula. That makes genre and voice especially important when evaluating later fulfillment claims.
+Psalm 22 belongs to the genre of lament psalm, where the speaker cries out in anguish, protests apparent abandonment, and appeals to God for deliverance. It is traditionally associated with David, though the literary function of the superscription and the historical setting of the psalm are debated. Original context matters because lament poetry is designed to voice suffering in worship, and the righteous sufferer motif is already deeply at home in Israel's Psalter before any specifically Christian application is considered.
 ## Claimed New Testament Fulfillment
-The dataset associates this claim with 2 Cor 5:21. In Christian interpretation, the New Testament reference is taken either as a direct fulfillment text, a typological echo, or a theological application of the Old Testament passage. A final draft should explain how explicit the connection actually is and whether the New Testament is quoting, alluding to, or conceptually reframing the earlier text.
+The New Testament uses Psalm 22 in several ways. Most famously, Jesus quotes the opening line from the cross in the Synoptic passion narratives, and the Gospels also echo the psalm's mockery scenes, bodily distress, and the division of garments. For Christian interpretation, this means Psalm 22 is not merely a background text but one of the key scriptural lenses through which the passion is narrated and understood.
 ## Why a Skeptic Says It Fails
-Typical skeptical objections include context mismatch, ambiguity of wording, and the possibility that the passage functions better as pattern or typology than as direct prediction. Skeptics also argue that some fulfillment claims depend heavily on New Testament framing, which can make the relationship look retrospective rather than independently predictive. In a final analysis, this section should distinguish between objections to the original meaning of the passage and objections to the later Christian use of it.
+### C2 Predictive Intent
+Skeptics argue that Psalm 22 is not presented as a forecast of a future messiah but as a prayer of present suffering. The psalm speaks in the voice of an afflicted worshiper crying to God, and its original literary function is lament rather than prediction.
+
+### C3 Non-Mundane
+Some lines are vivid, but skeptics note that mockery, bodily agony, abandonment, and enemy threats are common features of lament literature. Even where the psalm feels unusually intense, the experiences it describes are not obviously so specific or improbable that they function as unmistakable prophecy.
+
+### C4 Specific and Verifiable
+Christians often point to details such as divided garments and hostile taunts, but skeptics reply that these details appear within poetic imagery rather than a straightforward future scenario. The connection to Jesus may be impressive cumulatively, yet each detail is difficult to verify as a stand-alone prediction.
+
+### C5 Clarity
+This is one of the central objections. The psalm's imagery is metaphorical, compressed, and shaped by Hebrew poetic conventions, which means readers can disagree over which elements are literal, which are hyperbolic, and which are symbolic.
+
+### C6 Independence
+Skeptics also argue that the Gospel writers knew Psalm 22 well and may have narrated aspects of Jesus' suffering with the psalm consciously in view. On that account, the issue is not simply whether Jesus' death fits Psalm 22, but whether the Christian presentation of the crucifixion has already been scripturally shaped by it.
 ## Original Language Notes
-Interpretation may depend in part on Hebrew terms in the Old Testament and, where relevant, on Greek wording in the Septuagint or New Testament. Translation choices can shape whether a phrase sounds like direct prediction, poetic description, royal ideology, or theological symbolism. A final draft should identify the key lexical or grammatical terms that materially affect the claim rather than assuming that standard English renderings settle the question.
+The psalm opens with the well-known Hebrew cry "My God, my God, why have you forsaken me?", a line whose emotional force is clear even if its theological implications are debated. Much of the psalm's language is highly figurative, especially the animal imagery and bodily descriptions, so interpreters must decide when the speaker is using metaphor, when he is describing social humiliation, and when he is describing physical danger. The most famous textual issue appears in verse 16, where the wording behind translations such as "like a lion" and "they pierced" has major consequences for Christian apologetic use of the psalm.
 ## Historical and Cultural Context
-Relevant background may include temple worship, royal ideology, lament conventions, wisdom traditions, and the wider symbolic language of the ancient Near East. Poetic passages can carry dense imagery that should not be flattened into a single predictive statement without literary caution. Second Temple and early Christian reception history may also influence how later readers connected such texts to messianic expectations.
+Psalm 22 belongs to the lament traditions of ancient Israel, where the suffering righteous person cries publicly to God and expects eventual vindication. Public shame, enemy mockery, and bodily collapse are all familiar elements in this kind of poetry, and they often function through vivid metaphor rather than through report-like narration. This is one reason crucifixion parallels are debated: the psalm can sound remarkably close to the passion story, but it does so through poetic language that was already available within Israel's worship and literary imagination.
 ## Jewish Interpretation
-Many Jewish interpreters read passages like this first within their original literary and historical setting rather than as direct predictions of Jesus. Depending on the text, Jewish readings may emphasize immediate historical referents, corporate Israel, the Davidic line, temple concerns, wisdom themes, or future messianic hope understood differently from Christian readings. Jewish interpretation is not monolithic, so a final draft should note major streams of interpretation without reducing them to a single position.
+Major Jewish readings generally take Psalm 22 as a Davidic or David-like lament rather than as a direct prophecy of Jesus. Some interpretations read it as the voice of the righteous sufferer, while others have allowed broader communal applications in which Israel itself can be understood as suffering before hostile nations. Later mainstream Jewish interpretation has usually not treated Psalm 22 as a messianic prediction in the Christian sense, even though the psalm can still be read as profoundly significant for suffering and deliverance.
 ## Christian Interpretation
-Many Christians read this passage messianically, typologically, or prophetically in relation to Jesus. Interpretations vary: some argue for a direct prediction, others for dual fulfillment, and others for a broader canonical or typological pattern that culminates in the New Testament. A final draft should distinguish these interpretive approaches rather than treating all Christian readings as identical.
+Christian interpretation has long treated Psalm 22 as one of the strongest passion texts in the Old Testament. Some readers argue for direct predictive prophecy, especially where the Gospel narratives seem to align with specific details in the psalm. Others understand it more typologically or canonically, arguing that Jesus, as the righteous sufferer, fills out the pattern already present in Davidic lament and that the Gospels deliberately frame the crucifixion within that scriptural world.
 ## Textual Issues
-Textual questions may involve the Masoretic Text, the Septuagint, and where relevant the Dead Sea Scrolls. In some passages, these witnesses differ in wording or nuance enough to affect interpretation; in others, the debate is less about textual instability and more about how a relatively stable text should be read. This means textual criticism can be important, but it is not always decisive for the larger prophecy debate.
+The textual discussion around Psalm 22 often centers on the relationship between the Masoretic Text and the Septuagint, especially in verse 16 and the question of whether the line should be read in a way closer to "like a lion" or to "they pierced." That difference matters because apologetic claims are often strongest when the psalm is translated in a way that appears to align closely with crucifixion imagery. More broadly, the textual tradition does not erase the psalm's pre-Christian origin, but it does complicate claims that every key line is textually simple and prophetically decisive.
 ## My Conclusion
-This entry remains under review and should be treated as a structured placeholder rather than a final judgment. Its eventual classification will depend in part on how prophecy is defined in this project: as direct prediction, as typological pattern, or as a broader canonical reading. For now, the main goal is to preserve the research structure and identify the key interpretive questions without forcing a premature conclusion.
+Psalm 22 is one of the strongest Christian passion texts in the Old Testament, especially because the Gospels repeatedly resonate with its language and imagery. It is not, however, one of the clearest examples of strict stand-alone prediction if prophecy is defined narrowly as an explicit, future-oriented oracle with unmistakable details. It functions more powerfully in cumulative, typological, or canonical frameworks, and for that reason it is a major test case for the larger question this project keeps returning to: whether biblical prophecy is best understood as prediction, pattern, retrospective theological interpretation, or some combination of these.
 ## Sources
-- Standard biblical commentaries
-- Lexical studies (Hebrew/Greek)
-- Jewish and Christian interpretive traditions
-- Historical-critical scholarship
+- John Goldingay
+- Peter Craigie
+- Hans-Joachim Kraus
+- Brevard Childs
+- R. T. France
+- Richard B. Hays
