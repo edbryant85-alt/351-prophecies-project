@@ -9,8 +9,8 @@ This entry evaluates the claim that As Isaac's seed, will bless all nations.
 
 ## Scripture Text
 
-- NRSVue excerpt: _Insert a concise 1-3 verse excerpt from Genesis 22:18 during editorial review._
-- Passage focus: Genesis 22:18
+- Display scope: Full verse
+- Verse reference: Genesis 22:18
 - [View full passage on Bible Gateway](https://www.biblegateway.com/passage/?search=Genesis%2022%3A18&version=NRSVUE)
 
 ### Text Details (Expandable)

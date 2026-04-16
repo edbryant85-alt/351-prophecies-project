@@ -9,8 +9,8 @@ This entry evaluates the claim that Priest and King.
 
 ## Scripture Text
 
-- NRSVue excerpt: _Insert a concise 1-3 verse excerpt from Zechariah 6:12-13 during editorial review._
-- Passage focus: Zechariah 6:12-13
+- Display scope: Full verse
+- Verse reference: Zechariah 6:12-13
 - [View full passage on Bible Gateway](https://www.biblegateway.com/passage/?search=Zechariah%206%3A12-13&version=NRSVUE)
 
 ### Text Details (Expandable)

@@ -11,8 +11,8 @@ This entry evaluates the claim that Declared to be the Son of God with power.
 
 ## Scripture Text
 
-- NRSVue excerpt: _Insert a concise 1-3 verse excerpt from Isaiah 9:6 during editorial review._
-- Passage focus: Isaiah 9:6
+- Display scope: Full verse
+- Verse reference: Isaiah 9:6
 - [View full passage on Bible Gateway](https://www.biblegateway.com/passage/?search=Isaiah%209%3A6&version=NRSVUE)
 
 ### Text Details (Expandable)

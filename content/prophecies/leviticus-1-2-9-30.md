@@ -9,8 +9,8 @@ This entry evaluates the claim that His sacrifice a sweet smelling savor unto Go
 
 ## Scripture Text
 
-- NRSVue excerpt: _Insert a concise 1-3 verse excerpt from Leviticus 1:2-9 during editorial review._
-- Passage focus: Leviticus 1:2-9
+- Display scope: Full verse
+- Verse reference: Leviticus 1:2-9
 - [View full passage on Bible Gateway](https://www.biblegateway.com/passage/?search=Leviticus%201%3A2-9&version=NRSVUE)
 
 ### Text Details (Expandable)

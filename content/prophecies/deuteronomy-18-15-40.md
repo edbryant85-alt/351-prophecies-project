@@ -9,8 +9,8 @@ This entry evaluates the claim that "This is of a truth that prophet".
 
 ## Scripture Text
 
-- NRSVue excerpt: _Insert a concise 1-3 verse excerpt from Deuteronomy 18:15 during editorial review._
-- Passage focus: Deuteronomy 18:15
+- Display scope: Full verse
+- Verse reference: Deuteronomy 18:15
 - [View full passage on Bible Gateway](https://www.biblegateway.com/passage/?search=Deuteronomy%2018%3A15&version=NRSVUE)
 
 ### Text Details (Expandable)

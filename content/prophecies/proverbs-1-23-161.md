@@ -9,8 +9,8 @@ This entry evaluates the claim that He will send the Spirit of God.
 
 ## Scripture Text
 
-- NRSVue excerpt: _Insert a concise 1-3 verse excerpt from Proverbs 1:23 during editorial review._
-- Passage focus: Proverbs 1:23
+- Display scope: Full verse
+- Verse reference: Proverbs 1:23
 - [View full passage on Bible Gateway](https://www.biblegateway.com/passage/?search=Proverbs%201%3A23&version=NRSVUE)
 
 ### Text Details (Expandable)

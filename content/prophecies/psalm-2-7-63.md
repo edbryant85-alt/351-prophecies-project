@@ -11,8 +11,8 @@ This entry evaluates the claim that Declared the Beloved Son.
 
 ## Scripture Text
 
-- NRSVue excerpt: _Insert a concise 1-3 verse excerpt from Psalm 2:7 during editorial review._
-- Passage focus: Psalm 2:7
+- Display scope: Full verse
+- Verse reference: Psalm 2:7
 - [View full passage on Bible Gateway](https://www.biblegateway.com/passage/?search=Psalm%202%3A7&version=NRSVUE)
 
 ### Text Details (Expandable)

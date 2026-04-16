@@ -9,8 +9,8 @@ This entry evaluates the claim that A priest after the order of Melchizedek.
 
 ## Scripture Text
 
-- NRSVue excerpt: _Insert a concise 1-3 verse excerpt from Genesis 14:18 during editorial review._
-- Passage focus: Genesis 14:18
+- Display scope: Full verse
+- Verse reference: Genesis 14:18
 - [View full passage on Bible Gateway](https://www.biblegateway.com/passage/?search=Genesis%2014%3A18&version=NRSVUE)
 
 ### Text Details (Expandable)

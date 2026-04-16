@@ -9,8 +9,8 @@ This entry evaluates the claim that The Blood-the life of the flesh.
 
 ## Scripture Text
 
-- NRSVue excerpt: _Insert a concise 1-3 verse excerpt from Leviticus 17:11 during editorial review._
-- Passage focus: Leviticus 17:11
+- Display scope: Full verse
+- Verse reference: Leviticus 17:11
 - [View full passage on Bible Gateway](https://www.biblegateway.com/passage/?search=Leviticus%2017%3A11&version=NRSVUE)
 
 ### Text Details (Expandable)

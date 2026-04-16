@@ -9,8 +9,8 @@ This entry evaluates the claim that God's servant.
 
 ## Scripture Text
 
-- NRSVue excerpt: _Insert a concise 1-3 verse excerpt from Zechariah 3:8 during editorial review._
-- Passage focus: Zechariah 3:8
+- Display scope: Full verse
+- Verse reference: Zechariah 3:8
 - [View full passage on Bible Gateway](https://www.biblegateway.com/passage/?search=Zechariah%203%3A8&version=NRSVUE)
 
 ### Text Details (Expandable)

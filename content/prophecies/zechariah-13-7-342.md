@@ -9,8 +9,8 @@ This entry evaluates the claim that God's will He die for mankind.
 
 ## Scripture Text
 
-- NRSVue excerpt: _Insert a concise 1-3 verse excerpt from Zechariah 13:7a during editorial review._
-- Passage focus: Zechariah 13:7a
+- Display scope: Full verse
+- Verse reference: Zechariah 13:7a
 - [View full passage on Bible Gateway](https://www.biblegateway.com/passage/?search=Zechariah%2013%3A7&version=NRSVUE)
 
 ### Text Details (Expandable)

@@ -9,8 +9,8 @@ This entry evaluates the claim that Prefigures Christ's once-for-all death.
 
 ## Scripture Text
 
-- NRSVue excerpt: _Insert a concise 1-3 verse excerpt from Leviticus 16:15-17 during editorial review._
-- Passage focus: Leviticus 16:15-17
+- Display scope: Full verse
+- Verse reference: Leviticus 16:15-17
 - [View full passage on Bible Gateway](https://www.biblegateway.com/passage/?search=Leviticus%2016%3A15-17&version=NRSVUE)
 
 ### Text Details (Expandable)

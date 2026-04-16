@@ -9,8 +9,8 @@ This entry evaluates the claim that Unto Him shall the obedience of the people b
 
 ## Scripture Text
 
-- NRSVue excerpt: _Insert a concise 1-3 verse excerpt from Genesis 49:10 during editorial review._
-- Passage focus: Genesis 49:10
+- Display scope: Full verse
+- Verse reference: Genesis 49:10
 - [View full passage on Bible Gateway](https://www.biblegateway.com/passage/?search=Genesis%2049%3A10&version=NRSVUE)
 
 ### Text Details (Expandable)

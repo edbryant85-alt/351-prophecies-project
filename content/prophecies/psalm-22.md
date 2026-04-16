@@ -30,8 +30,10 @@ Christians often argue that Psalm 22 predicts important aspects of Jesus' suffer
 
 ## Scripture Text
 
-- NRSVue excerpt: _Insert a concise 1-3 verse excerpt from Psalm 22 during editorial review._
-- Passage focus: Psalm 22
+**Focus Verses:** Psalm 22:1-2, 7-10, 12-18, 20-22, 27-28, 31
+
+- Display scope: Full passage / logical section
+- Passage reference: Psalm 22
 - [View full passage on Bible Gateway](https://www.biblegateway.com/passage/?search=Psalm%2022&version=NRSVUE)
 
 ### Text Details (Expandable)

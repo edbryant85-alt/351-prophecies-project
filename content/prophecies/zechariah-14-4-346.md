@@ -9,8 +9,8 @@ This entry evaluates the claim that He would return to the Mt. of Olives.
 
 ## Scripture Text
 
-- NRSVue excerpt: _Insert a concise 1-3 verse excerpt from Zechariah 14:4 during editorial review._
-- Passage focus: Zechariah 14:4
+- Display scope: Full verse
+- Verse reference: Zechariah 14:4
 - [View full passage on Bible Gateway](https://www.biblegateway.com/passage/?search=Zechariah%2014%3A4&version=NRSVUE)
 
 ### Text Details (Expandable)

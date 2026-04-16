@@ -19,8 +19,10 @@ Christians often argue that Daniel 9 predicts the timing of the Messiah's arriva
 
 ## Scripture Text
 
-- NRSVue excerpt: _Insert a concise 1-3 verse excerpt from Daniel 9:24–27 during editorial review._
-- Passage focus: Daniel 9:24–27
+**Focus Verses:** Daniel 9:24-26
+
+- Display scope: Full passage / logical section
+- Passage reference: Daniel 9:24–27
 - [View full passage on Bible Gateway](https://www.biblegateway.com/passage/?search=Daniel%209%3A24-27&version=NRSVUE)
 
 ### Text Details (Expandable)

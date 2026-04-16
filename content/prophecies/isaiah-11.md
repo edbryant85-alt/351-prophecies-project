@@ -21,8 +21,10 @@ This entry examines the claimed prophecy associated with Isaiah 11.
 
 ## Scripture Text
 
-- NRSVue excerpt: _Insert a concise 1-3 verse excerpt from - Claim Summary: during editorial review._
-- Passage focus: - Claim Summary:
+**Focus Verses:** Isaiah 11:1-5, 10
+
+- Display scope: Full passage / logical section
+- Passage reference: - Claim Summary:
 - [View full passage on Bible Gateway](https://www.biblegateway.com/passage/?search=-%20Claim%20Summary%3A&version=NRSVUE)
 
 ### Text Details (Expandable)

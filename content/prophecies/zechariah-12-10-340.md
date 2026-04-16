@@ -11,8 +11,8 @@ This entry evaluates the claim that The Messiah would be both God and man.
 
 ## Scripture Text
 
-- NRSVue excerpt: _Insert a concise 1-3 verse excerpt from Zechariah 12:10b during editorial review._
-- Passage focus: Zechariah 12:10b
+- Display scope: Full verse
+- Verse reference: Zechariah 12:10b
 - [View full passage on Bible Gateway](https://www.biblegateway.com/passage/?search=Zechariah%2012%3A10&version=NRSVUE)
 
 ### Text Details (Expandable)

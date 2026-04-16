@@ -11,8 +11,8 @@ This entry evaluates the claim that Forerunner would turn many to righteousness.
 
 ## Scripture Text
 
-- NRSVue excerpt: _Insert a concise 1-3 verse excerpt from Malachi 4:6 during editorial review._
-- Passage focus: Malachi 4:6
+- Display scope: Full verse
+- Verse reference: Malachi 4:6
 - [View full passage on Bible Gateway](https://www.biblegateway.com/passage/?search=Malachi%204%3A6&version=NRSVUE)
 
 ### Text Details (Expandable)

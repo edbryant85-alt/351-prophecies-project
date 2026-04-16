@@ -9,8 +9,8 @@ This entry evaluates the claim that Not a bone of Him broken.
 
 ## Scripture Text
 
-- NRSVue excerpt: _Insert a concise 1-3 verse excerpt from Numbers 9:12 during editorial review._
-- Passage focus: Numbers 9:12
+- Display scope: Full verse
+- Verse reference: Numbers 9:12
 - [View full passage on Bible Gateway](https://www.biblegateway.com/passage/?search=Numbers%209%3A12&version=NRSVUE)
 
 ### Text Details (Expandable)

@@ -47,8 +47,10 @@ Christians often argue that Isaiah 52:13–53:12 predicts the suffering, death, 
 
 ## Scripture Text
 
-- NRSVue excerpt: _Insert a concise 1-3 verse excerpt from Isaiah 52:13–53:12 during editorial review._
-- Passage focus: Isaiah 52:13–53:12
+**Focus Verses:** Isaiah 53:2-12
+
+- Display scope: Full passage / logical section
+- Passage reference: Isaiah 52:13–53:12
 - [View full passage on Bible Gateway](https://www.biblegateway.com/passage/?search=Isaiah%2052%3A13-53%3A12&version=NRSVUE)
 
 ### Text Details (Expandable)

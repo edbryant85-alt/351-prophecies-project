@@ -9,8 +9,8 @@ This entry evaluates the claim that The Seed of Jacob.
 
 ## Scripture Text
 
-- NRSVue excerpt: _Insert a concise 1-3 verse excerpt from Genesis 28:14 during editorial review._
-- Passage focus: Genesis 28:14
+- Display scope: Full verse
+- Verse reference: Genesis 28:14
 - [View full passage on Bible Gateway](https://www.biblegateway.com/passage/?search=Genesis%2028%3A14&version=NRSVUE)
 
 ### Text Details (Expandable)

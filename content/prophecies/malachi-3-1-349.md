@@ -11,8 +11,8 @@ This entry evaluates the claim that Messenger of the new covenant.
 
 ## Scripture Text
 
-- NRSVue excerpt: _Insert a concise 1-3 verse excerpt from Malachi 3:1c during editorial review._
-- Passage focus: Malachi 3:1c
+- Display scope: Full verse
+- Verse reference: Malachi 3:1c
 - [View full passage on Bible Gateway](https://www.biblegateway.com/passage/?search=Malachi%203%3A1&version=NRSVUE)
 
 ### Text Details (Expandable)

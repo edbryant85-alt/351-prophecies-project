@@ -11,8 +11,8 @@ This entry evaluates the claim that The Messiah would bring salvation.
 
 ## Scripture Text
 
-- NRSVue excerpt: _Insert a concise 1-3 verse excerpt from Zechariah 9:9d during editorial review._
-- Passage focus: Zechariah 9:9d
+- Display scope: Full verse
+- Verse reference: Zechariah 9:9d
 - [View full passage on Bible Gateway](https://www.biblegateway.com/passage/?search=Zechariah%209%3A9&version=NRSVUE)
 
 ### Text Details (Expandable)

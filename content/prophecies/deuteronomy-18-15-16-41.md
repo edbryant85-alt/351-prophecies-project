@@ -9,8 +9,8 @@ This entry evaluates the claim that "Had you believed Moses, you would believe m
 
 ## Scripture Text
 
-- NRSVue excerpt: _Insert a concise 1-3 verse excerpt from Deuteronomy 18:15-16 during editorial review._
-- Passage focus: Deuteronomy 18:15-16
+- Display scope: Full verse
+- Verse reference: Deuteronomy 18:15-16
 - [View full passage on Bible Gateway](https://www.biblegateway.com/passage/?search=Deuteronomy%2018%3A15-16&version=NRSVUE)
 
 ### Text Details (Expandable)

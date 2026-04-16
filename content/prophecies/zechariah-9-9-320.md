@@ -11,8 +11,8 @@ This entry evaluates the claim that Beheld as King.
 
 ## Scripture Text
 
-- NRSVue excerpt: _Insert a concise 1-3 verse excerpt from Zechariah 9:9b during editorial review._
-- Passage focus: Zechariah 9:9b
+- Display scope: Full verse
+- Verse reference: Zechariah 9:9b
 - [View full passage on Bible Gateway](https://www.biblegateway.com/passage/?search=Zechariah%209%3A9&version=NRSVUE)
 
 ### Text Details (Expandable)

@@ -9,8 +9,8 @@ This entry evaluates the claim that When Isaiah saw His glory.
 
 ## Scripture Text
 
-- NRSVue excerpt: _Insert a concise 1-3 verse excerpt from Isaiah 6:1 during editorial review._
-- Passage focus: Isaiah 6:1
+- Display scope: Full verse
+- Verse reference: Isaiah 6:1
 - [View full passage on Bible Gateway](https://www.biblegateway.com/passage/?search=Isaiah%206%3A1&version=NRSVUE)
 
 ### Text Details (Expandable)

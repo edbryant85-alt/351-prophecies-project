@@ -9,8 +9,8 @@ This entry evaluates the claim that Whoever will not hear must bear his sin.
 
 ## Scripture Text
 
-- NRSVue excerpt: _Insert a concise 1-3 verse excerpt from Deuteronomy 18:19 during editorial review._
-- Passage focus: Deuteronomy 18:19
+- Display scope: Full verse
+- Verse reference: Deuteronomy 18:19
 - [View full passage on Bible Gateway](https://www.biblegateway.com/passage/?search=Deuteronomy%2018%3A19&version=NRSVUE)
 
 ### Text Details (Expandable)

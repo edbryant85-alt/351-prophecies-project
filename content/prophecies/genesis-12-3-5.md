@@ -9,8 +9,8 @@ This entry evaluates the claim that Seed of Abraham will bless all nations.
 
 ## Scripture Text
 
-- NRSVue excerpt: _Insert a concise 1-3 verse excerpt from Genesis 12:3 during editorial review._
-- Passage focus: Genesis 12:3
+- Display scope: Full verse
+- Verse reference: Genesis 12:3
 - [View full passage on Bible Gateway](https://www.biblegateway.com/passage/?search=Genesis%2012%3A3&version=NRSVUE)
 
 ### Text Details (Expandable)

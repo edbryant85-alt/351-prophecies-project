@@ -11,8 +11,8 @@ This entry evaluates the claim that The Messiah would be rejected.
 
 ## Scripture Text
 
-- NRSVue excerpt: _Insert a concise 1-3 verse excerpt from Zechariah 12:10c during editorial review._
-- Passage focus: Zechariah 12:10c
+- Display scope: Full verse
+- Verse reference: Zechariah 12:10c
 - [View full passage on Bible Gateway](https://www.biblegateway.com/passage/?search=Zechariah%2012%3A10&version=NRSVUE)
 
 ### Text Details (Expandable)

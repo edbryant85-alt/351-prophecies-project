@@ -11,8 +11,8 @@ This entry evaluates the claim that Stops ministering to those who rejected Him.
 
 ## Scripture Text
 
-- NRSVue excerpt: _Insert a concise 1-3 verse excerpt from Zechariah 11:9 during editorial review._
-- Passage focus: Zechariah 11:9
+- Display scope: Full verse
+- Verse reference: Zechariah 11:9
 - [View full passage on Bible Gateway](https://www.biblegateway.com/passage/?search=Zechariah%2011%3A9&version=NRSVUE)
 
 ### Text Details (Expandable)
