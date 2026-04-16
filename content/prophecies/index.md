@@ -324,6 +324,7 @@
 - [Micah 5:2a — Born in Bethlehem](./micah-5-2.md)
 - [Micah 5:2b — Ruler in Israel](./micah-5-2-313.md)
 - [Micah 5:2c — From everlasting](./micah-5-2-314.md)
+- [Micah 4 (overview page)](./micah-4.md)
 - [Haggai 2:6-9 — He would visit the second Temple](./haggai-2-6-9-315.md)
 - [Haggai 2:23 — Descendant of Zerubbabel](./haggai-2-23-316.md)
 - [Zechariah 3:8 — God's servant](./zechariah-3-8-317.md)

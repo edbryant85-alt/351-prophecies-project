@@ -321,6 +321,7 @@
 - [ ] #309 Hosea 13:14 — He would defeat death
 - [ ] #310 Joel 2:32 — Offer salvation to all mankind
 - [ ] #311 Jonah 1:17 — Death and resurrection of Christ
+- [ ] Micah 4 (overview page)
 - [ ] #313 Micah 5:2b — Ruler in Israel
 - [ ] #314 Micah 5:2c — From everlasting
 - [ ] #315 Haggai 2:6-9 — He would visit the second Temple

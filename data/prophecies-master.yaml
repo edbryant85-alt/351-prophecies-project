@@ -3156,3 +3156,12 @@
   nt_fulfillment: "Luke 1:16-17"
   skeptic_failed_criteria: "2,3,4,5,6"
   status: "not started"
+
+- number:
+  title: "Micah 4 (overview page)"
+  slug: "micah-4"
+  ot_reference: "Micah 4"
+  claim_summary: "Legacy overview page retained outside the numbered 351-claim sequence"
+  nt_fulfillment: ""
+  skeptic_failed_criteria: ""
+  status: "not started"

@@ -1,8 +1,8 @@
 # Import Notes
 
 ## Sources Used
-- The prophecy catalog was imported from `sources/raw/351-list.docx/351-Old-Testament-Prophecies-Fulfilled-in-Jesus-Christ.docx`.
-- The failed-criteria mapping was imported from `sources/raw/skeptic-criteria.docx/Prophecy criteria evaluation.docx`.
+- The prophecy catalog was imported from `sources/raw/351-list.docx`.
+- The failed-criteria mapping was imported from `sources/raw/skeptic-criteria.docx`.
 - The six-criteria definitions remain documented in [content/methodology.md](/workspaces/351-prophecies-project/content/methodology.md).
 
 ## Imported Automatically
@@ -19,16 +19,17 @@
 - All 351 prophecy rows were extracted from the source list docx.
 - All 351 failed-criteria rows were extracted from the criteria docx.
 - Number-to-number matching between the two source documents was clean.
+- The preserved legacy overview page `micah-4.md` is now tracked explicitly as an auxiliary non-numbered record so the current file set and dataset align.
 
 ## What Needs Manual Review
 - Existing chapter-level anchor pages are still being used for some first-in-sequence numbered claims.
-- The project still contains one orphan page that is not part of the 351-entry dataset.
 - Some older flagship page files still contain chapter-level placeholder wording that does not perfectly match the imported claim-level titles.
 - Generated placeholder pages still need actual research content.
+- The auxiliary `micah-4` record is not part of the canonical 351 imported claims and should be reviewed later to decide whether it remains a long-term overview page.
 
 ## Unclear Matches Or Placeholder Values
-- Orphan page(s) with no matching YAML entry: micah-4.
-- Every YAML entry currently has a matching prophecy page file.
+- Every current prophecy page file now has a matching YAML record.
+- The `micah-4` YAML record is intentionally non-numbered because it is a retained overview page rather than part of the canonical 351 imported claims.
 - The import preserved the existing slug strategy rather than renaming files during this pass.
 - Existing overview-style pages such as `isaiah-53.md` and `psalm-22.md` should be reviewed later to decide whether they remain overview pages or become strictly claim-level pages.
 
