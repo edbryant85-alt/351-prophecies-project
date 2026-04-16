@@ -6,6 +6,26 @@
 ## Claim
 This entry evaluates the claim that "This is of a truth that prophet".
 
+
+## Scripture Text
+
+- NRSVue excerpt: _Insert a concise 1-3 verse excerpt from Deuteronomy 18:15 during editorial review._
+- Passage focus: Deuteronomy 18:15
+- [View full passage on Bible Gateway](https://www.biblegateway.com/passage/?search=Deuteronomy%2018%3A15&version=NRSVUE)
+
+### Text Details (Expandable)
+
+<details>
+<summary>Show text details</summary>
+
+- Original language:
+- Transliteration:
+- Literal gloss:
+- Alternate translations:
+
+</details>
+
+
 ## 351 List Reference
 - Number: 40
 - OT Reference: Deuteronomy 18:15

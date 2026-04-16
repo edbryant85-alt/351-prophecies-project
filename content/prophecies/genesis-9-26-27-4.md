@@ -6,6 +6,26 @@
 ## Claim
 This entry evaluates the claim that The God of Shem will be the Son of Shem.
 
+
+## Scripture Text
+
+- NRSVue excerpt: _Insert a concise 1-3 verse excerpt from Genesis 9:26-27 during editorial review._
+- Passage focus: Genesis 9:26-27
+- [View full passage on Bible Gateway](https://www.biblegateway.com/passage/?search=Genesis%209%3A26-27&version=NRSVUE)
+
+### Text Details (Expandable)
+
+<details>
+<summary>Show text details</summary>
+
+- Original language:
+- Transliteration:
+- Literal gloss:
+- Alternate translations:
+
+</details>
+
+
 ## 351 List Reference
 - Number: 4
 - OT Reference: Genesis 9:26-27

@@ -6,6 +6,26 @@
 ## Claim
 This entry evaluates the claim that Unto Him shall the obedience of the people be.
 
+
+## Scripture Text
+
+- NRSVue excerpt: _Insert a concise 1-3 verse excerpt from Genesis 49:10 during editorial review._
+- Passage focus: Genesis 49:10
+- [View full passage on Bible Gateway](https://www.biblegateway.com/passage/?search=Genesis%2049%3A10&version=NRSVUE)
+
+### Text Details (Expandable)
+
+<details>
+<summary>Show text details</summary>
+
+- Original language:
+- Transliteration:
+- Literal gloss:
+- Alternate translations:
+
+</details>
+
+
 ## 351 List Reference
 - Number: 20
 - OT Reference: Genesis 49:10

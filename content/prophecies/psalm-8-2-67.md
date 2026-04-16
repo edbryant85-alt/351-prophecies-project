@@ -6,6 +6,26 @@
 ## Claim
 This entry evaluates the claim that The mouths of babes perfect His praise.
 
+
+## Scripture Text
+
+- NRSVue excerpt: _Insert a concise 1-3 verse excerpt from Psalm 8:2 during editorial review._
+- Passage focus: Psalm 8:2
+- [View full passage on Bible Gateway](https://www.biblegateway.com/passage/?search=Psalm%208%3A2&version=NRSVUE)
+
+### Text Details (Expandable)
+
+<details>
+<summary>Show text details</summary>
+
+- Original language:
+- Transliteration:
+- Literal gloss:
+- Alternate translations:
+
+</details>
+
+
 ## 351 List Reference
 - Number: 67
 - OT Reference: Psalm 8:2

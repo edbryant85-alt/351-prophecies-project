@@ -6,6 +6,26 @@
 ## Claim
 This entry evaluates the claim that The altogether lovely One.
 
+
+## Scripture Text
+
+- NRSVue excerpt: _Insert a concise 1-3 verse excerpt from Song of Solomon 5:16 during editorial review._
+- Passage focus: Song of Solomon 5:16
+- [View full passage on Bible Gateway](https://www.biblegateway.com/passage/?search=Song%20of%20Solomon%205%3A16&version=NRSVUE)
+
+### Text Details (Expandable)
+
+<details>
+<summary>Show text details</summary>
+
+- Original language:
+- Transliteration:
+- Literal gloss:
+- Alternate translations:
+
+</details>
+
+
 ## 351 List Reference
 - Number: 163
 - OT Reference: Song of Solomon 5:16

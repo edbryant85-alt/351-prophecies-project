@@ -6,6 +6,26 @@
 ## Claim
 This entry evaluates the claim that "I will be His Father, He...my Son.".
 
+
+## Scripture Text
+
+- NRSVue excerpt: _Insert a concise 1-3 verse excerpt from 1 Chronicles 17:13 during editorial review._
+- Passage focus: 1 Chronicles 17:13
+- [View full passage on Bible Gateway](https://www.biblegateway.com/passage/?search=1%20Chronicles%2017%3A13&version=NRSVUE)
+
+### Text Details (Expandable)
+
+<details>
+<summary>Show text details</summary>
+
+- Original language:
+- Transliteration:
+- Literal gloss:
+- Alternate translations:
+
+</details>
+
+
 ## 351 List Reference
 - Number: 56
 - OT Reference: 1 Chronicles 17:13

@@ -11,6 +11,26 @@
 ## Claim
 Christians often argue that Isaiah 7:14 predicts the virgin birth of Jesus. In the history of Christian interpretation, this verse has functioned as one of the central Old Testament texts used to connect Jesus' birth to Israel's prophetic tradition. At the same time, it is also one of the most disputed examples in the larger prophecy debate, because the original context in Isaiah 7 seems closely tied to the political crisis facing Ahaz in Isaiah's own day.
 
+
+## Scripture Text
+
+- NRSVue excerpt: _Insert a concise 1-3 verse excerpt from Isaiah 7:14 during editorial review._
+- Passage focus: Isaiah 7:14
+- [View full passage on Bible Gateway](https://www.biblegateway.com/passage/?search=Isaiah%207%3A14&version=NRSVUE)
+
+### Text Details (Expandable)
+
+<details>
+<summary>Show text details</summary>
+
+- Original language:
+- Transliteration:
+- Literal gloss:
+- Alternate translations:
+
+</details>
+
+
 ## 351 List Reference
 - Number: 170
 - OT Reference: Isaiah 7:14

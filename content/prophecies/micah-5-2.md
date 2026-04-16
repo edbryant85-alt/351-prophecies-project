@@ -12,6 +12,26 @@
 ## Claim
 Christians often argue that Micah 5:2 predicts the Messiah's connection to Bethlehem and is fulfilled in the birth of Jesus. In Christian apologetic use, it is frequently treated as one of the clearest examples of a specific predictive prophecy because the verse appears to name a place associated with the coming ruler. At the same time, the text is debated because the Bethlehem reference may function dynastically and Davidically rather than as a simple birth-location forecast in the modern sense.
 
+
+## Scripture Text
+
+- NRSVue excerpt: _Insert a concise 1-3 verse excerpt from Micah 5:2 during editorial review._
+- Passage focus: Micah 5:2
+- [View full passage on Bible Gateway](https://www.biblegateway.com/passage/?search=Micah%205%3A2&version=NRSVUE)
+
+### Text Details (Expandable)
+
+<details>
+<summary>Show text details</summary>
+
+- Original language:
+- Transliteration:
+- Literal gloss:
+- Alternate translations:
+
+</details>
+
+
 ## 351 List Reference
 - Number: Multiple numbered claims in the 351 list
 - OT Reference: Micah 5:2

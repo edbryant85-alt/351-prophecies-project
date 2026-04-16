@@ -6,6 +6,26 @@
 ## Claim
 This entry evaluates the claim that The Messiah would be both God and Man.
 
+
+## Scripture Text
+
+- NRSVue excerpt: _Insert a concise 1-3 verse excerpt from Jeremiah 23:5-6 during editorial review._
+- Passage focus: Jeremiah 23:5-6
+- [View full passage on Bible Gateway](https://www.biblegateway.com/passage/?search=Jeremiah%2023%3A5-6&version=NRSVUE)
+
+### Text Details (Expandable)
+
+<details>
+<summary>Show text details</summary>
+
+- Original language:
+- Transliteration:
+- Literal gloss:
+- Alternate translations:
+
+</details>
+
+
 ## 351 List Reference
 - Number: 290
 - OT Reference: Jeremiah 23:5-6

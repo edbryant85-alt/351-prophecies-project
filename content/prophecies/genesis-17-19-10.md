@@ -6,6 +6,26 @@
 ## Claim
 This entry evaluates the claim that Seed of Isaac (Gen 21:12).
 
+
+## Scripture Text
+
+- NRSVue excerpt: _Insert a concise 1-3 verse excerpt from Genesis 17:19 during editorial review._
+- Passage focus: Genesis 17:19
+- [View full passage on Bible Gateway](https://www.biblegateway.com/passage/?search=Genesis%2017%3A19&version=NRSVUE)
+
+### Text Details (Expandable)
+
+<details>
+<summary>Show text details</summary>
+
+- Original language:
+- Transliteration:
+- Literal gloss:
+- Alternate translations:
+
+</details>
+
+
 ## 351 List Reference
 - Number: 10
 - OT Reference: Genesis 17:19

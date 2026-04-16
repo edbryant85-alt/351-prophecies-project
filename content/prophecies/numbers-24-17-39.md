@@ -6,6 +6,26 @@
 ## Claim
 This entry evaluates the claim that Time: "I shall see him, but not now.".
 
+
+## Scripture Text
+
+- NRSVue excerpt: _Insert a concise 1-3 verse excerpt from Numbers 24:17 during editorial review._
+- Passage focus: Numbers 24:17
+- [View full passage on Bible Gateway](https://www.biblegateway.com/passage/?search=Numbers%2024%3A17&version=NRSVUE)
+
+### Text Details (Expandable)
+
+<details>
+<summary>Show text details</summary>
+
+- Original language:
+- Transliteration:
+- Literal gloss:
+- Alternate translations:
+
+</details>
+
+
 ## 351 List Reference
 - Number: 39
 - OT Reference: Numbers 24:17

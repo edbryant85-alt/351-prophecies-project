@@ -6,6 +6,26 @@
 ## Claim
 This entry evaluates the claim that To establish an everlasting kingdom.
 
+
+## Scripture Text
+
+- NRSVue excerpt: _Insert a concise 1-3 verse excerpt from Isaiah 9:7 during editorial review._
+- Passage focus: Isaiah 9:7
+- [View full passage on Bible Gateway](https://www.biblegateway.com/passage/?search=Isaiah%209%3A7&version=NRSVUE)
+
+### Text Details (Expandable)
+
+<details>
+<summary>Show text details</summary>
+
+- Original language:
+- Transliteration:
+- Literal gloss:
+- Alternate translations:
+
+</details>
+
+
 ## 351 List Reference
 - Number: 183
 - OT Reference: Isaiah 9:7

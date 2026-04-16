@@ -6,6 +6,26 @@
 ## Claim
 This entry evaluates the claim that The Last Supper foreshadowed.
 
+
+## Scripture Text
+
+- NRSVue excerpt: _Insert a concise 1-3 verse excerpt from Genesis 14:18 during editorial review._
+- Passage focus: Genesis 14:18
+- [View full passage on Bible Gateway](https://www.biblegateway.com/passage/?search=Genesis%2014%3A18&version=NRSVUE)
+
+### Text Details (Expandable)
+
+<details>
+<summary>Show text details</summary>
+
+- Original language:
+- Transliteration:
+- Literal gloss:
+- Alternate translations:
+
+</details>
+
+
 ## 351 List Reference
 - Number: 9
 - OT Reference: Genesis 14:18

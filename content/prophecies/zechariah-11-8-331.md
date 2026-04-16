@@ -8,6 +8,26 @@
 ## Claim
 This entry evaluates the claim that Despised.
 
+
+## Scripture Text
+
+- NRSVue excerpt: _Insert a concise 1-3 verse excerpt from Zechariah 11:8b during editorial review._
+- Passage focus: Zechariah 11:8b
+- [View full passage on Bible Gateway](https://www.biblegateway.com/passage/?search=Zechariah%2011%3A8&version=NRSVUE)
+
+### Text Details (Expandable)
+
+<details>
+<summary>Show text details</summary>
+
+- Original language:
+- Transliteration:
+- Literal gloss:
+- Alternate translations:
+
+</details>
+
+
 ## 351 List Reference
 - Number: 331
 - OT Reference: Zechariah 11:8b

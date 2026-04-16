@@ -8,6 +8,26 @@
 ## Claim
 This entry evaluates the claim that The Messiah would be the new covenant.
 
+
+## Scripture Text
+
+- NRSVue excerpt: _Insert a concise 1-3 verse excerpt from Jeremiah 31:31 during editorial review._
+- Passage focus: Jeremiah 31:31
+- [View full passage on Bible Gateway](https://www.biblegateway.com/passage/?search=Jeremiah%2031%3A31&version=NRSVUE)
+
+### Text Details (Expandable)
+
+<details>
+<summary>Show text details</summary>
+
+- Original language:
+- Transliteration:
+- Literal gloss:
+- Alternate translations:
+
+</details>
+
+
 ## 351 List Reference
 - Number: 292
 - OT Reference: Jeremiah 31:31

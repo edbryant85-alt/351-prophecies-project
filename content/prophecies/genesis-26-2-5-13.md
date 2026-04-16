@@ -6,6 +6,26 @@
 ## Claim
 This entry evaluates the claim that The Seed of Isaac promised as the Redeemer.
 
+
+## Scripture Text
+
+- NRSVue excerpt: _Insert a concise 1-3 verse excerpt from Genesis 26:2-5 during editorial review._
+- Passage focus: Genesis 26:2-5
+- [View full passage on Bible Gateway](https://www.biblegateway.com/passage/?search=Genesis%2026%3A2-5&version=NRSVUE)
+
+### Text Details (Expandable)
+
+<details>
+<summary>Show text details</summary>
+
+- Original language:
+- Transliteration:
+- Literal gloss:
+- Alternate translations:
+
+</details>
+
+
 ## 351 List Reference
 - Number: 13
 - OT Reference: Genesis 26:2-5

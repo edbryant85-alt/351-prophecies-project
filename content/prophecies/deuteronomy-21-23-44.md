@@ -6,6 +6,26 @@
 ## Claim
 This entry evaluates the claim that Cursed is he that hangs on a tree.
 
+
+## Scripture Text
+
+- NRSVue excerpt: _Insert a concise 1-3 verse excerpt from Deuteronomy 21:23 during editorial review._
+- Passage focus: Deuteronomy 21:23
+- [View full passage on Bible Gateway](https://www.biblegateway.com/passage/?search=Deuteronomy%2021%3A23&version=NRSVUE)
+
+### Text Details (Expandable)
+
+<details>
+<summary>Show text details</summary>
+
+- Original language:
+- Transliteration:
+- Literal gloss:
+- Alternate translations:
+
+</details>
+
+
 ## 351 List Reference
 - Number: 44
 - OT Reference: Deuteronomy 21:23

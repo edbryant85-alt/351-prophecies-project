@@ -8,6 +8,26 @@
 ## Claim
 This entry evaluates the claim that He will bruise Satan's head.
 
+
+## Scripture Text
+
+- NRSVue excerpt: _Insert a concise 1-3 verse excerpt from Genesis 3:15 during editorial review._
+- Passage focus: Genesis 3:15
+- [View full passage on Bible Gateway](https://www.biblegateway.com/passage/?search=Genesis%203%3A15&version=NRSVUE)
+
+### Text Details (Expandable)
+
+<details>
+<summary>Show text details</summary>
+
+- Original language:
+- Transliteration:
+- Literal gloss:
+- Alternate translations:
+
+</details>
+
+
 ## 351 List Reference
 - Number: 2
 - OT Reference: Genesis 3:15

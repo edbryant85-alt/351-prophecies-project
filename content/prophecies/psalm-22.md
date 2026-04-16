@@ -27,6 +27,26 @@
 ## Claim
 Christians often argue that Psalm 22 predicts important aspects of Jesus' suffering, rejection, and death. In Christian interpretation, it has become one of the central Old Testament texts for reading the crucifixion, especially because several lines in the psalm appear to echo scenes in the Gospel passion narratives. At the same time, the passage is heavily disputed because Psalm 22 is first and foremost a lament psalm, not an explicit prophetic oracle about a distant future messiah.
 
+
+## Scripture Text
+
+- NRSVue excerpt: _Insert a concise 1-3 verse excerpt from Psalm 22 during editorial review._
+- Passage focus: Psalm 22
+- [View full passage on Bible Gateway](https://www.biblegateway.com/passage/?search=Psalm%2022&version=NRSVUE)
+
+### Text Details (Expandable)
+
+<details>
+<summary>Show text details</summary>
+
+- Original language:
+- Transliteration:
+- Literal gloss:
+- Alternate translations:
+
+</details>
+
+
 ## 351 List Reference
 - Number: Multiple numbered claims in the 351 list
 - OT Reference: Psalm 22

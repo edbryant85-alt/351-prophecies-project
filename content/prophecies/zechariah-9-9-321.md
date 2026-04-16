@@ -8,6 +8,26 @@
 ## Claim
 This entry evaluates the claim that The Messiah would be just.
 
+
+## Scripture Text
+
+- NRSVue excerpt: _Insert a concise 1-3 verse excerpt from Zechariah 9:9c during editorial review._
+- Passage focus: Zechariah 9:9c
+- [View full passage on Bible Gateway](https://www.biblegateway.com/passage/?search=Zechariah%209%3A9&version=NRSVUE)
+
+### Text Details (Expandable)
+
+<details>
+<summary>Show text details</summary>
+
+- Original language:
+- Transliteration:
+- Literal gloss:
+- Alternate translations:
+
+</details>
+
+
 ## 351 List Reference
 - Number: 321
 - OT Reference: Zechariah 9:9c

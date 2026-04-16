@@ -6,6 +6,26 @@
 ## Claim
 This entry evaluates the claim that The Spiritual Rock of Israel.
 
+
+## Scripture Text
+
+- NRSVue excerpt: _Insert a concise 1-3 verse excerpt from Exodus 17:6 during editorial review._
+- Passage focus: Exodus 17:6
+- [View full passage on Bible Gateway](https://www.biblegateway.com/passage/?search=Exodus%2017%3A6&version=NRSVUE)
+
+### Text Details (Expandable)
+
+<details>
+<summary>Show text details</summary>
+
+- Original language:
+- Transliteration:
+- Literal gloss:
+- Alternate translations:
+
+</details>
+
+
 ## 351 List Reference
 - Number: 28
 - OT Reference: Exodus 17:6
