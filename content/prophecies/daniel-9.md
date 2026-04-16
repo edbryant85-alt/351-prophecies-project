@@ -14,41 +14,49 @@
 - [Daniel 9:26c (Claim 306)](./daniel-9-26-306.md)
 
 ## Claim
-State the exact prophecy claim clearly.
-
-Placeholder:
-[Write the claim in your own words. Example topic: Daniel 9 predicts the coming and death of the Messiah on a specific timeline.]
+Christians often argue that Daniel 9 predicts the timing of the Messiah's arrival and death, especially by aligning the sixty-nine weeks, or 483 years, with the period leading to Jesus' ministry and crucifixion. In Christian apologetics, this passage is frequently presented as one of the strongest chronological prophecies in the Hebrew Bible. It is also one of the most disputed passages in the entire project because the chronology, genre, historical setting, and identity of the "anointed one" remain deeply contested.
 
 ## 351 List Reference
-- Number:
-- OT Reference:
-- Claim Summary:
-- Claimed NT Fulfillment:
+- Number: Multiple numbered claims in the 351 list
+- OT Reference: Daniel 9:24–27
+- Claim Summary: 70 weeks timeline, anointed one, cut off
+- Claimed NT Fulfillment: Jesus' ministry, crucifixion, destruction of Jerusalem (70 AD)
 
 ## Skeptic Criteria Evaluation
-In the current project dataset, this claim is provisionally marked as failing criteria 2,3,4,5,6. Many skeptics argue that passages like this are being read through later theological framing rather than as clear, self-contained predictions. On that reading, the claim may depend on ambiguity, typology, or retrospective interpretation rather than a single direct fulfillment.
+Skeptics commonly argue that Daniel 9 fails criteria 2, 4, 5, and 6, and many would add further pressure because of the passage's symbolic and apocalyptic character. Their main case is that the text may be ex eventu, written after the events it appears to predict; that the timeline is flexible enough to be retrofitted; that the starting point for the calculation is disputed; and that multiple conflicting interpretations have been proposed by Jews, Christians, and modern scholars. For that reason, Daniel 9 is often treated as one of the strongest Christian arguments and one of the clearest examples of how much depends on interpretive framework.
 ## Old Testament Passage
-This entry centers on Daniel 9:24a, a passage usually approached within a prophetic literary setting. Its wording may combine immediate historical concerns, symbolic language, and broader theological themes such as judgment, restoration, kingship, or divine intervention. A final draft should summarize the immediate oracle or unit around the verse rather than isolating one phrase from its larger prophetic context.
+Daniel 9:24–27 presents a scheme of seventy "weeks" or sevens, commonly understood as seventy sevens, for a total of 490 symbolic years. The period is divided into seven weeks, sixty-two weeks, and one final week, with the text referring to an anointed one, the cutting off of that anointed figure, and the destruction of the city and sanctuary. The passage combines chronological structure with apocalyptic compression, which is why it has generated so many calculations and competing historical identifications.
 ## Old Testament Context
-The historical setting likely falls within the crises of monarchy, invasion, exile, restoration, or apocalyptic expectation. The original audience would have heard the passage in relation to judgment, repentance, national collapse, hope, or future restoration. Many scholars argue that this immediate prophetic horizon must be reconstructed before asking whether the text was later read messianically.
+Daniel 9 begins with Daniel reading Jeremiah's seventy years of desolation and praying about exile, guilt, and restoration. The answer he receives reframes Jeremiah's period into a longer and more symbolically structured timetable, which places the passage firmly within apocalyptic interpretation rather than simple chronological extension. This matters historically because many scholars date the book, or at least its final form, to the second century BCE in the context of the Antiochene crisis, while more traditional readings treat Daniel as genuinely exilic and therefore genuinely predictive.
 ## Claimed New Testament Fulfillment
-The dataset associates this claim with Gal 1:3-5. In Christian interpretation, the New Testament reference is taken either as a direct fulfillment text, a typological echo, or a theological application of the Old Testament passage. A final draft should explain how explicit the connection actually is and whether the New Testament is quoting, alluding to, or conceptually reframing the earlier text.
+Christian interpretations often begin by choosing a decree of Artaxerxes as the starting point for the sixty-nine weeks and then counting forward to the period of Jesus' public ministry. The phrase about the anointed one being "cut off" is then connected to the crucifixion, while the later destruction of the city is linked to Jerusalem's fall in 70 AD. The New Testament does not quote Daniel 9 in one single explicit fulfillment formula the way Matthew quotes Micah 5:2, but Christian theology and apologetics have often treated the passage as a retrospective framework that fits Jesus' life, death, and the fate of Jerusalem.
 ## Why a Skeptic Says It Fails
-Typical skeptical objections include context mismatch, ambiguity of wording, and the possibility that the passage functions better as pattern or typology than as direct prediction. Skeptics also argue that some fulfillment claims depend heavily on New Testament framing, which can make the relationship look retrospective rather than independently predictive. In a final analysis, this section should distinguish between objections to the original meaning of the passage and objections to the later Christian use of it.
+### C2 Predictive Intent
+Skeptics often argue that Daniel 9 is best understood in the setting of the Antiochus IV crisis, where symbolic chronology is used to reinterpret Israel's suffering and hope. On that view, the passage looks more like retrospective prophecy cast in predictive form than like a genuine exilic forecast of Jesus.
+
+### C4 Specificity
+The strongest Christian readings depend on selecting one particular decree as the starting point, one way of counting the years, and one identification of the anointed figure. Skeptics reply that a timeline requiring so many prior interpretive choices is less specific than it first appears.
+
+### C5 Clarity
+Daniel 9 uses symbolic numbers, compressed historical reference, and apocalyptic language. As a result, interpreters divide sharply over whether the "anointed one" is a high priest, a Davidic ruler, Onias III, Jesus, or some composite figure, and over how the final week should be understood.
+
+### C6 Independence
+Skeptics also argue that later Christian readings may be shaped to align Jesus with Daniel's timeline. Because the passage is so adaptable, the danger of retrospective harmonization is especially acute here.
 ## Original Language Notes
-Interpretation may depend in part on Hebrew terms in the Old Testament and, where relevant, on Greek wording in the Septuagint or New Testament. Translation choices can shape whether a phrase sounds like direct prediction, poetic description, royal ideology, or theological symbolism. A final draft should identify the key lexical or grammatical terms that materially affect the claim rather than assuming that standard English renderings settle the question.
+The term "shabuim" means sevens or weeks, and much depends on whether those sevens are understood literally, symbolically, sabbatically, or as a stylized chronological device. The word "mashiach" means anointed one, but that does not automatically identify the figure as the Christian Messiah in the later technical sense. The verb often rendered "cut off," from "karat," can suggest removal, violent death, or decisive exclusion, which is why the phrase is so important both for Christian readings and for non-Christian historical identifications.
 ## Historical and Cultural Context
-Relevant background may include the politics of the monarchy, imperial pressure, exile and restoration, temple expectations, and later Second Temple interpretation. Ancient Near Eastern royal and prophetic conventions may also affect how language of kingship, judgment, suffering, or restoration is understood. These broader cultural frames often help explain why a passage could be heard one way in its original setting and another way in later theological interpretation.
+Daniel 9 belongs to the world of Jewish apocalyptic literature, where symbolic time periods are used to make sense of historical suffering and divine sovereignty. Such literature often restructures history into meaningful segments rather than offering simple linear chronology. This is one reason the Antiochene crisis looms so large in modern interpretation: the passage can be read as an attempt to explain persecution, temple desecration, and delayed restoration within a sacred timetable.
 ## Jewish Interpretation
-Many Jewish interpreters read passages like this first within their original literary and historical setting rather than as direct predictions of Jesus. Depending on the text, Jewish readings may emphasize immediate historical referents, corporate Israel, the Davidic line, temple concerns, wisdom themes, or future messianic hope understood differently from Christian readings. Jewish interpretation is not monolithic, so a final draft should note major streams of interpretation without reducing them to a single position.
+Jewish interpretations have often connected Daniel 9 with historical figures, priestly leadership, temple crisis, or the unfolding of Israel's history rather than with Jesus. In many readings, the "anointed one" is not a Christian-style Messiah at all, but a high priest or ruler whose removal belongs to a historical crisis already underway. Even where messianic significance is acknowledged, Jewish interpretation has generally not centered the passage on Jesus' ministry and crucifixion.
 ## Christian Interpretation
-Many Christians read this passage messianically, typologically, or prophetically in relation to Jesus. Interpretations vary: some argue for a direct prediction, others for dual fulfillment, and others for a broader canonical or typological pattern that culminates in the New Testament. A final draft should distinguish these interpretive approaches rather than treating all Christian readings as identical.
+Christian interpretation has made Daniel 9 one of the major pillars of chronological apologetics. Historicist, evangelical, and dispensational models have all used the seventy weeks to argue that Jesus appears precisely when the text predicts and that his death corresponds to the anointed one being cut off. At the same time, Christians disagree among themselves over the starting date, the exact endpoint of the sixty-nine weeks, the identity of the final ruler, and whether the seventieth week should be read continuously or separated from the first sixty-nine.
 ## Textual Issues
-Textual questions may involve the Masoretic Text, the Septuagint, and where relevant the Dead Sea Scrolls. In some passages, these witnesses differ in wording or nuance enough to affect interpretation; in others, the debate is less about textual instability and more about how a relatively stable text should be read. This means textual criticism can be important, but it is not always decisive for the larger prophecy debate.
+The text of Daniel 9 is relatively stable compared with some other contested prophecy passages, and the main issues are interpretive rather than textual. There are differences of translation and nuance, but no major manuscript problem that resolves the larger debate. The hardest questions concern chronology, genre, and historical setting, not whether the text itself existed before Christian interpretation.
 ## My Conclusion
-This entry remains under review and should be treated as a structured placeholder rather than a final judgment. Its eventual classification will depend in part on how prophecy is defined in this project: as direct prediction, as typological pattern, or as a broader canonical reading. For now, the main goal is to preserve the research structure and identify the key interpretive questions without forcing a premature conclusion.
+Daniel 9 is one of the strongest Christian arguments in the entire prophecy discussion because it appears to offer not just a messianic figure, but a timetable. It is also one of the most debated passages because virtually every major component of the argument depends on prior interpretive decisions about date, genre, symbolism, and historical referent. For this project, Daniel 9 is therefore a crucial test case: if it predicts Jesus, it does so through a highly interpretive apocalyptic structure; if it does not, it remains one of the clearest examples of how later theological readings can transform a symbolic historical text into a predictive messianic framework.
 ## Sources
-- Standard biblical commentaries
-- Lexical studies (Hebrew/Greek)
-- Jewish and Christian interpretive traditions
-- Historical-critical scholarship
+- John J. Collins
+- John Goldingay
+- Gleason Archer
+- Harold Hoehner
+- N. T. Wright
