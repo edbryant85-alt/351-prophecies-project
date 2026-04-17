@@ -101,13 +101,78 @@ a:hover { text-decoration: underline; }
 .scripture-panel, .meta-panel, .focus-panel, .conclusion-panel, .jump-panel {
   padding: 18px 20px; border-radius: 16px; border: 1px solid var(--line); background: rgba(255,255,255,0.75);
 }
-.scripture-panel { background: linear-gradient(180deg, rgba(255,255,255,0.92), rgba(248,246,240,0.92)); }
+.scripture-panel {
+  background: linear-gradient(180deg, rgba(255,255,255,0.96), rgba(249,247,242,0.96));
+}
+.compact-scripture {
+  padding-top: 16px;
+  padding-bottom: 16px;
+}
 .focus-panel { background: rgba(232, 237, 240, 0.5); }
 .conclusion-panel { background: rgba(245, 242, 233, 0.95); }
 .jump-panel { background: rgba(85, 107, 123, 0.05); }
-.scripture-quote {
-  margin: 0 0 12px; padding: 12px 14px; border-left: 3px solid var(--accent); background: rgba(232, 237, 240, 0.45);
+.scripture-meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px 14px;
+  align-items: center;
+  margin: 0 0 14px;
+  color: var(--muted);
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 0.88rem;
+}
+.translation-label {
+  display: inline-block;
+  padding: 4px 8px;
+  border-radius: 999px;
+  background: rgba(85, 107, 123, 0.1);
+  color: var(--accent-strong);
+  font-size: 0.76rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+.passage-range {
+  font-weight: 600;
+  color: var(--ink);
+}
+.display-scope {
+  color: var(--muted);
+}
+.scripture-block {
+  margin: 0 0 14px;
+  padding: 16px 18px;
+  border-left: 3px solid rgba(85, 107, 123, 0.55);
+  background: rgba(250, 248, 243, 0.95);
+  color: #23313c;
+}
+.scripture-block p {
+  margin: 0 0 12px;
   font-style: italic;
+}
+.scripture-block p:last-child {
+  margin-bottom: 0;
+}
+.scripture-links {
+  margin: 0 0 14px;
+  color: var(--muted);
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 0.9rem;
+}
+.scripture-links a {
+  font-weight: 600;
+}
+.scripture-divider {
+  margin: 0 8px;
+  color: #97a0a8;
+}
+.scripture-panel details {
+  margin-top: 8px;
+}
+.scripture-panel summary {
+  cursor: pointer;
+  font-family: Arial, Helvetica, sans-serif;
+  color: var(--accent-strong);
 }
 .sidebar-card h2, .sidebar-card h3, .panel h2, .flagship-card h2, .group-card h2 { margin: 0 0 12px; font-size: 1.15rem; }
 .sidebar-card ul, .group-card ul, .flagship-card ul, .footer-links { margin: 0; padding-left: 18px; }
