@@ -362,3 +362,6 @@
 - [Malachi 3:1c — Messenger of the new covenant](./malachi-3-1-349.md)
 - [Malachi 4:5 — Forerunner in spirit of Elijah](./malachi-4.md)
 - [Malachi 4:6 — Forerunner would turn many to righteousness](./malachi-4-6-351.md)
+
+## Copyright Notice
+Scripture quotations are from the New Revised Standard Version Updated Edition (NRSVUE), copyright © 2021 by the National Council of the Churches of Christ in the United States of America. Used by permission. All rights reserved.

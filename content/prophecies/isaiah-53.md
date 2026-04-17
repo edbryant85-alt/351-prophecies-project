@@ -143,3 +143,6 @@ It works much better as a passage whose categories Christians believe Jesus uniq
 - R. T. France
 - Richard B. Hays
 - Standard lexicons and major Isaiah commentaries
+
+## Copyright Notice
+Scripture quotations are from the New Revised Standard Version Updated Edition (NRSVUE), copyright © 2021 by the National Council of the Churches of Christ in the United States of America. Used by permission. All rights reserved.

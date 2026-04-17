@@ -78,3 +78,6 @@ Micah 5:2 appears stronger than many prophecy claims because it names a place an
 - John Goldingay
 - R. T. France
 - Raymond Brown
+
+## Copyright Notice
+Scripture quotations are from the New Revised Standard Version Updated Edition (NRSVUE), copyright © 2021 by the National Council of the Churches of Christ in the United States of America. Used by permission. All rights reserved.

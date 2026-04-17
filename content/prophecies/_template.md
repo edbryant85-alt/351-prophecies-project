@@ -98,3 +98,6 @@ Placeholder:
 
 ## Sources
 [List the main commentaries, lexicons, articles, or textual resources you consulted.]
+
+## Copyright Notice
+Scripture quotations are from the New Revised Standard Version Updated Edition (NRSVUE), copyright © 2021 by the National Council of the Churches of Christ in the United States of America. Used by permission. All rights reserved.

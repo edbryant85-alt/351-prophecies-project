@@ -82,3 +82,6 @@ Daniel 9 is one of the strongest Christian arguments in the entire prophecy disc
 - Gleason Archer
 - Harold Hoehner
 - N. T. Wright
+
+## Copyright Notice
+Scripture quotations are from the New Revised Standard Version Updated Edition (NRSVUE), copyright © 2021 by the National Council of the Churches of Christ in the United States of America. Used by permission. All rights reserved.

@@ -105,3 +105,6 @@ At the same time, the verse remains central in Christian interpretation because 
 - R. T. France
 - Richard B. Hays
 - Standard Hebrew lexicons such as HALOT and BDB
+
+## Copyright Notice
+Scripture quotations are from the New Revised Standard Version Updated Edition (NRSVUE), copyright © 2021 by the National Council of the Churches of Christ in the United States of America. Used by permission. All rights reserved.

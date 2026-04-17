@@ -97,3 +97,6 @@ Psalm 22 is one of the strongest Christian passion texts in the Old Testament, e
 - Brevard Childs
 - R. T. France
 - Richard B. Hays
+
+## Copyright Notice
+Scripture quotations are from the New Revised Standard Version Updated Edition (NRSVUE), copyright © 2021 by the National Council of the Churches of Christ in the United States of America. Used by permission. All rights reserved.

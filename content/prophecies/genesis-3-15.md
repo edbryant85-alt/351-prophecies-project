@@ -69,3 +69,6 @@ This entry remains under review and should be treated as a structured placeholde
 - Lexical studies (Hebrew/Greek)
 - Jewish and Christian interpretive traditions
 - Historical-critical scholarship
+
+## Copyright Notice
+Scripture quotations are from the New Revised Standard Version Updated Edition (NRSVUE), copyright © 2021 by the National Council of the Churches of Christ in the United States of America. Used by permission. All rights reserved.
