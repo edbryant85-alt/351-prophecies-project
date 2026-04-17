@@ -136,8 +136,12 @@ a:hover { text-decoration: underline; }
   font-weight: 600;
   color: var(--ink);
 }
-.display-scope {
-  color: var(--muted);
+.scripture-reference-only {
+  margin: 0 0 10px;
+  color: var(--ink);
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 0.92rem;
+  font-weight: 600;
 }
 .scripture-block {
   margin: 0 0 14px;
@@ -162,17 +166,12 @@ a:hover { text-decoration: underline; }
 .scripture-links a {
   font-weight: 600;
 }
+.compact-scripture .scripture-links {
+  margin-bottom: 0;
+}
 .scripture-divider {
   margin: 0 8px;
   color: #97a0a8;
-}
-.scripture-panel details {
-  margin-top: 8px;
-}
-.scripture-panel summary {
-  cursor: pointer;
-  font-family: Arial, Helvetica, sans-serif;
-  color: var(--accent-strong);
 }
 .sidebar-card h2, .sidebar-card h3, .panel h2, .flagship-card h2, .group-card h2 { margin: 0 0 12px; font-size: 1.15rem; }
 .sidebar-card ul, .group-card ul, .flagship-card ul, .footer-links { margin: 0; padding-left: 18px; }
