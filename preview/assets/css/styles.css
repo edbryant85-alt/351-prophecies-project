@@ -203,6 +203,17 @@ a:hover { text-decoration: underline; }
 .footer-note, .footer-source { color: var(--muted); font-size: 0.88rem; }
 .footer-links li { margin-bottom: 6px; }
 .policy-list li { margin-bottom: 8px; }
+.criteria-list {
+  margin: 16px 0 0;
+  padding-left: 24px;
+}
+.criteria-list li {
+  margin-bottom: 12px;
+  line-height: 1.7;
+}
+.criteria-list li:last-child {
+  margin-bottom: 0;
+}
 @media (max-width: 980px) {
   .grid-home, .content-shell, .footer-grid, .flagship-grid { grid-template-columns: 1fr; }
   .sidebar { position: static; }
