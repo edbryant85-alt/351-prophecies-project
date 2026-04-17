@@ -8,3 +8,7 @@ Each prophecy will be evaluated using these six criteria:
 4. Specific and Verifiable — It must point to a clear, identifiable event
 5. Clarity — It must not be overly symbolic or open to multiple interpretations
 6. Independence — It must not be fulfilled through deliberate or influenced action
+
+## Copyright Notice
+
+Scripture quotations are taken from the New Revised Standard Version Updated Edition. Copyright © 2021 National Council of Churches of Christ in the United States of America. Used by permission. All rights reserved worldwide.

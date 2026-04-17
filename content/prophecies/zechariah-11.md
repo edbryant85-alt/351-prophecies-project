@@ -28,11 +28,17 @@ Placeholder:
 
 ## Scripture Text
 
+"I then said to them, 'If it seems right to you, give me my wages, but if not, keep them.' So they weighed out as my wages thirty shekels of silver." (Zechariah 11:12, NRSVue)
+
+"Then the Lord said to me, 'Throw it into the treasury' - this lordly price at which I was valued by them. So I took the thirty shekels of silver and threw them into the treasury in the house of the Lord." (Zechariah 11:13, NRSVue)
+
+"Then I broke my second staff Unity, annulling the family ties between Judah and Israel." (Zechariah 11:14, NRSVue)
+
 **Focus Verses:** Zechariah 11:4-13
 
 - Display scope: Full passage / logical section
-- Passage reference: - Claim Summary:
-- [View full passage on Bible Gateway](https://www.biblegateway.com/passage/?search=-%20Claim%20Summary%3A&version=NRSVUE)
+- Passage reference: Zechariah 11:4-14
+- [View full passage on Bible Gateway](https://www.biblegateway.com/passage/?search=Zechariah%2011%3A4-14&version=NRSVUE)
 
 ### Text Details (Expandable)
 
@@ -45,7 +51,6 @@ Placeholder:
 - Alternate translations:
 
 </details>
-
 
 ## 351 List Reference
 - Number:

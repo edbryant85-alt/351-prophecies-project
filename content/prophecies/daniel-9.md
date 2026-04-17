@@ -19,6 +19,12 @@ Christians often argue that Daniel 9 predicts the timing of the Messiah's arriva
 
 ## Scripture Text
 
+"Seventy weeks are decreed for your people and your holy city: to finish the transgression, to put an end to sin, and to atone for iniquity, to bring in everlasting righteousness, to seal both vision and prophet, and to anoint a most holy place." (Daniel 9:24, NRSVue)
+
+"Know therefore and understand: from the time that the word went out to restore and rebuild Jerusalem until the time of an anointed prince, there shall be seven weeks, and for sixty-two weeks it shall be built again with streets and moat, but in a troubled time." (Daniel 9:25, NRSVue)
+
+"After the sixty-two weeks, an anointed one shall be cut off and shall have nothing, and the troops of the prince who is to come shall destroy the city and the sanctuary. Its end shall come with a flood, and to the end there shall be war. Desolations are decreed." (Daniel 9:26, NRSVue)
+
 **Focus Verses:** Daniel 9:24-26
 
 - Display scope: Full passage / logical section
@@ -36,7 +42,6 @@ Christians often argue that Daniel 9 predicts the timing of the Messiah's arriva
 - Alternate translations:
 
 </details>
-
 
 ## 351 List Reference
 - Number: Multiple numbered claims in the 351 list
