@@ -6,7 +6,7 @@
 > NOTE: This page analyzes a specific prophecy claim. For a broader contextual overview, see [Zechariah 11](./zechariah-11.md).
 
 ## Claim
-This entry evaluates the claim that Rejected in favor of another king.
+Christians sometimes argue that Zechariah 11:4-6 foreshadows the rejection of the true shepherd in favor of another form of rule, and they connect that idea to the crowd's acceptance of another king in John 19:13-15. The claim depends on reading the shepherd drama as a precursor to the rejection of Jesus.
 
 
 ## Scripture Text
@@ -28,6 +28,7 @@ This entry evaluates the claim that Rejected in favor of another king.
 </details>
 
 
+
 ## 351 List Reference
 - Number: 328
 - OT Reference: Zechariah 11:4-6c
@@ -35,32 +36,37 @@ This entry evaluates the claim that Rejected in favor of another king.
 - Claimed NT Fulfillment: John 19:13-15
 
 ## Skeptic Criteria Evaluation
-In the current project dataset, this claim is provisionally marked as failing criteria 2,3,4,5,6. Many skeptics argue that passages like this are being read through later theological framing rather than as clear, self-contained predictions. On that reading, the claim may depend on ambiguity, typology, or retrospective interpretation rather than a single direct fulfillment.
+- Claimed failed criteria: 2, 4, 5, 6
+- Brief skeptic summary:
+  Skeptics regard this as a highly inferential claim. The text does not mention Jesus, Pilate, or Caesar, and the fulfillment depends on drawing a thematic line from rejected shepherding to a later political choice in John's passion narrative.
 ## Old Testament Passage
-This entry centers on Zechariah 11:4-6c, a passage usually approached within a prophetic literary setting. Its wording may combine immediate historical concerns, symbolic language, and broader theological themes such as judgment, restoration, kingship, or divine intervention. A final draft should summarize the immediate oracle or unit around the verse rather than isolating one phrase from its larger prophetic context.
+Zechariah 11:4-6 describes a doomed flock under harsh leadership and a situation in which destructive rulers prevail. It establishes the political and moral breakdown that frames the rest of the chapter.
 ## Old Testament Context
-The historical setting likely belongs to the prophetic world of covenant lawsuit, social criticism, restoration hope, or post-exilic expectation. The original audience would have heard the passage as speaking into real communal pressures rather than as a stand-alone forecast isolated from its book. This broader horizon often shapes whether the passage is read as historical, typological, messianic, or some combination of these.
+The immediate context is Zechariah's symbolic critique of failed leadership. The verse speaks to power, exploitation, and judgment within the chapter's own sign-act, not to a specific later choice between Jesus and Caesar.
 ## Claimed New Testament Fulfillment
-The dataset associates this claim with John 19:13-15. In Christian interpretation, the New Testament reference is taken either as a direct fulfillment text, a typological echo, or a theological application of the Old Testament passage. A final draft should explain how explicit the connection actually is and whether the New Testament is quoting, alluding to, or conceptually reframing the earlier text.
+John 19:13-15 is cited because the leaders and crowd reject Jesus and invoke Caesar. The Christian connection is thematic rather than textual, centering on misplaced allegiance and the refusal of rightful shepherding.
 ## Why a Skeptic Says It Fails
-Typical skeptical objections include context mismatch, ambiguity of wording, and the possibility that the passage functions better as pattern or typology than as direct prediction. Skeptics also argue that some fulfillment claims depend heavily on New Testament framing, which can make the relationship look retrospective rather than independently predictive. In a final analysis, this section should distinguish between objections to the original meaning of the passage and objections to the later Christian use of it.
+A skeptic would say the details are too indirect to sustain a predictive claim. The argument depends on combining a broad leadership critique with a later Gospel scene and treating the overlap as fulfillment rather than analogy.
 ## Original Language Notes
-Interpretation may depend in part on Hebrew terms in the Old Testament and, where relevant, on Greek wording in the Septuagint or New Testament. Translation choices can shape whether a phrase sounds like direct prediction, poetic description, royal ideology, or theological symbolism. A final draft should identify the key lexical or grammatical terms that materially affect the claim rather than assuming that standard English renderings settle the question.
+No single lexical issue drives the claim. The interpretive pressure comes from the chapter's shepherd symbolism and from how expansively it is applied to later political rejection.
 ## Historical and Cultural Context
-Relevant background may include the politics of the monarchy, imperial pressure, exile and restoration, temple expectations, and later Second Temple interpretation. Ancient Near Eastern royal and prophetic conventions may also affect how language of kingship, judgment, suffering, or restoration is understood. These broader cultural frames often help explain why a passage could be heard one way in its original setting and another way in later theological interpretation.
+Ancient prophetic critiques of rulers often expose corrupt governance without predicting one later historical choice. That broader setting weakens the case for a precise first-century referent.
 ## Jewish Interpretation
-Many Jewish interpreters read passages like this first within their original literary and historical setting rather than as direct predictions of Jesus. Depending on the text, Jewish readings may emphasize immediate historical referents, corporate Israel, the Davidic line, temple concerns, wisdom themes, or future messianic hope understood differently from Christian readings. Jewish interpretation is not monolithic, so a final draft should note major streams of interpretation without reducing them to a single position.
+Jewish interpretation does not typically read this line as anticipating Jesus' rejection in favor of Caesar. It is more naturally heard as a critique of leadership and national disorder.
 ## Christian Interpretation
-Many Christians read this passage messianically, typologically, or prophetically in relation to Jesus. Interpretations vary: some argue for a direct prediction, others for dual fulfillment, and others for a broader canonical or typological pattern that culminates in the New Testament. A final draft should distinguish these interpretive approaches rather than treating all Christian readings as identical.
+Christian use of this claim is usually secondary and thematic. It can reinforce the chapter's rejection motif, but it is not one of the stronger individual parallels.
 ## Textual Issues
-Textual questions may involve the Masoretic Text, the Septuagint, and where relevant the Dead Sea Scrolls. In some passages, these witnesses differ in wording or nuance enough to affect interpretation; in others, the debate is less about textual instability and more about how a relatively stable text should be read. This means textual criticism can be important, but it is not always decisive for the larger prophecy debate.
+The main issue is interpretive rather than textual. The proposed fulfillment depends on narrative analogy more than on wording.
 ## My Conclusion
-This entry remains under review and should be treated as a structured placeholder rather than a final judgment. Its eventual classification will depend in part on how prophecy is defined in this project: as direct prediction, as typological pattern, or as a broader canonical reading. For now, the main goal is to preserve the research structure and identify the key interpretive questions without forcing a premature conclusion.
+This claim does not stand strongly on its own. It functions, at best, as one fragment within a broader rejection pattern built from several parts of Zechariah 11 and the passion narratives.
 ## Sources
-- Standard biblical commentaries
-- Lexical studies (Hebrew/Greek)
-- Jewish and Christian interpretive traditions
-- Historical-critical scholarship
+- Mark Boda
+- Carol Meyers
+- Eric Meyers
+- R. T. France
+- Raymond Brown
+- Major Zechariah commentaries
 
 ## Copyright Notice
 Scripture quotations are from the New Revised Standard Version Updated Edition (NRSVUE), copyright © 2021 by the National Council of the Churches of Christ in the United States of America. Used by permission. All rights reserved.
+
