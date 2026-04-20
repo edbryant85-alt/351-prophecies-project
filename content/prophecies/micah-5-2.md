@@ -34,7 +34,7 @@ Christians often argue that Micah 5:2 predicts the Messiah's connection to Bethl
 - Claimed NT Fulfillment: Matthew 2; Luke 2
 
 ## Skeptic Criteria Evaluation
-Skeptics commonly argue that Micah 5:2 fails criteria 2, 4, 5, and 6. Their case is that the verse may not be predictive in the strict sense within its original context, that the Bethlehem reference may be less specific than later Christian claims assume, that the language about ancient origins is ambiguous, and that the New Testament birth narratives may have been shaped with Micah already in view. On that reading, Micah 5:2 looks stronger than many prophecy claims, but still not uncontroversial under a strict six-criteria standard.
+Skeptics commonly argue that Micah 5:2 fails criteria 2, 4, 5, and 6. Their case is that the verse may not be predictive in the strict sense within its original context, that the Bethlehem reference may be less specific than later Christian claims assume, that the language about ancient origins is ambiguous, and that the New Testament birth narratives may have been shaped with Micah already in view. On that reading, Micah 5:2 looks stronger than many prophecy claims, but it is still not uncontroversial under a strict six-criteria standard.
 ## Old Testament Passage
 Micah 5:2 presents Bethlehem Ephrathah as small among the clans of Judah, yet significant because from it comes a ruler for Israel. The verse combines apparent insignificance with royal promise and includes the debated phrase about the ruler's origins being "from of old" or "from ancient days." In Christian reading, these details have made the verse central to arguments about Jesus' birthplace and messianic identity.
 ## Old Testament Context
@@ -64,7 +64,7 @@ Christian interpretation has often treated Micah 5:2 as one of the clearest mess
 ## Textual Issues
 There are Masoretic Text and Septuagint differences of wording and nuance, but no major doctrinally decisive variant that overturns the basic sense of the verse. The larger debate is interpretive rather than text-critical: what exactly does Bethlehem signify, and how should the language of ancient origins be understood? In that respect, Micah 5:2 is less unstable textually than some famous prophecy passages, even though it remains debated in meaning.
 ## My Conclusion
-Micah 5:2 appears stronger than many prophecy claims because it names a place and speaks of a coming ruler in a way that naturally invites messianic interpretation. Even so, it is still debated under strict criteria, especially if Bethlehem is understood primarily as dynastic symbolism and Davidic association rather than as an explicit biographical birthplace prediction. For this project, Micah 5:2 is a key test case because it sits very near the line between genuinely specific prediction and a more interpretive appeal to royal-restoration imagery.
+Micah 5:2 appears stronger than many prophecy claims because it names a place and speaks of a coming ruler in a way that naturally invites messianic interpretation. Its main limitation is that Bethlehem may function primarily as dynastic symbolism and Davidic association rather than as an explicit biographical birthplace prediction. It works best as a text poised between specific prediction and broader royal-restoration imagery, which is why it remains one of the sharper test cases in the project.
 ## Sources
 - Bruce Waltke
 - Daniel Smith-Christopher

@@ -9,7 +9,7 @@
 - [Isaiah 7:14 (Claim 171)](./isaiah-7-14-171.md)
 
 ## Claim
-Christians often argue that Isaiah 7:14 predicts the virgin birth of Jesus. In the history of Christian interpretation, this verse has functioned as one of the central Old Testament texts used to connect Jesus' birth to Israel's prophetic tradition. At the same time, it is also one of the most disputed examples in the larger prophecy debate, because the original context in Isaiah 7 seems closely tied to the political crisis facing Ahaz in Isaiah's own day.
+Christians often argue that Isaiah 7:14 predicts the virgin birth of Jesus. In Christian interpretation, it has become one of the central Old Testament texts linking Jesus' birth to Israel's prophetic tradition. It is also one of the most disputed examples in the project because the oracle is so closely tied to the political crisis facing Ahaz in Isaiah's own day.
 
 
 ## Scripture Text
@@ -33,7 +33,7 @@ Christians often argue that Isaiah 7:14 predicts the virgin birth of Jesus. In t
 - Claimed NT Fulfillment: Matthew 1:22–23; Luke 1:34–35
 
 ## Skeptic Criteria Evaluation
-Skeptics commonly argue that Isaiah 7:14 fails criteria 2, 4, 5, and 6. Their basic case is that the passage addresses the immediate crisis of Ahaz rather than a distant messianic birth, that the meaning of `almah` is disputed, that the fulfillment claim depends heavily on Gospel tradition, and that Matthew's use of the passage may be retrospective rather than predictive. In other words, skeptics do not usually deny that Christians have found the verse important; they deny that it functions as a clear, independent prediction of Jesus in the strong sense required by the project's criteria.
+Skeptics commonly argue that Isaiah 7:14 fails criteria 2, 4, 5, and 6. Their basic case is that the passage addresses the immediate crisis of Ahaz rather than a distant messianic birth, that the meaning of `almah` is disputed, and that the fulfillment claim depends heavily on Gospel tradition. They generally do not deny the verse's importance in Christian theology; they deny that it functions as a clear, independent prediction of Jesus in the strong sense required by the project's criteria.
 
 ## Old Testament Passage
 Isaiah 7:14 sits within the larger unit of Isaiah 7:10-17. In that passage, Isaiah confronts Ahaz during a military and political emergency and offers a sign from the Lord. Ahaz refuses to ask for one, after which Isaiah declares that the Lord himself will give a sign: a young woman will conceive and bear a son called Immanuel. The surrounding verses make clear that the sign is linked to a near-term horizon, because before the child reaches a certain stage of development, the lands of the threatening kings will be laid waste, though Judah itself will later face Assyrian consequences.
@@ -46,7 +46,7 @@ Many scholars therefore argue that the passage has an immediate historical meani
 ## Claimed New Testament Fulfillment
 Matthew 1:22-23 is the key New Testament text because it explicitly quotes Isaiah 7:14 and presents Jesus' birth as fulfilling what was spoken by the prophet. In Matthew's narrative, the conception of Jesus by the Holy Spirit and the naming theme of "Immanuel" are bound together as part of a larger theological claim about God being with his people in Jesus. Luke 1 does not quote Isaiah 7:14 directly, but it contributes to the Christian reading by describing Mary's conception of Jesus apart from ordinary sexual relations and so forms part of the same larger birth tradition.
 
-The important point is that Matthew is not merely mentioning a parallel theme; he is making an explicit fulfillment claim. Luke's role is more indirect. Together, however, the two passages helped establish Isaiah 7:14 as one of the most important birth-prophecy texts in Christian tradition.
+The important point is that Matthew is not merely mentioning a parallel theme; he is making an explicit fulfillment claim. Luke's role is more indirect, but together the two passages helped establish Isaiah 7:14 as one of the most important birth-prophecy texts in Christian tradition.
 
 ## Why a Skeptic Says It Fails
 ### C2 Predictive Intent

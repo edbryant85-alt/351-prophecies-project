@@ -9,7 +9,7 @@
 - [Genesis 3:15 (Claim 2)](./genesis-3-15-2.md)
 
 ## Claim
-Christians often argue that Genesis 3:15 foreshadows Jesus as the offspring of the woman who ultimately defeats Satan, even though he is himself wounded in the process. In Christian theology, the verse is frequently called the *protoevangelium*, the first hint of the gospel within the biblical story. It is also heavily disputed, because in its immediate context it reads as a judgment speech within Eden rather than as an explicit messianic oracle.
+Christians often argue that Genesis 3:15 foreshadows Jesus as the offspring of the woman who defeats Satan while suffering in the process. In Christian theology, the verse is often called the *protoevangelium*, the first hint of the gospel within the biblical story. It remains heavily disputed because, in context, it reads first as a judgment speech within Eden rather than as an explicit messianic oracle.
 
 
 ## Scripture Text
@@ -33,13 +33,13 @@ Christians often argue that Genesis 3:15 foreshadows Jesus as the offspring of t
 - Claimed NT Fulfillment: Matthew 1:18; Galatians 4:4-5; Hebrews 2:14; 1 John 3:8
 
 ## Skeptic Criteria Evaluation
-Skeptics commonly argue that Genesis 3:15 fails criteria 2, 4, 5, and 6. Their main case is that the verse functions first as a judgment speech explaining ongoing hostility between humans and the serpent rather than as a direct forecast of Jesus. They also argue that the Christian reading depends on later theological development, ambiguous language about the offspring, and a retrospective identification of Satan and Christ that is not explicit in Genesis itself.
+Skeptics commonly argue that Genesis 3:15 fails criteria 2, 4, 5, and 6. Their basic case is that the verse explains ongoing hostility within the Eden narrative rather than predicting Jesus directly. They also argue that the Christian reading depends on later theological development, especially the retrospective identification of the serpent with Satan and the offspring with Christ.
 ## Old Testament Passage
 Genesis 3:15 appears in the aftermath of the human disobedience in Eden, when God addresses the serpent, the woman, and the man in turn. The verse announces ongoing enmity between the serpent and the woman and between their respective offspring, with one side striking the heel and the other striking the head. In Christian reading, that asymmetrical imagery has made the verse central to arguments about a wounded but victorious redeemer.
 ## Old Testament Context
 Genesis 3 belongs to the primeval history of Genesis 1-11, where the text explains the entrance of disorder, pain, alienation, and mortality into the human story. The speech to the serpent is part of that larger narrative logic: it accounts for hostility, judgment, and the damaged relationship between humanity and the created order. Many scholars therefore stress that the verse first functions within an etiological and theological narrative rather than as a stand-alone prediction of a future messiah.
 ## Claimed New Testament Fulfillment
-The New Testament never quotes Genesis 3:15 directly as a fulfillment formula, but Christians have long connected it to Jesus through a network of later passages. Matthew 1:18 and Galatians 4:4-5 are often used to stress Jesus' birth from a woman, while Hebrews 2:14 and 1 John 3:8 are used to argue that Jesus defeats the devil through his death and mission. For that reason, the Christian use of Genesis 3:15 is usually cumulative and theological rather than dependent on a single explicit quotation.
+The New Testament never quotes Genesis 3:15 directly as a fulfillment formula, but Christians have long connected it to Jesus through a network of later passages. Matthew 1:18 and Galatians 4:4-5 are often used to stress Jesus' birth from a woman, while Hebrews 2:14 and 1 John 3:8 are used to argue that Jesus defeats the devil through his death and mission. The Christian use of Genesis 3:15 is therefore cumulative and theological rather than dependent on a single explicit quotation.
 ## Why a Skeptic Says It Fails
 ### C2 Predictive Intent
 Skeptics argue that Genesis 3:15 is not framed as a prediction about Jesus but as part of God's judgment within the Eden narrative. On that reading, the verse explains a continuing conflict rather than forecasting a future messianic deliverer.
@@ -65,10 +65,11 @@ The main debate is interpretive rather than text-critical. The Hebrew text is st
 ## My Conclusion
 Genesis 3:15 is important in Christian theology, but it is not a strong stand-alone prediction if prophecy is defined narrowly and contextually. Its main limitation is that the verse functions first as part of the Eden judgment narrative and only later becomes messianically specified through broader canonical interpretation. It works best in this project as a typological or canonical starting point rather than as a clear, independently verifiable prediction of Jesus.
 ## Sources
-- Standard biblical commentaries
-- Lexical studies (Hebrew/Greek)
-- Jewish and Christian interpretive traditions
-- Historical-critical scholarship
+- Gordon J. Wenham
+- John H. Walton
+- Claus Westermann
+- Brevard Childs
+- Standard Hebrew lexicons and Genesis commentaries
 
 ## Copyright Notice
 Scripture quotations are from the New Revised Standard Version Updated Edition (NRSVUE), copyright © 2021 by the National Council of the Churches of Christ in the United States of America. Used by permission. All rights reserved.

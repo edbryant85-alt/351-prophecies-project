@@ -25,7 +25,7 @@
 - [Psalm 22:31 (Claim 91)](./psalm-22-31-91.md)
 
 ## Claim
-Christians often argue that Psalm 22 predicts important aspects of Jesus' suffering, rejection, and death. In Christian interpretation, it has become one of the central Old Testament texts for reading the crucifixion, especially because several lines in the psalm appear to echo scenes in the Gospel passion narratives. At the same time, the passage is heavily disputed because Psalm 22 is first and foremost a lament psalm, not an explicit prophetic oracle about a distant future messiah.
+Christians often argue that Psalm 22 predicts important aspects of Jesus' suffering, rejection, and death. In Christian interpretation, it has become one of the central Old Testament texts for reading the crucifixion because several lines appear to echo scenes in the Gospel passion narratives. The passage remains heavily disputed because Psalm 22 is first and foremost a lament psalm, not an explicit prophetic oracle about a distant future messiah.
 
 
 ## Scripture Text
@@ -49,7 +49,7 @@ Christians often argue that Psalm 22 predicts important aspects of Jesus' suffer
 - Claimed NT Fulfillment: Passion narratives, Gospel crucifixion scenes, related allusions
 
 ## Skeptic Criteria Evaluation
-Skeptics commonly argue that Psalm 22 fails criteria 2, 3, 4, 5, and 6. Their case is that the psalm is a lament, not an explicit future prediction; that much of its language is poetic and metaphorical; that some details, especially verse 16, are textually disputed; and that the New Testament seems to reuse or frame Jesus' suffering in light of the psalm. On that reading, Psalm 22 works less like a single precise prediction and more like a cluster of motifs later gathered into Christian passion theology.
+Skeptics commonly argue that Psalm 22 fails criteria 2, 3, 4, 5, and 6. Their case is that the psalm is a lament, not an explicit future prediction; that much of its language is poetic and metaphorical; that some details, especially verse 16, are textually disputed; and that the New Testament frames Jesus' suffering in light of the psalm. On that reading, Psalm 22 works less like a single precise prediction and more like a cluster of motifs later gathered into Christian passion theology.
 ## Old Testament Passage
 Psalm 22 begins with a cry of abandonment, moves through mockery, bodily distress, hostile enemies, and public humiliation, and later turns toward rescue, praise, and worldwide acknowledgment of God. The speaker describes himself as surrounded, weakened, and shamed, while enemies jeer and divide his garments. Taken as a whole, the psalm is not simply a scene of suffering but a movement from desperation to vindication and worship.
 ## Old Testament Context
@@ -82,7 +82,7 @@ Christian interpretation has long treated Psalm 22 as one of the strongest passi
 ## Textual Issues
 The textual discussion around Psalm 22 often centers on the relationship between the Masoretic Text and the Septuagint, especially in verse 16 and the question of whether the line should be read in a way closer to "like a lion" or to "they pierced." That difference matters because apologetic claims are often strongest when the psalm is translated in a way that appears to align closely with crucifixion imagery. More broadly, the textual tradition does not erase the psalm's pre-Christian origin, but it does complicate claims that every key line is textually simple and prophetically decisive.
 ## My Conclusion
-Psalm 22 is one of the strongest Christian passion texts in the Old Testament, especially because the Gospels repeatedly resonate with its language and imagery. It is not, however, one of the clearest examples of strict stand-alone prediction if prophecy is defined narrowly as an explicit, future-oriented oracle with unmistakable details. It functions more powerfully in cumulative, typological, or canonical frameworks, and for that reason it is a major test case for the larger question this project keeps returning to: whether biblical prophecy is best understood as prediction, pattern, retrospective theological interpretation, or some combination of these.
+Psalm 22 is one of the strongest Christian passion texts in the Old Testament because the Gospels repeatedly resonate with its language and imagery. Its main limitation is that it remains a lament psalm whose imagery is poetic, textually debated in places, and not framed as a stand-alone future oracle. It works best as a cumulative, typological, or canonical text, which is why it remains a major test case for how prophecy is being defined in this project.
 ## Sources
 - John Goldingay
 - Peter Craigie
