@@ -61,3 +61,9 @@ The goal is consistency in evaluation, not selective skepticism
 License / Use
 
 This project is for research, discussion, and educational purposes.
+
+Shareable Preview
+
+The repo includes a standalone mini-site in `shareable-preview/`.
+
+If GitHub Pages is enabled for this repository with `GitHub Actions` as the source, the workflow at `.github/workflows/deploy-shareable-preview.yml` will publish that folder automatically on pushes to `main`.
