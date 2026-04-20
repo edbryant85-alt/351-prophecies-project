@@ -47,17 +47,18 @@ Christians often argue that Isaiah 52:13–53:12 predicts the suffering, death, 
 
 ## Scripture Text
 
-"He was despised and rejected by others; a man of suffering and acquainted with infirmity, and as one from whom others hide their faces he was despised, and we held him of no account." (Isaiah 53:3, NRSVue)
-
-"But he was wounded for our transgressions, crushed for our iniquities; upon him was the punishment that made us whole, and by his bruises we are healed." (Isaiah 53:5, NRSVue)
-
-"Therefore I will allot him a portion with the great, and he shall divide the spoil with the strong, because he poured out himself to death and was numbered with the transgressors, yet he bore the sin of many and made intercession for the transgressors." (Isaiah 53:12, NRSVue)
+> "He was despised and rejected by others; a man of suffering and acquainted with infirmity, and as one from whom others hide their faces he was despised, and we held him of no account."
+>
+> "But he was wounded for our transgressions, crushed for our iniquities; upon him was the punishment that made us whole, and by his bruises we are healed."
+>
+> "Therefore I will allot him a portion with the great, and he shall divide the spoil with the strong, because he poured out himself to death and was numbered with the transgressors, yet he bore the sin of many and made intercession for the transgressors."
+>
+> — Isaiah 53:3, 5, 12 (NRSVue)
 
 **Focus Verses:** Isaiah 53:2-12
 
 - **Passage Reference:** Isaiah 52:13–53:12
 - [View full passage on Bible Gateway](https://www.biblegateway.com/passage/?search=Isaiah%2052%3A13-53%3A12&version=NRSVUE)
-
 ## 351 List Reference
 - Number: Multiple numbered claims in the 351 list
 - OT Reference: Isaiah 52:13–53:12

@@ -30,17 +30,18 @@ Christians often argue that Psalm 22 predicts important aspects of Jesus' suffer
 
 ## Scripture Text
 
-"My God, my God, why have you forsaken me? Why are you so far from helping me, from the words of my groaning?" (Psalm 22:1, NRSVue)
-
-"Commit your cause to the Lord; let him deliver, let him rescue the one in whom he delights!" (Psalm 22:8, NRSVue)
-
-"They divide my clothes among themselves, and for my clothing they cast lots." (Psalm 22:18, NRSVue)
+> "My God, my God, why have you forsaken me? Why are you so far from helping me, from the words of my groaning?"
+>
+> "Commit your cause to the Lord; let him deliver, let him rescue the one in whom he delights!"
+>
+> "They divide my clothes among themselves, and for my clothing they cast lots."
+>
+> — Psalm 22:1, 8, 18 (NRSVue)
 
 **Focus Verses:** Psalm 22:1-2, 7-10, 12-18, 20-22, 27-28, 31
 
 - **Passage Reference:** Psalm 22
 - [View full passage on Bible Gateway](https://www.biblegateway.com/passage/?search=Psalm%2022&version=NRSVUE)
-
 ## 351 List Reference
 - Number: Multiple numbered claims in the 351 list
 - OT Reference: Psalm 22

@@ -15,17 +15,18 @@ Christians often argue that Micah 5:2 predicts the Messiah's connection to Bethl
 
 ## Scripture Text
 
-"Now you are walled around with a wall; siege is laid against us; with a rod they strike the ruler of Israel upon the cheek." (Micah 5:1, NRSVue)
-
-"But you, O Bethlehem of Ephrathah, who are one of the little clans of Judah, from you shall come forth for me one who is to rule in Israel, whose origin is from of old, from ancient days." (Micah 5:2, NRSVue)
-
-"Therefore he shall give them up until the time when she who is in labor has brought forth; then the rest of his kindred shall return to the people of Israel." (Micah 5:3, NRSVue)
+> "Now you are walled around with a wall; siege is laid against us; with a rod they strike the ruler of Israel upon the cheek."
+>
+> "But you, O Bethlehem of Ephrathah, who are one of the little clans of Judah, from you shall come forth for me one who is to rule in Israel, whose origin is from of old, from ancient days."
+>
+> "Therefore he shall give them up until the time when she who is in labor has brought forth; then the rest of his kindred shall return to the people of Israel."
+>
+> — Micah 5:1-3 (NRSVue)
 
 **Focus Verses:** Micah 5:2
 
 - **Passage Reference:** Micah 5:1-3
 - [View full passage on Bible Gateway](https://www.biblegateway.com/passage/?search=Micah%205%3A2&version=NRSVUE)
-
 ## 351 List Reference
 - Number: Multiple numbered claims in the 351 list
 - OT Reference: Micah 5:2

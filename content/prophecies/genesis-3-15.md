@@ -14,17 +14,18 @@ Christians often argue that Genesis 3:15 foreshadows Jesus as the offspring of t
 
 ## Scripture Text
 
-"Because you have done this, cursed are you among all animals and among all wild creatures; upon your belly you shall go, and dust you shall eat all the days of your life." (Genesis 3:14, NRSVue)
-
-"I will put enmity between you and the woman and between your offspring and hers; he will strike your head, and you will strike his heel." (Genesis 3:15, NRSVue)
-
-"To the woman he said, 'I will make your pangs in childbirth exceedingly great; in pain you shall bring forth children, yet your desire shall be for your husband, and he shall rule over you.'" (Genesis 3:16, NRSVue)
+> "Because you have done this, cursed are you among all animals and among all wild creatures; upon your belly you shall go, and dust you shall eat all the days of your life."
+>
+> "I will put enmity between you and the woman and between your offspring and hers; he will strike your head, and you will strike his heel."
+>
+> "To the woman he said, 'I will make your pangs in childbirth exceedingly great; in pain you shall bring forth children, yet your desire shall be for your husband, and he shall rule over you.'"
+>
+> — Genesis 3:14-16 (NRSVue)
 
 **Focus Verses:** Genesis 3:15
 
 - **Passage Reference:** Genesis 3:14-16
 - [View full passage on Bible Gateway](https://www.biblegateway.com/passage/?search=Genesis%203%3A14-16&version=NRSVUE)
-
 ## 351 List Reference
 - Number: Multiple numbered claims in the 351 list
 - OT Reference: Genesis 3:15

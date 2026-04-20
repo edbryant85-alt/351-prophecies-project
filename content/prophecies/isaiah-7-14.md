@@ -14,17 +14,18 @@ Christians often argue that Isaiah 7:14 predicts the virgin birth of Jesus. In t
 
 ## Scripture Text
 
-"Then Isaiah said, 'Hear then, O house of David! Is it too little for you to weary mortals that you weary my God also?'" (Isaiah 7:13, NRSVue)
-
-"Therefore the Lord himself will give you a sign. Look, the young woman is with child and shall bear a son and shall name him Immanuel." (Isaiah 7:14, NRSVue)
-
-"He shall eat curds and honey by the time he knows how to refuse the evil and choose the good." (Isaiah 7:15, NRSVue)
+> "Then Isaiah said, 'Hear then, O house of David! Is it too little for you to weary mortals that you weary my God also?'"
+>
+> "Therefore the Lord himself will give you a sign. Look, the young woman is with child and shall bear a son and shall name him Immanuel."
+>
+> "He shall eat curds and honey by the time he knows how to refuse the evil and choose the good."
+>
+> — Isaiah 7:13-15 (NRSVue)
 
 **Focus Verses:** Isaiah 7:14
 
 - **Passage Reference:** Isaiah 7:13-15
 - [View full passage on Bible Gateway](https://www.biblegateway.com/passage/?search=Isaiah%207%3A14&version=NRSVUE)
-
 ## 351 List Reference
 - Number: 170
 - OT Reference: Isaiah 7:14
