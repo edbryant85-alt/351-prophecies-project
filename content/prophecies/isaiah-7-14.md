@@ -22,21 +22,8 @@ Christians often argue that Isaiah 7:14 predicts the virgin birth of Jesus. In t
 
 **Focus Verses:** Isaiah 7:14
 
-- Display scope: Full passage / logical section
-- Passage reference: Isaiah 7:14
+- **Passage Reference:** Isaiah 7:13-15
 - [View full passage on Bible Gateway](https://www.biblegateway.com/passage/?search=Isaiah%207%3A14&version=NRSVUE)
-
-### Text Details (Expandable)
-
-<details>
-<summary>Show text details</summary>
-
-- Original language:
-- Transliteration:
-- Literal gloss:
-- Alternate translations:
-
-</details>
 
 ## 351 List Reference
 - Number: 170
@@ -99,9 +86,7 @@ The main textual issue here is the relationship between the Masoretic Text and t
 There is no serious argument that Isaiah 7:14 was created or inserted after the rise of Christianity. The verse clearly predates the Christian movement. The real question is whether the Christian use of the verse is best understood as faithful interpretation, typological extension, or a reading driven by later theological commitments.
 
 ## My Conclusion
-Isaiah 7:14 is not a simple newspaper-style prediction that transparently points to Jesus without interpretive dispute. It is one of the clearest examples in the entire catalog of how sharply the prophecy debate changes depending on whether one prioritizes original historical context or later canonical fulfillment. If prophecy is defined narrowly as a direct, context-independent prediction, the skeptical objections are substantial.
-
-At the same time, the verse remains central in Christian interpretation because Matthew explicitly uses it and because the Septuagint gave early Christians a textual form that strongly supported the virgin-birth reading. For that reason, Isaiah 7:14 is best understood as a major test case for the whole project. Whether it "works" as prophecy depends heavily on what one thinks prophecy is: straightforward prediction, layered fulfillment, or the retrospective recognition of a scriptural pattern that Christians believe culminates in Jesus.
+Isaiah 7:14 is not a simple newspaper-style prediction that transparently points to Jesus without interpretive dispute. Its main limitation is that the verse is embedded in the immediate crisis of Ahaz and is linguistically disputed at the crucial point of `almah`. It works most plausibly here as a layered or canonical fulfillment text rather than as an undisputed direct prediction, which is why it remains a major test case for the whole project.
 
 ## Sources
 - Brevard Childs

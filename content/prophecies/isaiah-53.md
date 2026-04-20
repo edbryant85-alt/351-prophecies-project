@@ -55,21 +55,8 @@ Christians often argue that Isaiah 52:13–53:12 predicts the suffering, death, 
 
 **Focus Verses:** Isaiah 53:2-12
 
-- Display scope: Full passage / logical section
-- Passage reference: Isaiah 52:13–53:12
+- **Passage Reference:** Isaiah 52:13–53:12
 - [View full passage on Bible Gateway](https://www.biblegateway.com/passage/?search=Isaiah%2052%3A13-53%3A12&version=NRSVUE)
-
-### Text Details (Expandable)
-
-<details>
-<summary>Show text details</summary>
-
-- Original language:
-- Transliteration:
-- Literal gloss:
-- Alternate translations:
-
-</details>
 
 ## 351 List Reference
 - Number: Multiple numbered claims in the 351 list
@@ -135,9 +122,7 @@ The passage should be read with awareness of the Masoretic Text, the Septuagint,
 Some differences of wording and nuance matter for interpretation, and the Septuagint in particular sometimes shapes how early Christians heard the passage. Even so, the larger controversy is usually not driven by a single textual variant. It is driven more by how the servant is identified, how the suffering is interpreted, and how later readers connect the passage to Jesus.
 
 ## My Conclusion
-Isaiah 53 is one of the strongest Christian candidates for messianic prophecy in the entire Hebrew Bible. It is also one of the most disputed, precisely because the servant's identity is contested and because the passage works poorly as a simple name-and-date prediction. If someone expects prophecy to operate like a narrow forecast with obvious future referents, Isaiah 53 is much less straightforward than its later Christian use might suggest.
-
-It works much better as a passage whose categories Christians believe Jesus uniquely fills: rejection, righteous suffering, bearing the burden of others, death, and vindication. For that reason, Isaiah 53 is best treated in this project as a major test case for competing models of prophecy. The central question is not only whether the text \"predicts\" Jesus in a strict sense, but whether prophecy is best understood as direct prediction, typology, canonical fulfillment, or some combination of these.
+Isaiah 53 is one of the strongest Christian candidates for messianic prophecy in the entire Hebrew Bible. Its main limitation is that the servant's identity remains contested and the passage works poorly as a simple name-and-date prediction. It is best treated in this project as a major test case for typology and canonical fulfillment rather than strict stand-alone prediction.
 
 ## Sources
 - Brevard Childs

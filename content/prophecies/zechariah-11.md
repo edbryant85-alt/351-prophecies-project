@@ -33,21 +33,8 @@ Christians often argue that Zechariah 11:12–13 predicts Judas' betrayal of Jes
 
 **Focus Verses:** Zechariah 11:4-13
 
-- Display scope: Full passage / logical section
-- Passage reference: Zechariah 11:4-14
+- **Passage Reference:** Zechariah 11:4-14
 - [View full passage on Bible Gateway](https://www.biblegateway.com/passage/?search=Zechariah%2011%3A4-14&version=NRSVUE)
-
-### Text Details (Expandable)
-
-<details>
-<summary>Show text details</summary>
-
-- Original language:
-- Transliteration:
-- Literal gloss:
-- Alternate translations:
-
-</details>
 
 ## 351 List Reference
 - Number: Multiple numbered claims in the 351 list
