@@ -37,8 +37,10 @@ Christians sometimes argue that Zechariah 11:9 reflects the shepherd's withdrawa
 
 ## Skeptic Criteria Evaluation
 - Claimed failed criteria: 2, 4, 5, 6
+- Category clarification: From a historical-critical perspective, this claim is better classified as canonical or narrative fulfillment rather than as a direct prediction. The strongest Christian case is that Matthew's Judas narrative reproduces an unusually dense cluster of Zechariah 11 details. The strongest skeptical case is that Zechariah 11 is an enacted shepherd allegory in its own setting, not a direct forecast of Judas or the passion.
 - Brief skeptic summary:
-  Skeptics usually view this as a thematic rather than predictive claim. The line belongs to the internal logic of Zechariah's sign-act, and the Gospel connection depends on analogy more than on a precise forecast.
+  A common critical objection is that the claim summary, "Stops ministering to those who rejected Him", depends on retrospective assembly of several details from a symbolic sign-act. This weakens criterion 2 because the chapter does not function as a direct prediction in context, criterion 5 because the shepherd imagery and temple/potter language are debated, and criterion 6 because Matthew may be intentionally shaping the betrayal narrative around scriptural motifs.
+
 ## Old Testament Passage
 Zechariah 11:9 has the shepherd declare that he will no longer shepherd the flock and will leave them to destruction. It is a dramatic turning point in the enacted oracle.
 ## Old Testament Context
@@ -46,7 +48,18 @@ The verse belongs to the breakdown of the symbolic shepherding relationship in Z
 ## Claimed New Testament Fulfillment
 Matthew 13:10-11 is cited because Jesus' teaching shifts in a way that reflects division between insiders and outsiders. The claimed fulfillment is thematic: refusal leads to withdrawal and harder judgment.
 ## Why a Skeptic Says It Fails
-A skeptic would say the resemblance is conceptual rather than direct. The chapter's statement about ending shepherding does not clearly predict Jesus' later teaching method, and the argument works only when several rejection motifs are grouped together.
+### Strongest Skeptical Objection
+A common critical objection is that the specific claim "Stops ministering to those who rejected Him" comes from a symbolic shepherd sign-act, not from a passage that functions in context as a direct prediction of Judas or the passion. From a historical-critical perspective, Zechariah 11 is first addressing rejected leadership, covenant rupture, and judgment in its own setting.
+
+### Original Meaning vs Later Interpretation
+The crucial question is whether applying this line to Matt 13:10-11 is the most natural reading of the chapter or a retrospective theological interpretation. Matthew's use may be deliberate and meaningful, but the original passage is not already a straightforward betrayal forecast.
+
+### Ambiguity and Selective Matching
+The Christian case is strongest when several details are brought together: silver, temple, potter or treasury language, rejection, and returned money. That also exposes its vulnerability, because the fit can depend on selective matching while the broader chapter remains focused on a symbolic critique of shepherds rather than on a future passion narrative.
+
+### Independence / Narrative Shaping
+This is one of the clearest criterion 6 cases in the project. Matthew 26-27 shows strong scriptural awareness, and many critics argue that the Judas tradition is presented in conscious literary alignment with Zechariah and Jeremiah rather than as an unframed historical reminiscence.
+
 ## Original Language Notes
 The wording is straightforward enough, but its meaning is bound to the symbolic role of the shepherd in the chapter. There is no single lexical hook that makes the New Testament connection obvious.
 ## Historical and Cultural Context
@@ -58,7 +71,8 @@ Some Christian readers see the verse as a foreshadowing of judicial withdrawal a
 ## Textual Issues
 The main debate is interpretive rather than textual. The verse's application to Jesus depends on analogy and pattern.
 ## My Conclusion
-This claim does not stand well alone. It works only within a broader cumulative reading about rejection, withdrawal, and judgment.
+This claim remains one of the more striking passion correspondences when read through Matthew, but under stricter criteria it works better as narrative or canonical fulfillment than as a stand-alone direct prediction. The skeptical case becomes especially strong wherever the fit depends on combining selected details and allowing for deliberate scriptural shaping in the Gospel tradition.
+
 ## Sources
 - Mark Boda
 - Carol Meyers

@@ -29,7 +29,7 @@ Christians often argue that Isaiah 7:14 predicts the virgin birth of Jesus. In C
 - Claimed NT Fulfillment: Matthew 1:22–23; Luke 1:34–35
 
 ## Skeptic Criteria Evaluation
-Skeptics commonly argue that Isaiah 7:14 fails criteria 2, 4, 5, and 6. Their basic case is that the passage addresses the immediate crisis of Ahaz rather than a distant messianic birth, that the meaning of `almah` is disputed, and that the fulfillment claim depends heavily on Gospel tradition. They generally do not deny the verse's importance in Christian theology; they deny that it functions as a clear, independent prediction of Jesus in the strong sense required by the project's criteria.
+Skeptics commonly argue that Isaiah 7:14 fails criteria 2, 4, 5, and 6. The strongest Christian case is that Matthew explicitly cites the verse and sees Jesus as the climactic Immanuel-sign for David's house. The strongest skeptical case is that, from a historical-critical perspective, Isaiah 7:14 does not function in context as a direct first-century prediction at all: it addresses Ahaz's immediate crisis, uses disputed language at the crucial point of `almah`, and only becomes christologically specific through later Gospel interpretation. They generally do not deny the verse's importance in Christian theology; they deny that it functions as a clear, independent prediction of Jesus in the strong sense required by the project's criteria.
 
 ## Old Testament Passage
 Isaiah 7:14 sits within the larger unit of Isaiah 7:10-17. In that passage, Isaiah confronts Ahaz during a military and political emergency and offers a sign from the Lord. Ahaz refuses to ask for one, after which Isaiah declares that the Lord himself will give a sign: a young woman will conceive and bear a son called Immanuel. The surrounding verses make clear that the sign is linked to a near-term horizon, because before the child reaches a certain stage of development, the lands of the threatening kings will be laid waste, though Judah itself will later face Assyrian consequences.
@@ -43,19 +43,20 @@ Many scholars therefore argue that the passage has an immediate historical meani
 Matthew 1:22-23 is the key New Testament text because it explicitly quotes Isaiah 7:14 and presents Jesus' birth as fulfilling what was spoken by the prophet. In Matthew's narrative, the conception of Jesus by the Holy Spirit and the naming theme of "Immanuel" are bound together as part of a larger theological claim about God being with his people in Jesus. Luke 1 does not quote Isaiah 7:14 directly, but it contributes to the Christian reading by describing Mary's conception of Jesus apart from ordinary sexual relations and so forms part of the same larger birth tradition.
 
 The important point is that Matthew is not merely mentioning a parallel theme; he is making an explicit fulfillment claim. Luke's role is more indirect, but together the two passages helped establish Isaiah 7:14 as one of the most important birth-prophecy texts in Christian tradition.
+From a critical standpoint, that sharpens the central question: is Matthew drawing out the most natural sense of Isaiah 7:14, or re-reading a near-term royal sign retrospectively in light of Jesus' birth?
 
 ## Why a Skeptic Says It Fails
 ### C2 Predictive Intent
-The skeptical objection here is that Isaiah 7:14 was not originally intended as a long-range prediction of Jesus' birth. In context, the oracle addresses Ahaz and the house of David during a concrete military threat. If the sign was meant to function for that immediate audience, then skeptics argue that it fails the requirement of being clearly intended as a forward-looking prediction about a first-century messianic event.
+The skeptical objection here is that Isaiah 7:14 does not function in context as a long-range prediction of Jesus' birth. In context, the oracle addresses Ahaz and the house of David during a concrete military threat. If the sign was meant to function for that immediate audience, then skeptics argue that it fails the requirement of being clearly intended as a forward-looking prediction about a first-century messianic event.
 
 ### C4 Specific and Verifiable
-Skeptics also argue that the verse is less specific than later Christian use suggests. The text does not name Jesus, does not identify Mary, and does not provide an unmistakable future marker pointing to the first century. In addition, the alleged fulfillment depends on Gospel claims about miraculous conception, which are not independently verifiable in the strong historical sense required by this criterion.
+Skeptics also argue that the verse is less specific than later Christian use suggests. The text does not name Jesus, does not identify Mary, and does not provide an unmistakable future marker pointing to the first century. The Christian fit also depends heavily on isolating verse 14 from the immediate timetable in verses 15-17 and on Gospel claims about miraculous conception, which are not independently verifiable in the strong historical sense required by this criterion.
 
 ### C5 Clarity
 The passage is heavily debated at the level of wording, referent, and scope. The meaning of `almah`, the identity of the child, the force of the name Immanuel, and the relation of verse 14 to verses 15-17 are all contested. Skeptics therefore argue that the prophecy is not clear enough to count as an obvious prediction unless one already accepts a Christian interpretive framework.
 
 ### C6 Independence
-Skeptics further argue that the fulfillment is not independent of the tradition that claims it. Matthew explicitly reads Jesus through Isaiah, which raises the question of whether the Gospel is reporting a fulfillment or constructing a theological interpretation in light of Scripture. On this view, the stronger the dependence on Christian scriptural framing, the weaker the case for independent prophetic confirmation.
+Skeptics further argue that the fulfillment is not independent of the tradition that claims it. Matthew explicitly reads Jesus through Isaiah, apparently by way of the Septuagint's `parthenos`, which raises the question of whether the Gospel is reporting a fulfillment or constructing a theological interpretation in light of Scripture. On this view, the stronger the dependence on Christian scriptural framing, the weaker the case for independent prophetic confirmation.
 
 ## Original Language Notes
 The most discussed term is the Hebrew `almah`. Many interpreters understand it to mean a young woman of marriageable age, while others argue that in this context it can legitimately imply virginity. The contrast is often made with `bethulah`, a term more commonly associated with virginity, though even that word is not always as mechanically precise as popular discussion sometimes assumes.
@@ -83,7 +84,7 @@ The main textual issue here is the relationship between the Masoretic Text and t
 There is no serious argument that Isaiah 7:14 was created or inserted after the rise of Christianity. The verse clearly predates the Christian movement. The real question is whether the Christian use of the verse is best understood as faithful interpretation, typological extension, or a reading driven by later theological commitments.
 
 ## My Conclusion
-Isaiah 7:14 is not a simple newspaper-style prediction that transparently points to Jesus without interpretive dispute. Its main limitation is that the verse is embedded in the immediate crisis of Ahaz and is linguistically disputed at the crucial point of `almah`. It works most plausibly here as a layered or canonical fulfillment text rather than as an undisputed direct prediction, which is why it remains a major test case for the whole project.
+Isaiah 7:14 is not a simple newspaper-style prediction that transparently points to Jesus without interpretive dispute. Its main limitation is that the verse is embedded in the immediate crisis of Ahaz and is linguistically disputed at the crucial point of `almah`. Its strongest Christian use is as a layered or canonical fulfillment text rather than as an undisputed direct prediction, which is why it remains a major test case for the whole project.
 
 ## Sources
 - Brevard Childs

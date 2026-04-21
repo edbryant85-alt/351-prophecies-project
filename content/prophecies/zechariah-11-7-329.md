@@ -37,8 +37,10 @@ Christians sometimes argue that Zechariah 11:7 anticipates ministry to the poor 
 
 ## Skeptic Criteria Evaluation
 - Claimed failed criteria: 2, 4, 5, 6
+- Category clarification: From a historical-critical perspective, this claim is better classified as canonical or narrative fulfillment rather than as a direct prediction. The strongest Christian case is that Matthew's Judas narrative reproduces an unusually dense cluster of Zechariah 11 details. The strongest skeptical case is that Zechariah 11 is an enacted shepherd allegory in its own setting, not a direct forecast of Judas or the passion.
 - Brief skeptic summary:
-  Skeptics usually see this as a weak thematic correspondence. Caring for the poor or afflicted is too general to function as a specific prediction, and the New Testament link depends on broad pastoral similarity rather than clear fulfillment.
+  A common critical objection is that the claim summary, "Ministry to "poor," the believing remnant", depends on retrospective assembly of several details from a symbolic sign-act. This weakens criterion 2 because the chapter does not function as a direct prediction in context, criterion 5 because the shepherd imagery and temple/potter language are debated, and criterion 6 because Matthew may be intentionally shaping the betrayal narrative around scriptural motifs.
+
 ## Old Testament Passage
 Zechariah 11:7 depicts the prophet taking up the role of shepherd over the doomed flock, with special attention to the afflicted or poor of the flock. The verse is part of the enacted shepherd sign-act that dominates the chapter.
 ## Old Testament Context
@@ -46,7 +48,18 @@ Within Zechariah 11, the line introduces the shepherd's role and prepares for th
 ## Claimed New Testament Fulfillment
 Matthew 9:35-36 is cited because Jesus shows compassion to distressed and helpless people, often pictured as sheep without a shepherd. The connection is thematic and pastoral rather than formally predictive.
 ## Why a Skeptic Says It Fails
-A skeptic would say this is exactly the kind of claim that only works once several soft parallels are accumulated. Many leaders care for the poor, and Zechariah's line does not identify Jesus or an event that would make the claim uniquely verifiable.
+### Strongest Skeptical Objection
+A common critical objection is that the specific claim "Ministry to "poor," the believing remnant" comes from a symbolic shepherd sign-act, not from a passage that functions in context as a direct prediction of Judas or the passion. From a historical-critical perspective, Zechariah 11 is first addressing rejected leadership, covenant rupture, and judgment in its own setting.
+
+### Original Meaning vs Later Interpretation
+The crucial question is whether applying this line to Matt 9:35-36 is the most natural reading of the chapter or a retrospective theological interpretation. Matthew's use may be deliberate and meaningful, but the original passage is not already a straightforward betrayal forecast.
+
+### Ambiguity and Selective Matching
+The Christian case is strongest when several details are brought together: silver, temple, potter or treasury language, rejection, and returned money. That also exposes its vulnerability, because the fit can depend on selective matching while the broader chapter remains focused on a symbolic critique of shepherds rather than on a future passion narrative.
+
+### Independence / Narrative Shaping
+This is one of the clearest criterion 6 cases in the project. Matthew 26-27 shows strong scriptural awareness, and many critics argue that the Judas tradition is presented in conscious literary alignment with Zechariah and Jeremiah rather than as an unframed historical reminiscence.
+
 ## Original Language Notes
 The key wording concerns the afflicted or poor of the flock. The main issue is not lexical uncertainty but how broadly one may extend the shepherd image into Gospel ministry scenes.
 ## Historical and Cultural Context
@@ -58,7 +71,8 @@ Christian interpreters may use this verse typologically to portray Jesus as the 
 ## Textual Issues
 The main question is interpretive, not textual. The verse is stable enough, but its proposed fulfillment is very broad.
 ## My Conclusion
-This claim is weak by itself and works only as part of a larger shepherd pattern. Its force is cumulative and typological rather than precise or independently compelling.
+This claim remains one of the more striking passion correspondences when read through Matthew, but under stricter criteria it works better as narrative or canonical fulfillment than as a stand-alone direct prediction. The skeptical case becomes especially strong wherever the fit depends on combining selected details and allowing for deliberate scriptural shaping in the Gospel tradition.
+
 ## Sources
 - Mark Boda
 - Carol Meyers

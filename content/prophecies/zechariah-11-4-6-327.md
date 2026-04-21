@@ -37,8 +37,10 @@ Christians sometimes argue that Zechariah 11:4-6 anticipates judgment on a peopl
 
 ## Skeptic Criteria Evaluation
 - Claimed failed criteria: 2, 4, 5, 6
+- Category clarification: From a historical-critical perspective, this claim is better classified as canonical or narrative fulfillment rather than as a direct prediction. The strongest Christian case is that Matthew's Judas narrative reproduces an unusually dense cluster of Zechariah 11 details. The strongest skeptical case is that Zechariah 11 is an enacted shepherd allegory in its own setting, not a direct forecast of Judas or the passion.
 - Brief skeptic summary:
-  Skeptics usually see this as a broad judgment pattern, not a specific messianic prediction. The alleged fulfillment depends on reading Zechariah's shepherd imagery together with Jesus' lament over Jerusalem, which makes the argument cumulative rather than direct.
+  A common critical objection is that the claim summary, "Rejection causes God to remove His protection", depends on retrospective assembly of several details from a symbolic sign-act. This weakens criterion 2 because the chapter does not function as a direct prediction in context, criterion 5 because the shepherd imagery and temple/potter language are debated, and criterion 6 because Matthew may be intentionally shaping the betrayal narrative around scriptural motifs.
+
 ## Old Testament Passage
 Zechariah 11:4-6 introduces the doomed flock and announces that the people will be handed over to destructive forces. The unit sets the tone for the chapter's sign-act by describing judgment, failed care, and the withdrawal of protection.
 ## Old Testament Context
@@ -46,7 +48,18 @@ Within Zechariah 11, this line belongs to the opening setup for the shepherd dra
 ## Claimed New Testament Fulfillment
 The traditional Christian connection is Luke 19:41-44, where Jesus foretells Jerusalem's devastation. The link is thematic: rejected shepherding is followed by judgment on the city.
 ## Why a Skeptic Says It Fails
-A skeptic says this claim fragments one broad judgment oracle into a later Jesus-specific prediction. The wording is general, the leadership theme is not unique to Jesus, and the move to Luke depends on combining Zechariah's imagery with a later Gospel scene rather than on a one-to-one verbal match.
+### Strongest Skeptical Objection
+A common critical objection is that the specific claim "Rejection causes God to remove His protection" comes from a symbolic shepherd sign-act, not from a passage that functions in context as a direct prediction of Judas or the passion. From a historical-critical perspective, Zechariah 11 is first addressing rejected leadership, covenant rupture, and judgment in its own setting.
+
+### Original Meaning vs Later Interpretation
+The crucial question is whether applying this line to Luke 19:41-44 is the most natural reading of the chapter or a retrospective theological interpretation. Matthew's use may be deliberate and meaningful, but the original passage is not already a straightforward betrayal forecast.
+
+### Ambiguity and Selective Matching
+The Christian case is strongest when several details are brought together: silver, temple, potter or treasury language, rejection, and returned money. That also exposes its vulnerability, because the fit can depend on selective matching while the broader chapter remains focused on a symbolic critique of shepherds rather than on a future passion narrative.
+
+### Independence / Narrative Shaping
+This is one of the clearest criterion 6 cases in the project. Matthew 26-27 shows strong scriptural awareness, and many critics argue that the Judas tradition is presented in conscious literary alignment with Zechariah and Jeremiah rather than as an unframed historical reminiscence.
+
 ## Original Language Notes
 The verse depends more on the chapter's shepherd and flock imagery than on one disputed word. Its force comes from prophetic symbolism about abandonment, handing over, and national vulnerability.
 ## Historical and Cultural Context
@@ -58,7 +71,8 @@ Christians who use this claim usually treat it typologically: Israel rejects the
 ## Textual Issues
 The main issue is interpretive, not textual. The question is how far the shepherd image may be extended into later Gospel events.
 ## My Conclusion
-This claim is weak as a stand-alone prediction. It works only as part of a larger constructed pattern in which Zechariah 11 is read through later judgment traditions about Jesus and Jerusalem.
+This claim remains one of the more striking passion correspondences when read through Matthew, but under stricter criteria it works better as narrative or canonical fulfillment than as a stand-alone direct prediction. The skeptical case becomes especially strong wherever the fit depends on combining selected details and allowing for deliberate scriptural shaping in the Gospel tradition.
+
 ## Sources
 - Mark Boda
 - Carol Meyers

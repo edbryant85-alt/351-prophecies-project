@@ -45,28 +45,28 @@ Christians often argue that Psalm 22 predicts important aspects of Jesus' suffer
 - Claimed NT Fulfillment: Passion narratives, Gospel crucifixion scenes, related allusions
 
 ## Skeptic Criteria Evaluation
-Skeptics commonly argue that Psalm 22 fails criteria 2, 3, 4, 5, and 6. Their case is that the psalm is a lament, not an explicit future prediction; that much of its language is poetic and metaphorical; that some details, especially verse 16, are textually disputed; and that the New Testament frames Jesus' suffering in light of the psalm. On that reading, Psalm 22 works less like a single precise prediction and more like a cluster of motifs later gathered into Christian passion theology.
+Skeptics commonly argue that Psalm 22 fails criteria 2, 3, 4, 5, and 6. The strongest Christian case is that the Gospels resonate with the psalm so repeatedly that it becomes one of the central scriptural lenses for the crucifixion. The strongest skeptical case is that, from a historical-critical perspective, Psalm 22 remains a lament, not an explicit future prediction; much of its language is poetic and metaphorical; some details, especially verse 16, are textually disputed; and the New Testament may be framing Jesus' suffering in light of the psalm. On that reading, Psalm 22 works less like a single precise prediction and more like a cluster of motifs later gathered into Christian passion theology.
 ## Old Testament Passage
 Psalm 22 begins with a cry of abandonment, moves through mockery, bodily distress, hostile enemies, and public humiliation, and later turns toward rescue, praise, and worldwide acknowledgment of God. The speaker describes himself as surrounded, weakened, and shamed, while enemies jeer and divide his garments. Taken as a whole, the psalm is not simply a scene of suffering but a movement from desperation to vindication and worship.
 ## Old Testament Context
 Psalm 22 belongs to the genre of lament psalm, where the speaker cries out in anguish, protests apparent abandonment, and appeals to God for deliverance. It is traditionally associated with David, though the literary function of the superscription and the historical setting of the psalm are debated. Original context matters because lament poetry is designed to voice suffering in worship, and the righteous sufferer motif is already deeply at home in Israel's Psalter before any specifically Christian application is considered.
 ## Claimed New Testament Fulfillment
-The New Testament uses Psalm 22 in several ways. Most famously, Jesus quotes the opening line from the cross in the Synoptic passion narratives, and the Gospels also echo the psalm's mockery scenes, bodily distress, and the division of garments. For Christian interpretation, this means Psalm 22 is not merely a background text but one of the key scriptural lenses through which the passion is narrated and understood.
+The New Testament uses Psalm 22 in several ways. Most famously, Jesus quotes the opening line from the cross in the Synoptic passion narratives, and the Gospels also echo the psalm's mockery scenes, bodily distress, and the division of garments. For Christian interpretation, this means Psalm 22 is not merely a background text but one of the key scriptural lenses through which the passion is narrated and understood. From a critical standpoint, that also raises the question of whether the passion is being independently reported, scripturally narrated, or both.
 ## Why a Skeptic Says It Fails
 ### C2 Predictive Intent
-Skeptics argue that Psalm 22 is not presented as a forecast of a future messiah but as a prayer of present suffering. The psalm speaks in the voice of an afflicted worshiper crying to God, and its original literary function is lament rather than prediction.
+Skeptics argue that Psalm 22 does not function in context as a forecast of a future messiah. The psalm speaks in the voice of an afflicted worshiper crying to God, and its original literary function is lament rather than prediction.
 
 ### C3 Non-Mundane
 Some lines are vivid, but skeptics note that mockery, bodily agony, abandonment, and enemy threats are common features of lament literature. Even where the psalm feels unusually intense, the experiences it describes are not obviously so specific or improbable that they function as unmistakable prophecy.
 
 ### C4 Specific and Verifiable
-Christians often point to details such as divided garments and hostile taunts, but skeptics reply that these details appear within poetic imagery rather than a straightforward future scenario. The connection to Jesus may be impressive cumulatively, yet each detail is difficult to verify as a stand-alone prediction.
+Christians often point to details such as divided garments and hostile taunts, but skeptics reply that these details appear within poetic imagery rather than a straightforward future scenario. The connection to Jesus may be impressive cumulatively, yet many of the strongest fits depend on isolating a few lines while leaving the broader lament-and-vindication structure in the background.
 
 ### C5 Clarity
 This is one of the central objections. The psalm's imagery is metaphorical, compressed, and shaped by Hebrew poetic conventions, which means readers can disagree over which elements are literal, which are hyperbolic, and which are symbolic.
 
 ### C6 Independence
-Skeptics also argue that the Gospel writers knew Psalm 22 well and may have narrated aspects of Jesus' suffering with the psalm consciously in view. On that account, the issue is not simply whether Jesus' death fits Psalm 22, but whether the Christian presentation of the crucifixion has already been scripturally shaped by it.
+Skeptics also argue that the Gospel writers knew Psalm 22 well and may have narrated aspects of Jesus' suffering with the psalm consciously in view. On that account, the issue is not simply whether Jesus' death fits Psalm 22, but whether the Christian presentation of the crucifixion has already been scripturally shaped by it through deliberate literary echoing and thematic alignment.
 ## Original Language Notes
 The psalm opens with the well-known Hebrew cry "My God, my God, why have you forsaken me?", a line whose emotional force is clear even if its theological implications are debated. Much of the psalm's language is highly figurative, especially the animal imagery and bodily descriptions, so interpreters must decide when the speaker is using metaphor, when he is describing social humiliation, and when he is describing physical danger. The most famous textual issue appears in verse 16, where the wording behind translations such as "like a lion" and "they pierced" has major consequences for Christian apologetic use of the psalm.
 ## Historical and Cultural Context
@@ -78,7 +78,7 @@ Christian interpretation has long treated Psalm 22 as one of the strongest passi
 ## Textual Issues
 The textual discussion around Psalm 22 often centers on the relationship between the Masoretic Text and the Septuagint, especially in verse 16 and the question of whether the line should be read in a way closer to "like a lion" or to "they pierced." That difference matters because apologetic claims are often strongest when the psalm is translated in a way that appears to align closely with crucifixion imagery. More broadly, the textual tradition does not erase the psalm's pre-Christian origin, but it does complicate claims that every key line is textually simple and prophetically decisive.
 ## My Conclusion
-Psalm 22 is one of the strongest Christian passion texts in the Old Testament because the Gospels repeatedly resonate with its language and imagery. Its main limitation is that it remains a lament psalm whose imagery is poetic, textually debated in places, and not framed as a stand-alone future oracle. It works best as a cumulative, typological, or canonical text, which is why it remains a major test case for how prophecy is being defined in this project.
+Psalm 22 is one of the strongest Christian passion texts in the Old Testament because the Gospels repeatedly resonate with its language and imagery. Its main limitation is that it remains a lament psalm whose imagery is poetic, textually debated in places, and not framed as a stand-alone future oracle. Its strongest use here is cumulative, typological, and canonical rather than directly predictive, which is why it remains a major test case for how prophecy is being defined in this project.
 ## Sources
 - John Goldingay
 - Peter Craigie

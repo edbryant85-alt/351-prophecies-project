@@ -37,8 +37,10 @@ Christians sometimes argue that Zechariah 11:4-6 foreshadows the rejection of th
 
 ## Skeptic Criteria Evaluation
 - Claimed failed criteria: 2, 4, 5, 6
+- Category clarification: From a historical-critical perspective, this claim is better classified as canonical or narrative fulfillment rather than as a direct prediction. The strongest Christian case is that Matthew's Judas narrative reproduces an unusually dense cluster of Zechariah 11 details. The strongest skeptical case is that Zechariah 11 is an enacted shepherd allegory in its own setting, not a direct forecast of Judas or the passion.
 - Brief skeptic summary:
-  Skeptics regard this as a highly inferential claim. The text does not mention Jesus, Pilate, or Caesar, and the fulfillment depends on drawing a thematic line from rejected shepherding to a later political choice in John's passion narrative.
+  A common critical objection is that the claim summary, "Rejected in favor of another king", depends on retrospective assembly of several details from a symbolic sign-act. This weakens criterion 2 because the chapter does not function as a direct prediction in context, criterion 5 because the shepherd imagery and temple/potter language are debated, and criterion 6 because Matthew may be intentionally shaping the betrayal narrative around scriptural motifs.
+
 ## Old Testament Passage
 Zechariah 11:4-6 describes a doomed flock under harsh leadership and a situation in which destructive rulers prevail. It establishes the political and moral breakdown that frames the rest of the chapter.
 ## Old Testament Context
@@ -46,7 +48,18 @@ The immediate context is Zechariah's symbolic critique of failed leadership. The
 ## Claimed New Testament Fulfillment
 John 19:13-15 is cited because the leaders and crowd reject Jesus and invoke Caesar. The Christian connection is thematic rather than textual, centering on misplaced allegiance and the refusal of rightful shepherding.
 ## Why a Skeptic Says It Fails
-A skeptic would say the details are too indirect to sustain a predictive claim. The argument depends on combining a broad leadership critique with a later Gospel scene and treating the overlap as fulfillment rather than analogy.
+### Strongest Skeptical Objection
+A common critical objection is that the specific claim "Rejected in favor of another king" comes from a symbolic shepherd sign-act, not from a passage that functions in context as a direct prediction of Judas or the passion. From a historical-critical perspective, Zechariah 11 is first addressing rejected leadership, covenant rupture, and judgment in its own setting.
+
+### Original Meaning vs Later Interpretation
+The crucial question is whether applying this line to John 19:13-15 is the most natural reading of the chapter or a retrospective theological interpretation. Matthew's use may be deliberate and meaningful, but the original passage is not already a straightforward betrayal forecast.
+
+### Ambiguity and Selective Matching
+The Christian case is strongest when several details are brought together: silver, temple, potter or treasury language, rejection, and returned money. That also exposes its vulnerability, because the fit can depend on selective matching while the broader chapter remains focused on a symbolic critique of shepherds rather than on a future passion narrative.
+
+### Independence / Narrative Shaping
+This is one of the clearest criterion 6 cases in the project. Matthew 26-27 shows strong scriptural awareness, and many critics argue that the Judas tradition is presented in conscious literary alignment with Zechariah and Jeremiah rather than as an unframed historical reminiscence.
+
 ## Original Language Notes
 No single lexical issue drives the claim. The interpretive pressure comes from the chapter's shepherd symbolism and from how expansively it is applied to later political rejection.
 ## Historical and Cultural Context
@@ -58,7 +71,8 @@ Christian use of this claim is usually secondary and thematic. It can reinforce 
 ## Textual Issues
 The main issue is interpretive rather than textual. The proposed fulfillment depends on narrative analogy more than on wording.
 ## My Conclusion
-This claim does not stand strongly on its own. It functions, at best, as one fragment within a broader rejection pattern built from several parts of Zechariah 11 and the passion narratives.
+This claim remains one of the more striking passion correspondences when read through Matthew, but under stricter criteria it works better as narrative or canonical fulfillment than as a stand-alone direct prediction. The skeptical case becomes especially strong wherever the fit depends on combining selected details and allowing for deliberate scriptural shaping in the Gospel tradition.
+
 ## Sources
 - Mark Boda
 - Carol Meyers

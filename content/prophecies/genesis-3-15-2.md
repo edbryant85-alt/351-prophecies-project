@@ -18,7 +18,7 @@ Christians often argue that Genesis 3:15 predicts Christ's decisive defeat of Sa
 - Claimed NT Fulfillment: Hebrews 2:14; 1 John 3:8
 
 ## Skeptic Criteria Evaluation
-Criteria 2, 4, 5, and 6 are the main pressure points here. Skeptics argue that the verse is not framed as a direct messianic forecast, that the identity of both the serpent and the offspring is contested, and that the Christian claim depends heavily on later biblical theology rather than on a self-contained prediction.
+Criteria 2, 4, 5, and 6 are the main pressure points here. The strongest Christian case is that the verse ultimately narrows to Christ's defeat of Satan. The strongest skeptical case is that, from a historical-critical perspective, the line does not function as a direct messianic forecast in context and only becomes christologically specific through later biblical theology.
 
 ## Old Testament Passage
 Genesis 3:15 appears in God's judgment speech to the serpent after the transgression in Eden. The verse describes enmity between the serpent and the woman, between their offspring, and then a conflict in which the serpent wounds the heel while receiving a head wound in return.
@@ -27,14 +27,14 @@ Genesis 3:15 appears in God's judgment speech to the serpent after the transgres
 Within Genesis 3, the line first explains the continuing hostility that follows the fall. It belongs to narrative judgment speech, not to an oracle about a named future redeemer. That context matters because the Christian claim depends on moving from an Eden conflict pattern to a later messianic identification.
 
 ## Claimed New Testament Fulfillment
-The New Testament does not quote Genesis 3:15 directly as a fulfillment formula. The usual Christian connection is theological and cumulative: Hebrews 2:14 says that through death Jesus destroys the one who has the power of death, the devil, and 1 John 3:8 says that the Son of God appeared to destroy the works of the devil. Those passages make the Christian connection intelligible, but they do so by reading Genesis 3:15 through a later identification of the serpent with Satan.
+The New Testament does not quote Genesis 3:15 directly as a fulfillment formula. The usual Christian connection is theological and cumulative: Hebrews 2:14 says that through death Jesus destroys the one who has the power of death, the devil, and 1 John 3:8 says that the Son of God appeared to destroy the works of the devil. Those passages make the Christian connection intelligible, but they do so by reading Genesis 3:15 through a later identification of the serpent with Satan. That is precisely why critics ask whether the claim is a natural reading of Genesis 3:15 or a retrospective theological interpretation.
 
 ## Why a Skeptic Says It Fails
 ### C2 Predictive Intent
-The strongest skeptical objection is that Genesis 3:15 functions as part of the Eden judgment narrative, not as a direct prophecy about a future Messiah. The verse describes conflict and consequence in the story's own world before it is ever read as a messianic text.
+The strongest skeptical objection is that Genesis 3:15 functions as part of the Eden judgment narrative, not as a direct prophecy about a future Messiah. The verse does not function as a prediction in context; it describes conflict and consequence in the story's own world before it is ever read as a messianic text.
 
 ### C4 Specific and Verifiable
-The verse also does not name a messianic figure, identify Satan explicitly, or point to a discrete historical event. Skeptics therefore argue that the claim only becomes specific after later Christian theology narrows the serpent to the devil and the offspring to Christ.
+The verse also does not name a messianic figure, identify Satan explicitly, or point to a discrete historical event. Skeptics therefore argue that the claim only becomes specific after later Christian theology narrows the serpent to the devil and the offspring to Christ, effectively selecting one possible reading from a broader conflict image.
 
 ### C5 Clarity
 The claim depends on several disputed identifications. The serpent is not explicitly called Satan in Genesis 3, and the offspring can be read collectively as humanity rather than individually as Christ. That ambiguity makes the verse much less clear as a stand-alone prediction.
@@ -58,7 +58,7 @@ Christian interpretation often treats Genesis 3:15 as the *protoevangelium*, the
 The main issue here is interpretive rather than text-critical. The Hebrew text is not unstable in a way that drives the debate. The real questions are whether the serpent should be read as Satan, whether the offspring is collective or individual, and how much predictive force should be assigned to the head-versus-heel imagery.
 
 ## My Conclusion
-As an individual claim, this works poorly as a stand-alone prediction. Its main limitation is that Genesis 3:15 does not explicitly identify either Satan or Christ in its original setting. It works best as a typological or canonical reading in which later biblical theology sharpens an earlier conflict pattern.
+As an individual claim, this works poorly as a stand-alone prediction. Its main limitation is that Genesis 3:15 does not explicitly identify either Satan or Christ in its original setting. It works best as a canonical or typological reading in which later biblical theology sharpens an earlier conflict pattern.
 
 ## Sources
 - Gordon J. Wenham
