@@ -1,9 +1,6 @@
 # Psalm 22
 
-> NOTE: The following content is AI-generated placeholder analysis for structural and research development purposes. It is subject to review, correction, and expansion.
-
-
-> NOTE: This is an overview page summarizing multiple prophecy claims associated with this passage. For detailed analysis, see the individual claim pages linked below.
+> NOTE: This overview page summarizes the major interpretive issues in Psalm 22 and links to the narrower supporting claim pages below.
 
 ## Related Prophecy Claims
 - [Psalm 22:1 (Claim 75)](./psalm-22-1-75.md)
@@ -26,7 +23,6 @@
 
 ## Claim
 Christians often argue that Psalm 22 predicts important aspects of Jesus' suffering, rejection, and death. In Christian interpretation, it has become one of the central Old Testament texts for reading the crucifixion because several lines appear to echo scenes in the Gospel passion narratives. The passage remains heavily disputed because Psalm 22 is first and foremost a lament psalm, not an explicit prophetic oracle about a distant future messiah.
-
 
 ## Scripture Text
 

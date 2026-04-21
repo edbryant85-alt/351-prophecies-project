@@ -1,16 +1,12 @@
 # Genesis 3:15
 
-> NOTE: The following content is AI-generated placeholder analysis for structural and research development purposes. It is subject to review, correction, and expansion.
-
-
-> NOTE: This is an overview page summarizing multiple prophecy claims associated with this passage. For detailed analysis, see the individual claim pages linked below.
+> NOTE: This overview page summarizes the major interpretive issues in Genesis 3:15 and links to the narrower supporting claim pages below.
 
 ## Related Prophecy Claims
 - [Genesis 3:15 (Claim 2)](./genesis-3-15-2.md)
 
 ## Claim
 Christians often argue that Genesis 3:15 foreshadows Jesus as the offspring of the woman who defeats Satan while suffering in the process. In Christian theology, the verse is often called the *protoevangelium*, the first hint of the gospel within the biblical story. It remains heavily disputed because, in context, it reads first as a judgment speech within Eden rather than as an explicit messianic oracle.
-
 
 ## Scripture Text
 

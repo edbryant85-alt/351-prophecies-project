@@ -1,9 +1,6 @@
 # Zechariah 11
 
-> NOTE: The following content is AI-generated placeholder analysis for structural and research development purposes. It is subject to review, correction, and expansion.
-
-
-> NOTE: This is an overview page summarizing multiple prophecy claims associated with this passage. For detailed analysis, see the individual claim pages linked below.
+> NOTE: This overview page summarizes the major interpretive issues in Zechariah 11 and links to the narrower supporting claim pages below.
 
 ## Related Prophecy Claims
 - [Zechariah 11:4-6b (Claim 327)](./zechariah-11-4-6-327.md)
@@ -21,7 +18,6 @@
 
 ## Claim
 Christians often argue that Zechariah 11:12–13 predicts Judas' betrayal of Jesus for thirty pieces of silver and the later use of that money in connection with the temple and a potter. In Christian apologetic use, it is often treated as one of the most striking narrative parallels between the Old Testament and the passion story. The passage remains heavily disputed because Zechariah 11 functions first as symbolic prophetic action in its own setting, not as an obvious forward-looking messianic oracle.
-
 
 ## Scripture Text
 

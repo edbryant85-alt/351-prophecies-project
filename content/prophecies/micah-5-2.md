@@ -1,9 +1,6 @@
 # Micah 5:2
 
-> NOTE: The following content is AI-generated placeholder analysis for structural and research development purposes. It is subject to review, correction, and expansion.
-
-
-> NOTE: This is an overview page summarizing multiple prophecy claims associated with this passage. For detailed analysis, see the individual claim pages linked below.
+> NOTE: This overview page summarizes the major interpretive issues in Micah 5:2 and links to the narrower supporting claim pages below.
 
 ## Related Prophecy Claims
 - [Micah 5:2b (Claim 313)](./micah-5-2-313.md)
@@ -11,7 +8,6 @@
 
 ## Claim
 Christians often argue that Micah 5:2 predicts the Messiah's connection to Bethlehem and is fulfilled in the birth of Jesus. In Christian apologetic use, it is frequently treated as one of the clearest examples of a specific predictive prophecy because the verse appears to name a place associated with the coming ruler. At the same time, the text is debated because the Bethlehem reference may function dynastically and Davidically rather than as a simple birth-location forecast in the modern sense.
-
 
 ## Scripture Text
 

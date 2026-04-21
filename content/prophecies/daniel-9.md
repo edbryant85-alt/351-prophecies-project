@@ -1,9 +1,6 @@
 # Daniel 9
 
-> NOTE: The following content is AI-generated placeholder analysis for structural and research development purposes. It is subject to review, correction, and expansion.
-
-
-> NOTE: This is an overview page summarizing multiple prophecy claims associated with this passage. For detailed analysis, see the individual claim pages linked below.
+> NOTE: This overview page summarizes the major interpretive issues in Daniel 9:24-27 and links to the narrower supporting claim pages below.
 
 ## Related Prophecy Claims
 - [Daniel 9:24a (Claim 301)](./daniel-9-24-301.md)
@@ -15,7 +12,6 @@
 
 ## Claim
 Christians often argue that Daniel 9 predicts the timing of the Messiah's arrival and death, especially by aligning the sixty-nine weeks, or 483 years, with the period leading to Jesus' ministry and crucifixion. In Christian apologetics, this passage is frequently presented as one of the strongest chronological prophecies in the Hebrew Bible. It is also one of the most disputed passages in the entire project because the chronology, genre, historical setting, and identity of the "anointed one" remain deeply contested.
-
 
 ## Scripture Text
 

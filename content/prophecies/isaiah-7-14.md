@@ -1,16 +1,12 @@
 # Isaiah 7:14
 
-> NOTE: The following content is AI-generated placeholder analysis for structural and research development purposes. It is subject to review, correction, and expansion.
-
-
-> NOTE: This is an overview page summarizing multiple prophecy claims associated with this passage. For detailed analysis, see the individual claim pages linked below.
+> NOTE: This overview page summarizes the major interpretive issues in Isaiah 7:14 and links to the narrower supporting claim pages below.
 
 ## Related Prophecy Claims
 - [Isaiah 7:14 (Claim 171)](./isaiah-7-14-171.md)
 
 ## Claim
 Christians often argue that Isaiah 7:14 predicts the virgin birth of Jesus. In Christian interpretation, it has become one of the central Old Testament texts linking Jesus' birth to Israel's prophetic tradition. It is also one of the most disputed examples in the project because the oracle is so closely tied to the political crisis facing Ahaz in Isaiah's own day.
-
 
 ## Scripture Text
 

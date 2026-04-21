@@ -1,9 +1,6 @@
 # Isaiah 53
 
-> NOTE: The following content is AI-generated placeholder analysis for structural and research development purposes. It is subject to review, correction, and expansion.
-
-
-> NOTE: This is an overview page summarizing multiple prophecy claims associated with this passage. For detailed analysis, see the individual claim pages linked below.
+> NOTE: This overview page summarizes the major interpretive issues in Isaiah 52:13-53:12 and links to the narrower supporting claim pages below.
 
 ## Related Prophecy Claims
 - [Isaiah 53:2 (Claim 243)](./isaiah-53-2-243.md)
@@ -43,7 +40,6 @@
 
 ## Claim
 Christians often argue that Isaiah 52:13–53:12 predicts the suffering, death, and vindication of Jesus. In Christian theology, it has long been treated as one of the clearest Old Testament passages for understanding Jesus as the rejected and suffering servant whose affliction has saving significance for others. At the same time, it is one of the most contested passages in the entire prophecy debate, because the identity of the servant and the kind of fulfillment involved remain deeply disputed.
-
 
 ## Scripture Text
 
