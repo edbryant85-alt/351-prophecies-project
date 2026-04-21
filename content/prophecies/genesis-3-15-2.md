@@ -49,16 +49,16 @@ The noun `zera` ("offspring" or "seed") can function either collectively or indi
 Primeval-history texts often explain present realities through foundational acts of rebellion, judgment, and conflict. In that setting, serpent imagery can carry danger and chaos symbolism without requiring the full later Christian doctrine of Satan. That broader background helps explain why the verse invited later theological development while remaining less explicit in its original narrative setting.
 
 ## Jewish Interpretation
-Jewish interpretation has usually read Genesis 3:15 within the Eden story itself, as describing hostility between humanity and the serpent or, more broadly, between humanity and evil. It has not generally been treated as a direct prophecy of Jesus. Even when the verse is given theological weight, the move to a single messianic conqueror is not the dominant Jewish reading.
+Jewish interpretation has usually read Genesis 3:15 within the Eden story itself, as describing hostility between humanity and the serpent or, more broadly, between humanity and evil. Even when later Jewish thought gives the serpent larger symbolic force, the verse is still usually read collectively and contextually rather than as a prediction of one messianic conqueror. That makes the Jewish reading closer to the original horizon of Genesis while still allowing the verse real theological weight.
 
 ## Christian Interpretation
-Christian interpretation often treats Genesis 3:15 as the *protoevangelium*, the first hint of the gospel. Some Christians read it as a direct messianic prophecy, but many more cautious readings treat it as a canonical or typological seed text that becomes more definite only in light of Christ's victory over sin, death, and the devil.
+Christian interpretation often treats Genesis 3:15 as the *protoevangelium*, the first hint of the gospel. Some Christians read it as a direct messianic prophecy, but many more cautious readings treat it as a canonical or typological seed text that becomes more definite only in light of Christ's victory over sin, death, and the devil. What makes the claim persuasive to informed Christians is the cumulative biblical pattern: serpent, defeat, suffering, and final victory all seem to converge in Christ.
 
 ## Textual Issues
 The main issue here is interpretive rather than text-critical. The Hebrew text is not unstable in a way that drives the debate. The real questions are whether the serpent should be read as Satan, whether the offspring is collective or individual, and how much predictive force should be assigned to the head-versus-heel imagery.
 
 ## My Conclusion
-As an individual claim, this works poorly as a stand-alone prediction. Its main limitation is that Genesis 3:15 does not explicitly identify either Satan or Christ in its original setting. It works best as a canonical or typological reading in which later biblical theology sharpens an earlier conflict pattern.
+As an individual claim, this works poorly as a stand-alone prediction. The reading closest to the original textual horizon is the Jewish/contextual one in which the verse speaks collectively about humanity and evil. It works best as a canonical or typological reading in which later biblical theology sharpens an earlier conflict pattern.
 
 ## Sources
 - Gordon J. Wenham
