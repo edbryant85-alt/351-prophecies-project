@@ -83,6 +83,42 @@ This also means the project does not produce a single numeric score for each pag
 
 The answer will differ from passage to passage. Isaiah 53, Psalm 22, Micah 5:2, and Genesis 3:15 do not present the same type of case, so they should not be judged as though they were interchangeable.
 
+## Page Status and Confidence
+
+The project now uses a page status system so readers can tell at a glance which pages represent the strongest current work and which remain provisional.
+
+### Page Status Levels
+
+#### Flagship Analysis
+
+This label is reserved for a small set of fully developed passage pages that represent the project's strongest current work. A flagship page is expected to be comparatively mature, balanced across major interpretive perspectives, and substantial enough to function as a model for the rest of the site. Where relevant, these pages also include broader full-passage scope rather than only a narrow subclaim.
+
+#### Reviewed Analysis
+
+This label marks pages that are solid and usable, but not yet as developed as the flagship set. A reviewed page usually has a coherent argument and reasonable balance, but it may still lack fuller sourcing depth, comparative polish, or broader contextual development.
+
+#### Draft Analysis
+
+This label marks early-stage pages. A draft page may still be informative, but it should be treated as provisional. These entries may remain uneven in sourcing, brevity, or interpretive development while the broader project is still being built out.
+
+### Confidence Levels
+
+#### High
+
+High confidence indicates that a page is textually grounded, comparatively well balanced, and clear about the strengths and weaknesses of the claim being discussed. This does not mean the passage is undisputed; it means the page itself is mature and responsibly framed.
+
+#### Moderate
+
+Moderate confidence indicates that the page is reasonable and useful, but still somewhat contested, incomplete, or dependent on interpretive judgments that could be developed further. Many supporting claim pages fall into this category.
+
+#### Low
+
+Low confidence indicates that the page is exploratory, underdeveloped, or attached to a claim whose wording or evidence remains especially uncertain. A low-confidence page should be read as part of the project's working draft layer rather than as settled analysis.
+
+### Last Updated and Scope
+
+Each prophecy page now includes a `Last Updated` field so readers can see when the page was most recently revised. Flagship overview pages may also include `Scope: Full Passage Analysis` to signal that they are intended to handle the passage at the overview level rather than only as a narrow claim fragment.
+
 ## Individual vs Cumulative Claims
 
 Some prophecy claims are relatively weak on their own but stronger when read alongside related texts. Others genuinely depend on cumulative logic and should say so openly. This project therefore distinguishes between individual claim strength and cumulative theological force.

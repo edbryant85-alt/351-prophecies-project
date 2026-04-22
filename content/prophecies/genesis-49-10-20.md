@@ -1,30 +1,18 @@
 # Genesis 49:10 — Unto Him shall the obedience of the people be
 
-> NOTE: The following content is AI-generated placeholder analysis for structural and research development purposes. It is subject to review, correction, and expansion.
+**Page Status:** Draft Analysis<br>
+**Confidence Level:** Low<br>
+**Last Updated:** 2026-04-22<br>
 
+> NOTE: The following content is AI-generated placeholder analysis for structural and research development purposes. It is subject to review, correction, and expansion.
 
 ## Claim
 This entry evaluates the claim that Unto Him shall the obedience of the people be.
 
-
 ## Scripture Text
 
-- Display scope: Full verse
 - Verse reference: Genesis 49:10
 - [View full passage on Bible Gateway](https://www.biblegateway.com/passage/?search=Genesis%2049%3A10&version=NRSVUE)
-
-### Text Details (Expandable)
-
-<details>
-<summary>Show text details</summary>
-
-- Original language:
-- Transliteration:
-- Literal gloss:
-- Alternate translations:
-
-</details>
-
 
 ## 351 List Reference
 - Number: 20

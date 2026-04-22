@@ -1,30 +1,18 @@
 # Leviticus 1:2-9 — His sacrifice a sweet smelling savor unto God
 
-> NOTE: The following content is AI-generated placeholder analysis for structural and research development purposes. It is subject to review, correction, and expansion.
+**Page Status:** Draft Analysis<br>
+**Confidence Level:** Low<br>
+**Last Updated:** 2026-04-22<br>
 
+> NOTE: The following content is AI-generated placeholder analysis for structural and research development purposes. It is subject to review, correction, and expansion.
 
 ## Claim
 This entry evaluates the claim that His sacrifice a sweet smelling savor unto God.
 
-
 ## Scripture Text
 
-- Display scope: Full verse
 - Verse reference: Leviticus 1:2-9
 - [View full passage on Bible Gateway](https://www.biblegateway.com/passage/?search=Leviticus%201%3A2-9&version=NRSVUE)
-
-### Text Details (Expandable)
-
-<details>
-<summary>Show text details</summary>
-
-- Original language:
-- Transliteration:
-- Literal gloss:
-- Alternate translations:
-
-</details>
-
 
 ## 351 List Reference
 - Number: 30

@@ -1,32 +1,20 @@
 # Zechariah 9:9f — Presented to Jerusalem riding on a donkey
 
-> NOTE: The following content is AI-generated placeholder analysis for structural and research development purposes. It is subject to review, correction, and expansion.
+**Page Status:** Draft Analysis<br>
+**Confidence Level:** Low<br>
+**Last Updated:** 2026-04-22<br>
 
+> NOTE: The following content is AI-generated placeholder analysis for structural and research development purposes. It is subject to review, correction, and expansion.
 
 > NOTE: This page analyzes a specific prophecy claim. For a broader contextual overview, see [Zechariah 9](./zechariah-9.md).
 
 ## Claim
 This entry evaluates the claim that Presented to Jerusalem riding on a donkey.
 
-
 ## Scripture Text
 
-- Display scope: Full verse
 - Verse reference: Zechariah 9:9f
 - [View full passage on Bible Gateway](https://www.biblegateway.com/passage/?search=Zechariah%209%3A9&version=NRSVUE)
-
-### Text Details (Expandable)
-
-<details>
-<summary>Show text details</summary>
-
-- Original language:
-- Transliteration:
-- Literal gloss:
-- Alternate translations:
-
-</details>
-
 
 ## 351 List Reference
 - Number: 324

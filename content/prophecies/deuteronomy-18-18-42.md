@@ -1,30 +1,18 @@
 # Deuteronomy 18:18 — Sent by the Father to speak His word
 
-> NOTE: The following content is AI-generated placeholder analysis for structural and research development purposes. It is subject to review, correction, and expansion.
+**Page Status:** Draft Analysis<br>
+**Confidence Level:** Low<br>
+**Last Updated:** 2026-04-22<br>
 
+> NOTE: The following content is AI-generated placeholder analysis for structural and research development purposes. It is subject to review, correction, and expansion.
 
 ## Claim
 This entry evaluates the claim that Sent by the Father to speak His word.
 
-
 ## Scripture Text
 
-- Display scope: Full verse
 - Verse reference: Deuteronomy 18:18
 - [View full passage on Bible Gateway](https://www.biblegateway.com/passage/?search=Deuteronomy%2018%3A18&version=NRSVUE)
-
-### Text Details (Expandable)
-
-<details>
-<summary>Show text details</summary>
-
-- Original language:
-- Transliteration:
-- Literal gloss:
-- Alternate translations:
-
-</details>
-
 
 ## 351 List Reference
 - Number: 42

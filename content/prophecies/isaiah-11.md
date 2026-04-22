@@ -1,7 +1,10 @@
 # Isaiah 11
 
-> NOTE: The following content is AI-generated placeholder analysis for structural and research development purposes. It is subject to review, correction, and expansion.
+**Page Status:** Draft Analysis<br>
+**Confidence Level:** Low<br>
+**Last Updated:** 2026-04-22<br>
 
+> NOTE: The following content is AI-generated placeholder analysis for structural and research development purposes. It is subject to review, correction, and expansion.
 
 > NOTE: This is an overview page summarizing multiple prophecy claims associated with this passage. For detailed analysis, see the individual claim pages linked below.
 
@@ -18,7 +21,6 @@
 ## Claim
 This entry examines the claimed prophecy associated with Isaiah 11.
 
-
 ## Scripture Text
 
 **Focus Verses:** Isaiah 11:1-5, 10
@@ -26,19 +28,6 @@ This entry examines the claimed prophecy associated with Isaiah 11.
 - Display scope: Full passage / logical section
 - Passage reference: - Claim Summary:
 - [View full passage on Bible Gateway](https://www.biblegateway.com/passage/?search=-%20Claim%20Summary%3A&version=NRSVUE)
-
-### Text Details (Expandable)
-
-<details>
-<summary>Show text details</summary>
-
-- Original language:
-- Transliteration:
-- Literal gloss:
-- Alternate translations:
-
-</details>
-
 
 ## 351 List Reference
 - Number:

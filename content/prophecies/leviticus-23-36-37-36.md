@@ -1,30 +1,18 @@
 # Leviticus 23:36-37 — The Drink-offering: "If any man thirst"
 
-> NOTE: The following content is AI-generated placeholder analysis for structural and research development purposes. It is subject to review, correction, and expansion.
+**Page Status:** Draft Analysis<br>
+**Confidence Level:** Low<br>
+**Last Updated:** 2026-04-22<br>
 
+> NOTE: The following content is AI-generated placeholder analysis for structural and research development purposes. It is subject to review, correction, and expansion.
 
 ## Claim
 This entry evaluates the claim that The Drink-offering: "If any man thirst".
 
-
 ## Scripture Text
 
-- Display scope: Full verse
 - Verse reference: Leviticus 23:36-37
 - [View full passage on Bible Gateway](https://www.biblegateway.com/passage/?search=Leviticus%2023%3A36-37&version=NRSVUE)
-
-### Text Details (Expandable)
-
-<details>
-<summary>Show text details</summary>
-
-- Original language:
-- Transliteration:
-- Literal gloss:
-- Alternate translations:
-
-</details>
-
 
 ## 351 List Reference
 - Number: 36

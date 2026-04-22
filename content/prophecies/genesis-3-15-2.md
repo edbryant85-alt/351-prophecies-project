@@ -1,5 +1,9 @@
 # Genesis 3:15 — He will bruise Satan's head
 
+**Page Status:** Reviewed Analysis<br>
+**Confidence Level:** Moderate<br>
+**Last Updated:** 2026-04-22<br>
+
 > NOTE: This page analyzes a specific prophecy claim. For a broader contextual overview, see [Genesis 3:15](./genesis-3-15.md).
 
 ## Claim

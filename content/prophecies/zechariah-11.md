@@ -1,5 +1,10 @@
 # Zechariah 11
 
+**Page Status:** Flagship Analysis<br>
+**Confidence Level:** High<br>
+**Last Updated:** 2026-04-22<br>
+**Scope:** Full Passage Analysis
+
 > NOTE: This overview page summarizes the major interpretive issues in Zechariah 11 and links to the narrower supporting claim pages below.
 
 ## Related Prophecy Claims

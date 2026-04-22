@@ -1,30 +1,18 @@
 # Zechariah 14:4 — He would return to the Mt. of Olives
 
-> NOTE: The following content is AI-generated placeholder analysis for structural and research development purposes. It is subject to review, correction, and expansion.
+**Page Status:** Draft Analysis<br>
+**Confidence Level:** Low<br>
+**Last Updated:** 2026-04-22<br>
 
+> NOTE: The following content is AI-generated placeholder analysis for structural and research development purposes. It is subject to review, correction, and expansion.
 
 ## Claim
 This entry evaluates the claim that He would return to the Mt. of Olives.
 
-
 ## Scripture Text
 
-- Display scope: Full verse
 - Verse reference: Zechariah 14:4
 - [View full passage on Bible Gateway](https://www.biblegateway.com/passage/?search=Zechariah%2014%3A4&version=NRSVUE)
-
-### Text Details (Expandable)
-
-<details>
-<summary>Show text details</summary>
-
-- Original language:
-- Transliteration:
-- Literal gloss:
-- Alternate translations:
-
-</details>
-
 
 ## 351 List Reference
 - Number: 346

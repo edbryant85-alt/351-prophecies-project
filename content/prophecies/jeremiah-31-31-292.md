@@ -1,32 +1,20 @@
 # Jeremiah 31:31 — The Messiah would be the new covenant
 
-> NOTE: The following content is AI-generated placeholder analysis for structural and research development purposes. It is subject to review, correction, and expansion.
+**Page Status:** Draft Analysis<br>
+**Confidence Level:** Low<br>
+**Last Updated:** 2026-04-22<br>
 
+> NOTE: The following content is AI-generated placeholder analysis for structural and research development purposes. It is subject to review, correction, and expansion.
 
 > NOTE: This page analyzes a specific prophecy claim. For a broader contextual overview, see [Jeremiah 31](./jeremiah-31.md).
 
 ## Claim
 This entry evaluates the claim that The Messiah would be the new covenant.
 
-
 ## Scripture Text
 
-- Display scope: Full verse
 - Verse reference: Jeremiah 31:31
 - [View full passage on Bible Gateway](https://www.biblegateway.com/passage/?search=Jeremiah%2031%3A31&version=NRSVUE)
-
-### Text Details (Expandable)
-
-<details>
-<summary>Show text details</summary>
-
-- Original language:
-- Transliteration:
-- Literal gloss:
-- Alternate translations:
-
-</details>
-
 
 ## 351 List Reference
 - Number: 292

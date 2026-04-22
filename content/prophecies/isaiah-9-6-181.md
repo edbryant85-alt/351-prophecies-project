@@ -1,32 +1,20 @@
 # Isaiah 9:6 — The Everlasting Father, Avi Adth
 
-> NOTE: The following content is AI-generated placeholder analysis for structural and research development purposes. It is subject to review, correction, and expansion.
+**Page Status:** Draft Analysis<br>
+**Confidence Level:** Low<br>
+**Last Updated:** 2026-04-22<br>
 
+> NOTE: The following content is AI-generated placeholder analysis for structural and research development purposes. It is subject to review, correction, and expansion.
 
 > NOTE: This page analyzes a specific prophecy claim. For a broader contextual overview, see [Isaiah 9:6](./isaiah-9-6.md).
 
 ## Claim
 This entry evaluates the claim that The Everlasting Father, Avi Adth.
 
-
 ## Scripture Text
 
-- Display scope: Full verse
 - Verse reference: Isaiah 9:6
 - [View full passage on Bible Gateway](https://www.biblegateway.com/passage/?search=Isaiah%209%3A6&version=NRSVUE)
-
-### Text Details (Expandable)
-
-<details>
-<summary>Show text details</summary>
-
-- Original language:
-- Transliteration:
-- Literal gloss:
-- Alternate translations:
-
-</details>
-
 
 ## 351 List Reference
 - Number: 181

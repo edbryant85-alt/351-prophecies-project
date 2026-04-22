@@ -1,33 +1,20 @@
 # Zechariah 11:4-11 — Rejected shepherd and withdrawal of protection
 
-> NOTE: The following content is AI-generated placeholder analysis for structural and research development purposes. It is subject to review, correction, and expansion.
+**Page Status:** Reviewed Analysis<br>
+**Confidence Level:** Moderate<br>
+**Last Updated:** 2026-04-22<br>
 
+> NOTE: The following content is AI-generated placeholder analysis for structural and research development purposes. It is subject to review, correction, and expansion.
 
 > NOTE: This page analyzes a specific prophecy claim. For a broader contextual overview, see [Zechariah 11](./zechariah-11.md).
 
 ## Claim
 Christians sometimes argue that Zechariah 11:4-11 anticipates the rejection of a faithful shepherd and the judgment that follows. In Christian reading, the chapter's rejection-and-judgment pattern is used more broadly than any one verse fragment, which is why these lines are stronger as one consolidated claim.
 
-
 ## Scripture Text
 
-- Display scope: Full verse
 - Verse reference: Zechariah 11:4-11
 - [View full passage on Bible Gateway](https://www.biblegateway.com/passage/?search=Zechariah%2011%3A4-11&version=NRSVUE)
-
-### Text Details (Expandable)
-
-<details>
-<summary>Show text details</summary>
-
-- Original language:
-- Transliteration:
-- Literal gloss:
-- Alternate translations:
-
-</details>
-
-
 
 ## 351 List Reference
 - Number: 327

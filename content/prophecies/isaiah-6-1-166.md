@@ -1,30 +1,18 @@
 # Isaiah 6:1 — When Isaiah saw His glory
 
-> NOTE: The following content is AI-generated placeholder analysis for structural and research development purposes. It is subject to review, correction, and expansion.
+**Page Status:** Draft Analysis<br>
+**Confidence Level:** Low<br>
+**Last Updated:** 2026-04-22<br>
 
+> NOTE: The following content is AI-generated placeholder analysis for structural and research development purposes. It is subject to review, correction, and expansion.
 
 ## Claim
 This entry evaluates the claim that When Isaiah saw His glory.
 
-
 ## Scripture Text
 
-- Display scope: Full verse
 - Verse reference: Isaiah 6:1
 - [View full passage on Bible Gateway](https://www.biblegateway.com/passage/?search=Isaiah%206%3A1&version=NRSVUE)
-
-### Text Details (Expandable)
-
-<details>
-<summary>Show text details</summary>
-
-- Original language:
-- Transliteration:
-- Literal gloss:
-- Alternate translations:
-
-</details>
-
 
 ## 351 List Reference
 - Number: 166
