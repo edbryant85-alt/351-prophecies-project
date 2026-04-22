@@ -28,6 +28,7 @@ Christians often argue that Micah 5:2 predicts the Messiah's connection to Bethl
 
 - **Passage Reference:** Micah 5:1-3
 - [View full passage on Bible Gateway](https://www.biblegateway.com/passage/?search=Micah%205%3A2&version=NRSVUE)
+
 ## 351 List Reference
 - Number: Multiple numbered claims in the 351 list
 - OT Reference: Micah 5:2

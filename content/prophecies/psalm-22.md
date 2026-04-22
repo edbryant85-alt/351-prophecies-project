@@ -32,6 +32,7 @@ Christians often argue that Psalm 22 predicts important aspects of Jesus' suffer
 
 - **Passage Reference:** Psalm 22
 - [View full passage on Bible Gateway](https://www.biblegateway.com/passage/?search=Psalm%2022&version=NRSVUE)
+
 ## 351 List Reference
 - Number: Multiple numbered claims in the 351 list
 - OT Reference: Psalm 22

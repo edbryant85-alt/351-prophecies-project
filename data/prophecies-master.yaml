@@ -656,11 +656,11 @@
   status: "not started"
 
 - number: 74
-  title: "Psalm 22:1 — Forsaken because of sins of others"
+  title: "Psalm 22 — Righteous sufferer, mockery, and vindication"
   slug: "psalm-22"
-  ot_reference: "Psalm 22:1"
-  claim_summary: "Forsaken because of sins of others"
-  nt_fulfillment: "2 Cor 5:21"
+  ot_reference: "Psalm 22"
+  claim_summary: "Righteous sufferer, mockery, bodily suffering, divided garments, vindication"
+  nt_fulfillment: "Passion narratives; Heb 2:12; John 19:23-24"
   skeptic_failed_criteria: "2,3,4,5,6"
   status: "in progress"
 
@@ -2069,11 +2069,11 @@
   status: "not started"
 
 - number: 242
-  title: "Isaiah 53:1 — His people would not believe Him"
+  title: "Isaiah 53 — Suffering servant, death, and vindication"
   slug: "isaiah-53"
-  ot_reference: "Isaiah 53:1"
-  claim_summary: "His people would not believe Him"
-  nt_fulfillment: "John 12:37-38"
+  ot_reference: "Isaiah 52:13-53:12"
+  claim_summary: "Suffering servant, vicarious suffering, death, vindication"
+  nt_fulfillment: "Passion narratives; Acts 8; 1 Pet 2"
   skeptic_failed_criteria: "2,3,4,5,6"
   status: "in progress"
 
@@ -2366,11 +2366,11 @@
   status: "not started"
 
 - number: 300
-  title: "Daniel 9:24a — To make an end to sins"
+  title: "Daniel 9 — Seventy weeks and the anointed one"
   slug: "daniel-9"
-  ot_reference: "Daniel 9:24a"
-  claim_summary: "To make an end to sins"
-  nt_fulfillment: "Gal 1:3-5"
+  ot_reference: "Daniel 9:24-27"
+  claim_summary: "Seventy weeks timeline, anointed one, cut off"
+  nt_fulfillment: "Jesus' ministry and death; Jerusalem's fall"
   skeptic_failed_criteria: "2,3,4,5,6"
   status: "in progress"
 
@@ -2573,11 +2573,11 @@
   status: "not started"
 
 - number: 326
-  title: "Zechariah 11:4-6a — At His coming, Israel to have unfit leaders"
+  title: "Zechariah 11 — Rejected shepherd and thirty pieces of silver"
   slug: "zechariah-11"
-  ot_reference: "Zechariah 11:4-6a"
-  claim_summary: "At His coming, Israel to have unfit leaders"
-  nt_fulfillment: "Matt 23:1-4"
+  ot_reference: "Zechariah 11:4-13"
+  claim_summary: "Rejected shepherd, thirty pieces of silver, temple disposal"
+  nt_fulfillment: "Matt 26:14-15; Matt 27:3-10; Luke 19:41-44"
   skeptic_failed_criteria: "2,3,4,5,6"
   status: "in progress"
 

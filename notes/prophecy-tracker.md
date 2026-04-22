@@ -7,12 +7,12 @@
 
 ## In Progress
 - [ ] #1 Genesis 3:15 — Seed of a woman (virgin birth)
-- [ ] #74 Psalm 22:1 — Forsaken because of sins of others
+- [ ] #74 Psalm 22 — Righteous sufferer, mockery, and vindication
 - [ ] #170 Isaiah 7:14 — To be born of a virgin
-- [ ] #242 Isaiah 53:1 — His people would not believe Him
-- [ ] #300 Daniel 9:24a — To make an end to sins
+- [ ] #242 Isaiah 53 — Suffering servant, death, and vindication
+- [ ] #300 Daniel 9 — Seventy weeks and the anointed one
 - [ ] #312 Micah 5:2a — Born in Bethlehem
-- [ ] #326 Zechariah 11:4-6a — At His coming, Israel to have unfit leaders
+- [ ] #326 Zechariah 11 — Rejected shepherd and thirty pieces of silver
 
 ## Not Started
 - [ ] #2 Genesis 3:15 — He will bruise Satan's head
@@ -88,22 +88,11 @@
 - [ ] #72 Psalm 17:15 — The resurrection predicted
 - [ ] #73 Psalm 18:2-3 — The horn of salvation
 - [ ] #75 Psalm 22:1 — "My God, my God, why have You forsaken me?"
-- [ ] #76 Psalm 22:2 — Darkness upon Calvary for three hours
-- [ ] #77 Psalm 22:7 — They shoot out the lip and shake the head
-- [ ] #78 Psalm 22:8 — "He trusted in God, let Him deliver Him"
-- [ ] #79 Psalm 22:9-10 — Born the Savior
-- [ ] #80 Psalm 22:12-13 — They seek His death
-- [ ] #81 Psalm 22:14 — His blood poured out when they pierced His side
-- [ ] #82 Psalm 22:14-15 — Suffered agony on Calvary
-- [ ] #83 Psalm 22:15 — He thirsted
+- [ ] #77 Psalm 22:7-8 — Mocked with taunts of false trust
+- [ ] #82 Psalm 22:14-15 — Bodily agony, collapse, and thirst
 - [ ] #84 Psalm 22:16 — They pierced His hands and His feet
-- [ ] #85 Psalm 22:17-18 — Stripped Him before the stares of men
-- [ ] #86 Psalm 22:18 — They parted His garments
-- [ ] #87 Psalm 22:20-21 — He committed Himself to God
-- [ ] #88 Psalm 22:20-21 — Satanic power bruising the Redeemer's heel
-- [ ] #89 Psalm 22:22 — His Resurrection declared
-- [ ] #90 Psalm 22:27-28 — He shall be the governor of the nations
-- [ ] #91 Psalm 22:31 — "It is finished"
+- [ ] #85 Psalm 22:17-18 — Public exposure and divided garments
+- [ ] #89 Psalm 22:22, 27-31 — Vindication proclaimed to brethren and nations
 - [ ] #92 Psalm 23:1 — "I am the Good Shepherd"
 - [ ] #93 Psalm 24:3 — His exaltation predicted
 - [ ] #94 Psalm 30:3 — His resurrection predicted
@@ -253,40 +242,15 @@
 - [ ] #239 Isaiah 52:14 — The Servant shockingly abused
 - [ ] #240 Isaiah 52:15 — Nations startled by message of the Servant
 - [ ] #241 Isaiah 52:15 — His blood shed sprinkles nations
-- [ ] #243 Isaiah 53:2 — Appearance of an ordinary man
-- [ ] #244 Isaiah 53:3a — Despised
-- [ ] #245 Isaiah 53:3b — Rejected
-- [ ] #246 Isaiah 53:3c — Great sorrow and grief
-- [ ] #247 Isaiah 53:3d — Men hide from being associated with Him
-- [ ] #248 Isaiah 53:4a — He would have a healing ministry
-- [ ] #249 Isaiah 53:4b — Thought to be cursed by God
-- [ ] #250 Isaiah 53:5a — Bears penalty for mankind's iniquities
-- [ ] #251 Isaiah 53:5b — His sacrifice provides peace between man and God
-- [ ] #252 Isaiah 53:5c — His sacrifice would heal man of sin
-- [ ] #253 Isaiah 53:6a — He would be the sin-bearer for all mankind
-- [ ] #254 Isaiah 53:6b — God's will that He bear sin for all mankind
-- [ ] #255 Isaiah 53:7a — Oppressed and afflicted
-- [ ] #256 Isaiah 53:7b — Silent before his accusers
-- [ ] #257 Isaiah 53:7c — Sacrificial lamb
-- [ ] #258 Isaiah 53:8a — Confined and persecuted
-- [ ] #259 Isaiah 53:8b — He would be judged
-- [ ] #260 Isaiah 53:8c — Killed
-- [ ] #261 Isaiah 53:8d — Dies for the sins of the world
-- [ ] #262 Isaiah 53:9a — Buried in a rich man's grave
-- [ ] #263 Isaiah 53:9b — Innocent and had done no violence
-- [ ] #264 Isaiah 53:9c — No deceit in his mouth
-- [ ] #265 Isaiah 53:10a — God's will that He die for mankind
-- [ ] #266 Isaiah 53:10b — An offering for sin
-- [ ] #267 Isaiah 53:10c — Resurrected and live forever
-- [ ] #268 Isaiah 53:10d — He would prosper
-- [ ] #269 Isaiah 53:11a — God fully satisfied with His suffering
-- [ ] #270 Isaiah 53:11b — God's servant would justify man
-- [ ] #271 Isaiah 53:11c — The sin-bearer for all mankind
-- [ ] #272 Isaiah 53:12a — Exalted by God because of his sacrifice
-- [ ] #273 Isaiah 53:12b — He would give up his life to save mankind
-- [ ] #274 Isaiah 53:12c — Numbered with the transgressors
-- [ ] #275 Isaiah 53:12d — Sin-bearer for all mankind
-- [ ] #276 Isaiah 53:12e — Intercede to God in behalf of mankind
+- [ ] #243 Isaiah 53:2-3 — Unimpressive, despised, and rejected servant
+- [ ] #248 Isaiah 53:4 — Bore griefs and was regarded as stricken
+- [ ] #250 Isaiah 53:5 — Wounded for transgressions and brings healing
+- [ ] #253 Isaiah 53:6 — The Lord laid on him the iniquity of us all
+- [ ] #255 Isaiah 53:7 — Oppressed, silent, and like a lamb
+- [ ] #258 Isaiah 53:8 — Cut off after judgment for others
+- [ ] #262 Isaiah 53:9 — Innocent, yet with the rich in his death
+- [ ] #266 Isaiah 53:10-11 — Guilt offering, vindication, and justification of many
+- [ ] #274 Isaiah 53:12 — Numbered with transgressors, bore sin, and interceded
 - [ ] #277 Isaiah 55:3 — Resurrected by God
 - [ ] #278 Isaiah 55:4a — A witness
 - [ ] #279 Isaiah 55:4b — He is a leader and commander
@@ -310,12 +274,9 @@
 - [ ] #297 Daniel 7:13-14a — He would ascend into heaven
 - [ ] #298 Daniel 7:13-14b — Highly exalted
 - [ ] #299 Daniel 7:13-14c — His dominion would be everlasting
-- [ ] #301 Daniel 9:24a — To make reconciliation for iniquity
-- [ ] #302 Daniel 9:24b — He would be holy
-- [ ] #303 Daniel 9:25 — His announcement
-- [ ] #304 Daniel 9:26a — Cut off
-- [ ] #305 Daniel 9:26b — Die for the sins of the world
-- [ ] #306 Daniel 9:26c — Killed before the destruction of the temple
+- [ ] #301 Daniel 9:24 — Redemptive goals of the seventy weeks
+- [ ] #303 Daniel 9:25 — Timed arrival of an anointed figure
+- [ ] #304 Daniel 9:26 — Anointed one cut off before Jerusalem's devastation
 - [ ] #307 Daniel 10:5-6 — Messiah in a glorified state
 - [ ] #308 Hosea 11:1 — He would be called out of Egypt
 - [ ] #309 Hosea 13:14 — He would defeat death
@@ -335,18 +296,8 @@
 - [ ] #323 Zechariah 9:9e — The Messiah would be humble
 - [ ] #324 Zechariah 9:9f — Presented to Jerusalem riding on a donkey
 - [ ] #325 Zechariah 10:4 — The cornerstone
-- [ ] #327 Zechariah 11:4-6b — Rejection causes God to remove His protection
-- [ ] #328 Zechariah 11:4-6c — Rejected in favor of another king
-- [ ] #329 Zechariah 11:7 — Ministry to "poor," the believing remnant
-- [ ] #330 Zechariah 11:8a — Unbelief forces Messiah to reject them
-- [ ] #331 Zechariah 11:8b — Despised
-- [ ] #332 Zechariah 11:9 — Stops ministering to those who rejected Him
-- [ ] #333 Zechariah 11:10-11a — Rejection causes God to remove protection
-- [ ] #334 Zechariah 11:10-11b — The Messiah would be God
-- [ ] #335 Zechariah 11:12-13a — Betrayed for thirty pieces of silver
-- [ ] #336 Zechariah 11:12-13b — Rejected
-- [ ] #337 Zechariah 11:12-13c — Thirty pieces of silver cast in the house of the Lord
-- [ ] #338 Zechariah 11:12-13d — The Messiah would be God
+- [ ] #327 Zechariah 11:4-11 — Rejected shepherd and withdrawal of protection
+- [ ] #335 Zechariah 11:12-13 — Thirty pieces of silver in the house of the Lord
 - [ ] #339 Zechariah 12:10a — The Messiah's body would be pierced
 - [ ] #340 Zechariah 12:10b — The Messiah would be both God and man
 - [ ] #341 Zechariah 12:10c — The Messiah would be rejected

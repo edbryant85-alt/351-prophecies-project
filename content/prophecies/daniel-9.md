@@ -29,6 +29,7 @@ Christians often argue that Daniel 9 predicts the timing of the Messiah's arriva
 
 - **Passage Reference:** Daniel 9:24–27
 - [View full passage on Bible Gateway](https://www.biblegateway.com/passage/?search=Daniel%209%3A24-27&version=NRSVUE)
+
 ## 351 List Reference
 - Number: Multiple numbered claims in the 351 list
 - OT Reference: Daniel 9:24–27

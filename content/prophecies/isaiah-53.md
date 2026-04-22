@@ -35,6 +35,7 @@ Christians often argue that Isaiah 52:13–53:12 predicts the suffering, death, 
 
 - **Passage Reference:** Isaiah 52:13–53:12
 - [View full passage on Bible Gateway](https://www.biblegateway.com/passage/?search=Isaiah%2052%3A13-53%3A12&version=NRSVUE)
+
 ## 351 List Reference
 - Number: Multiple numbered claims in the 351 list
 - OT Reference: Isaiah 52:13–53:12

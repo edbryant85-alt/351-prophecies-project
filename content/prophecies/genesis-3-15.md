@@ -27,6 +27,7 @@ Christians often argue that Genesis 3:15 foreshadows a future defeat of evil tha
 
 - **Passage Reference:** Genesis 3:14-16
 - [View full passage on Bible Gateway](https://www.biblegateway.com/passage/?search=Genesis%203%3A14-16&version=NRSVUE)
+
 ## 351 List Reference
 - Number: Multiple numbered claims in the 351 list
 - OT Reference: Genesis 3:15

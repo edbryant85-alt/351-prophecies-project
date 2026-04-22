@@ -27,6 +27,7 @@ Christians often argue that Isaiah 7:14 predicts the virgin birth of Jesus. In C
 
 - **Passage Reference:** Isaiah 7:13-15
 - [View full passage on Bible Gateway](https://www.biblegateway.com/passage/?search=Isaiah%207%3A14&version=NRSVUE)
+
 ## 351 List Reference
 - Number: 170
 - OT Reference: Isaiah 7:14
