@@ -673,75 +673,21 @@
   skeptic_failed_criteria: "2,3,4,5,6"
   status: "not started"
 
-- number: 76
-  title: "Psalm 22:2 — Darkness upon Calvary for three hours"
-  slug: "psalm-22-2-76"
-  ot_reference: "Psalm 22:2"
-  claim_summary: "Darkness upon Calvary for three hours"
-  nt_fulfillment: "Matt 27:45"
-  skeptic_failed_criteria: "2,3,4,5,6"
-  status: "not started"
-
 - number: 77
-  title: "Psalm 22:7 — They shoot out the lip and shake the head"
+  title: "Psalm 22:7-8 — Mocked with taunts of false trust"
   slug: "psalm-22-7-77"
-  ot_reference: "Psalm 22:7"
-  claim_summary: "They shoot out the lip and shake the head"
+  ot_reference: "Psalm 22:7-8"
+  claim_summary: "Mocked and taunted to trust God for deliverance"
   nt_fulfillment: "Matt 27:39-44"
   skeptic_failed_criteria: "2,3,4,5,6"
   status: "not started"
 
-- number: 78
-  title: "Psalm 22:8 — \"He trusted in God, let Him deliver Him\""
-  slug: "psalm-22-8-78"
-  ot_reference: "Psalm 22:8"
-  claim_summary: "\"He trusted in God, let Him deliver Him\""
-  nt_fulfillment: "Matt 27:43"
-  skeptic_failed_criteria: "2,3,4,5,6"
-  status: "not started"
-
-- number: 79
-  title: "Psalm 22:9-10 — Born the Savior"
-  slug: "psalm-22-9-10-79"
-  ot_reference: "Psalm 22:9-10"
-  claim_summary: "Born the Savior"
-  nt_fulfillment: "Luke 2:7"
-  skeptic_failed_criteria: "2,3,4,5,6"
-  status: "not started"
-
-- number: 80
-  title: "Psalm 22:12-13 — They seek His death"
-  slug: "psalm-22-12-13-80"
-  ot_reference: "Psalm 22:12-13"
-  claim_summary: "They seek His death"
-  nt_fulfillment: "John 19:6"
-  skeptic_failed_criteria: "2,3,4,5,6"
-  status: "not started"
-
-- number: 81
-  title: "Psalm 22:14 — His blood poured out when they pierced His side"
-  slug: "psalm-22-14-81"
-  ot_reference: "Psalm 22:14"
-  claim_summary: "His blood poured out when they pierced His side"
-  nt_fulfillment: "John 19:34"
-  skeptic_failed_criteria: "2,3,4,5,6"
-  status: "not started"
-
 - number: 82
-  title: "Psalm 22:14-15 — Suffered agony on Calvary"
+  title: "Psalm 22:14-15 — Bodily agony, collapse, and thirst"
   slug: "psalm-22-14-15-82"
   ot_reference: "Psalm 22:14-15"
-  claim_summary: "Suffered agony on Calvary"
-  nt_fulfillment: "Mark 15:34-37"
-  skeptic_failed_criteria: "2,3,4,5,6"
-  status: "not started"
-
-- number: 83
-  title: "Psalm 22:15 — He thirsted"
-  slug: "psalm-22-15-83"
-  ot_reference: "Psalm 22:15"
-  claim_summary: "He thirsted"
-  nt_fulfillment: "John 19:28"
+  claim_summary: "Bodily agony, collapse, and thirst"
+  nt_fulfillment: "Mark 15:34-37; John 19:28"
   skeptic_failed_criteria: "2,3,4,5,6"
   status: "not started"
 
@@ -755,65 +701,20 @@
   status: "not started"
 
 - number: 85
-  title: "Psalm 22:17-18 — Stripped Him before the stares of men"
+  title: "Psalm 22:17-18 — Public exposure and divided garments"
   slug: "psalm-22-17-18-85"
   ot_reference: "Psalm 22:17-18"
-  claim_summary: "Stripped Him before the stares of men"
-  nt_fulfillment: "Luke 23:34-35"
-  skeptic_failed_criteria: "2,3,4,5,6"
-  status: "not started"
-
-- number: 86
-  title: "Psalm 22:18 — They parted His garments"
-  slug: "psalm-22-18-86"
-  ot_reference: "Psalm 22:18"
-  claim_summary: "They parted His garments"
-  nt_fulfillment: "John 19:23-24"
-  skeptic_failed_criteria: "2,3,4,5,6"
-  status: "not started"
-
-- number: 87
-  title: "Psalm 22:20-21 — He committed Himself to God"
-  slug: "psalm-22-20-21-87"
-  ot_reference: "Psalm 22:20-21"
-  claim_summary: "He committed Himself to God"
-  nt_fulfillment: "Luke 23:46"
-  skeptic_failed_criteria: "2,3,4,5,6"
-  status: "not started"
-
-- number: 88
-  title: "Psalm 22:20-21 — Satanic power bruising the Redeemer's heel"
-  slug: "psalm-22-20-21-88"
-  ot_reference: "Psalm 22:20-21"
-  claim_summary: "Satanic power bruising the Redeemer's heel"
-  nt_fulfillment: "Heb 2:14"
+  claim_summary: "Public exposure and divided garments"
+  nt_fulfillment: "Luke 23:34-35; John 19:23-24"
   skeptic_failed_criteria: "2,3,4,5,6"
   status: "not started"
 
 - number: 89
-  title: "Psalm 22:22 — His Resurrection declared"
+  title: "Psalm 22:22, 27-31 — Vindication proclaimed to brethren and nations"
   slug: "psalm-22-22-89"
-  ot_reference: "Psalm 22:22"
-  claim_summary: "His Resurrection declared"
-  nt_fulfillment: "John 20:17"
-  skeptic_failed_criteria: "2,3,4,5,6"
-  status: "not started"
-
-- number: 90
-  title: "Psalm 22:27-28 — He shall be the governor of the nations"
-  slug: "psalm-22-27-28-90"
-  ot_reference: "Psalm 22:27-28"
-  claim_summary: "He shall be the governor of the nations"
-  nt_fulfillment: "Col 1:16"
-  skeptic_failed_criteria: "2,3,4,5,6"
-  status: "not started"
-
-- number: 91
-  title: "Psalm 22:31 — \"It is finished\""
-  slug: "psalm-22-31-91"
-  ot_reference: "Psalm 22:31"
-  claim_summary: "\"It is finished\""
-  nt_fulfillment: "John 19:30; Heb 10:10-12, 14, 18"
+  ot_reference: "Psalm 22:22, 27-31"
+  claim_summary: "Vindication proclaimed to brethren and nations"
+  nt_fulfillment: "Heb 2:12; John 20:17; Matt 28:18-20"
   skeptic_failed_criteria: "2,3,4,5,6"
   status: "not started"
 
@@ -2177,308 +2078,83 @@
   status: "in progress"
 
 - number: 243
-  title: "Isaiah 53:2 — Appearance of an ordinary man"
+  title: "Isaiah 53:2-3 — Unimpressive, despised, and rejected servant"
   slug: "isaiah-53-2-243"
-  ot_reference: "Isaiah 53:2"
-  claim_summary: "Appearance of an ordinary man"
-  nt_fulfillment: "Phil 2:6-8"
-  skeptic_failed_criteria: "2,3,4,5,6"
-  status: "not started"
-
-- number: 244
-  title: "Isaiah 53:3a — Despised"
-  slug: "isaiah-53-3-244"
-  ot_reference: "Isaiah 53:3a"
-  claim_summary: "Despised"
-  nt_fulfillment: "Luke 4:28-29"
-  skeptic_failed_criteria: "2,3,4,5,6"
-  status: "not started"
-
-- number: 245
-  title: "Isaiah 53:3b — Rejected"
-  slug: "isaiah-53-3-245"
-  ot_reference: "Isaiah 53:3b"
-  claim_summary: "Rejected"
-  nt_fulfillment: "Matt 27:21-23"
-  skeptic_failed_criteria: "2,3,4,5,6"
-  status: "not started"
-
-- number: 246
-  title: "Isaiah 53:3c — Great sorrow and grief"
-  slug: "isaiah-53-3-246"
-  ot_reference: "Isaiah 53:3c"
-  claim_summary: "Great sorrow and grief"
-  nt_fulfillment: "Matt 26:37-38; Luke 19:41; Heb 4:15"
-  skeptic_failed_criteria: "2,3,4,5,6"
-  status: "not started"
-
-- number: 247
-  title: "Isaiah 53:3d — Men hide from being associated with Him"
-  slug: "isaiah-53-3-247"
-  ot_reference: "Isaiah 53:3d"
-  claim_summary: "Men hide from being associated with Him"
-  nt_fulfillment: "Mark 14:50-52"
+  ot_reference: "Isaiah 53:2-3"
+  claim_summary: "Unimpressive, despised, and rejected servant"
+  nt_fulfillment: "Phil 2:6-8; Matt 27:21-23"
   skeptic_failed_criteria: "2,3,4,5,6"
   status: "not started"
 
 - number: 248
-  title: "Isaiah 53:4a — He would have a healing ministry"
+  title: "Isaiah 53:4 — Bore griefs and was regarded as stricken"
   slug: "isaiah-53-4-248"
-  ot_reference: "Isaiah 53:4a"
-  claim_summary: "He would have a healing ministry"
-  nt_fulfillment: "Matt 8:16-17"
-  skeptic_failed_criteria: "2,3,4,5,6"
-  status: "not started"
-
-- number: 249
-  title: "Isaiah 53:4b — Thought to be cursed by God"
-  slug: "isaiah-53-4-249"
-  ot_reference: "Isaiah 53:4b"
-  claim_summary: "Thought to be cursed by God"
-  nt_fulfillment: "Matt 26:66; 27:41-43"
+  ot_reference: "Isaiah 53:4"
+  claim_summary: "Bore griefs and was regarded as stricken"
+  nt_fulfillment: "Matt 8:16-17; Matt 27:41-43"
   skeptic_failed_criteria: "2,3,4,5,6"
   status: "not started"
 
 - number: 250
-  title: "Isaiah 53:5a — Bears penalty for mankind's iniquities"
+  title: "Isaiah 53:5 — Wounded for transgressions and brings healing"
   slug: "isaiah-53-5-250"
-  ot_reference: "Isaiah 53:5a"
-  claim_summary: "Bears penalty for mankind's iniquities"
-  nt_fulfillment: "2 Cor 5:21; Heb 2:9"
-  skeptic_failed_criteria: "2,3,4,5,6"
-  status: "not started"
-
-- number: 251
-  title: "Isaiah 53:5b — His sacrifice provides peace between man and God"
-  slug: "isaiah-53-5-251"
-  ot_reference: "Isaiah 53:5b"
-  claim_summary: "His sacrifice provides peace between man and God"
-  nt_fulfillment: "Col 1:20"
-  skeptic_failed_criteria: "2,3,4,5,6"
-  status: "not started"
-
-- number: 252
-  title: "Isaiah 53:5c — His sacrifice would heal man of sin"
-  slug: "isaiah-53-5-252"
-  ot_reference: "Isaiah 53:5c"
-  claim_summary: "His sacrifice would heal man of sin"
-  nt_fulfillment: "1 Pet 2:24"
+  ot_reference: "Isaiah 53:5"
+  claim_summary: "Wounded for transgressions and brings healing"
+  nt_fulfillment: "2 Cor 5:21; Col 1:20; 1 Pet 2:24"
   skeptic_failed_criteria: "2,3,4,5,6"
   status: "not started"
 
 - number: 253
-  title: "Isaiah 53:6a — He would be the sin-bearer for all mankind"
+  title: "Isaiah 53:6 — The Lord laid on him the iniquity of us all"
   slug: "isaiah-53-6-253"
-  ot_reference: "Isaiah 53:6a"
-  claim_summary: "He would be the sin-bearer for all mankind"
-  nt_fulfillment: "1 John 2:2; 4:10"
-  skeptic_failed_criteria: "2,3,4,5,6"
-  status: "not started"
-
-- number: 254
-  title: "Isaiah 53:6b — God's will that He bear sin for all mankind"
-  slug: "isaiah-53-6-254"
-  ot_reference: "Isaiah 53:6b"
-  claim_summary: "God's will that He bear sin for all mankind"
-  nt_fulfillment: "Gal 1:4"
+  ot_reference: "Isaiah 53:6"
+  claim_summary: "The Lord laid on him the iniquity of us all"
+  nt_fulfillment: "1 John 2:2; Gal 1:4"
   skeptic_failed_criteria: "2,3,4,5,6"
   status: "not started"
 
 - number: 255
-  title: "Isaiah 53:7a — Oppressed and afflicted"
+  title: "Isaiah 53:7 — Oppressed, silent, and like a lamb"
   slug: "isaiah-53-7-255"
-  ot_reference: "Isaiah 53:7a"
-  claim_summary: "Oppressed and afflicted"
-  nt_fulfillment: "Matt 27:27-31"
-  skeptic_failed_criteria: "2,3,4,5,6"
-  status: "not started"
-
-- number: 256
-  title: "Isaiah 53:7b — Silent before his accusers"
-  slug: "isaiah-53-7-256"
-  ot_reference: "Isaiah 53:7b"
-  claim_summary: "Silent before his accusers"
-  nt_fulfillment: "Matt 27:12-14"
-  skeptic_failed_criteria: "2,3,4,5,6"
-  status: "not started"
-
-- number: 257
-  title: "Isaiah 53:7c — Sacrificial lamb"
-  slug: "isaiah-53-7-257"
-  ot_reference: "Isaiah 53:7c"
-  claim_summary: "Sacrificial lamb"
-  nt_fulfillment: "John 1:29; 1 Pet 1:18-19"
+  ot_reference: "Isaiah 53:7"
+  claim_summary: "Oppressed, silent, and like a lamb"
+  nt_fulfillment: "Matt 27:12-14; John 1:29; 1 Pet 1:18-19"
   skeptic_failed_criteria: "2,3,4,5,6"
   status: "not started"
 
 - number: 258
-  title: "Isaiah 53:8a — Confined and persecuted"
+  title: "Isaiah 53:8 — Cut off after judgment for others"
   slug: "isaiah-53-8-258"
-  ot_reference: "Isaiah 53:8a"
-  claim_summary: "Confined and persecuted"
-  nt_fulfillment: "Matt 26:47-27:31"
-  skeptic_failed_criteria: "2,3,4,5,6"
-  status: "not started"
-
-- number: 259
-  title: "Isaiah 53:8b — He would be judged"
-  slug: "isaiah-53-8-259"
-  ot_reference: "Isaiah 53:8b"
-  claim_summary: "He would be judged"
-  nt_fulfillment: "John 18:13-22"
-  skeptic_failed_criteria: "2,3,4,5,6"
-  status: "not started"
-
-- number: 260
-  title: "Isaiah 53:8c — Killed"
-  slug: "isaiah-53-8-260"
-  ot_reference: "Isaiah 53:8c"
-  claim_summary: "Killed"
-  nt_fulfillment: "Matt 27:35"
-  skeptic_failed_criteria: "2,3,4,5,6"
-  status: "not started"
-
-- number: 261
-  title: "Isaiah 53:8d — Dies for the sins of the world"
-  slug: "isaiah-53-8-261"
-  ot_reference: "Isaiah 53:8d"
-  claim_summary: "Dies for the sins of the world"
-  nt_fulfillment: "1 John 2:2"
+  ot_reference: "Isaiah 53:8"
+  claim_summary: "Cut off after judgment for others"
+  nt_fulfillment: "Matt 26:47-27:31; 1 John 2:2"
   skeptic_failed_criteria: "2,3,4,5,6"
   status: "not started"
 
 - number: 262
-  title: "Isaiah 53:9a — Buried in a rich man's grave"
+  title: "Isaiah 53:9 — Innocent, yet with the rich in his death"
   slug: "isaiah-53-9-262"
-  ot_reference: "Isaiah 53:9a"
-  claim_summary: "Buried in a rich man's grave"
-  nt_fulfillment: "Matt 27:57"
-  skeptic_failed_criteria: "2,3,4,5,6"
-  status: "not started"
-
-- number: 263
-  title: "Isaiah 53:9b — Innocent and had done no violence"
-  slug: "isaiah-53-9-263"
-  ot_reference: "Isaiah 53:9b"
-  claim_summary: "Innocent and had done no violence"
-  nt_fulfillment: "Luke 23:41; John 18:38"
-  skeptic_failed_criteria: "2,3,4,5,6"
-  status: "not started"
-
-- number: 264
-  title: "Isaiah 53:9c — No deceit in his mouth"
-  slug: "isaiah-53-9-264"
-  ot_reference: "Isaiah 53:9c"
-  claim_summary: "No deceit in his mouth"
-  nt_fulfillment: "1 Pet 2:22"
-  skeptic_failed_criteria: "2,3,4,5,6"
-  status: "not started"
-
-- number: 265
-  title: "Isaiah 53:10a — God's will that He die for mankind"
-  slug: "isaiah-53-10-265"
-  ot_reference: "Isaiah 53:10a"
-  claim_summary: "God's will that He die for mankind"
-  nt_fulfillment: "John 18:11"
+  ot_reference: "Isaiah 53:9"
+  claim_summary: "Innocent, yet with the rich in his death"
+  nt_fulfillment: "Matt 27:57; Luke 23:41; 1 Pet 2:22"
   skeptic_failed_criteria: "2,3,4,5,6"
   status: "not started"
 
 - number: 266
-  title: "Isaiah 53:10b — An offering for sin"
+  title: "Isaiah 53:10-11 — Guilt offering, vindication, and justification of many"
   slug: "isaiah-53-10-266"
-  ot_reference: "Isaiah 53:10b"
-  claim_summary: "An offering for sin"
-  nt_fulfillment: "Matt 20:28; Gal 3:13"
-  skeptic_failed_criteria: "2,4,5,6"
-  status: "not started"
-
-- number: 267
-  title: "Isaiah 53:10c — Resurrected and live forever"
-  slug: "isaiah-53-10-267"
-  ot_reference: "Isaiah 53:10c"
-  claim_summary: "Resurrected and live forever"
-  nt_fulfillment: "Rom 6:9"
-  skeptic_failed_criteria: "2,4,5,6"
-  status: "not started"
-
-- number: 268
-  title: "Isaiah 53:10d — He would prosper"
-  slug: "isaiah-53-10-268"
-  ot_reference: "Isaiah 53:10d"
-  claim_summary: "He would prosper"
-  nt_fulfillment: "John 17:1-5"
-  skeptic_failed_criteria: "2,3,4,5,6"
-  status: "not started"
-
-- number: 269
-  title: "Isaiah 53:11a — God fully satisfied with His suffering"
-  slug: "isaiah-53-11-269"
-  ot_reference: "Isaiah 53:11a"
-  claim_summary: "God fully satisfied with His suffering"
-  nt_fulfillment: "John 12:27"
-  skeptic_failed_criteria: "2,3,4,5,6"
-  status: "not started"
-
-- number: 270
-  title: "Isaiah 53:11b — God's servant would justify man"
-  slug: "isaiah-53-11-270"
-  ot_reference: "Isaiah 53:11b"
-  claim_summary: "God's servant would justify man"
-  nt_fulfillment: "Rom 5:8-9, 18-19"
-  skeptic_failed_criteria: "2,3,4,5,6"
-  status: "not started"
-
-- number: 271
-  title: "Isaiah 53:11c — The sin-bearer for all mankind"
-  slug: "isaiah-53-11-271"
-  ot_reference: "Isaiah 53:11c"
-  claim_summary: "The sin-bearer for all mankind"
-  nt_fulfillment: "Heb 9:28"
-  skeptic_failed_criteria: "2,3,4,5,6"
-  status: "not started"
-
-- number: 272
-  title: "Isaiah 53:12a — Exalted by God because of his sacrifice"
-  slug: "isaiah-53-12-272"
-  ot_reference: "Isaiah 53:12a"
-  claim_summary: "Exalted by God because of his sacrifice"
-  nt_fulfillment: "Matt 28:18"
-  skeptic_failed_criteria: "2,3,4,5,6"
-  status: "not started"
-
-- number: 273
-  title: "Isaiah 53:12b — He would give up his life to save mankind"
-  slug: "isaiah-53-12-273"
-  ot_reference: "Isaiah 53:12b"
-  claim_summary: "He would give up his life to save mankind"
-  nt_fulfillment: "Luke 23:46"
+  ot_reference: "Isaiah 53:10-11"
+  claim_summary: "Guilt offering, vindication, and justification of many"
+  nt_fulfillment: "Matt 20:28; Rom 5:18-19; Heb 9:28"
   skeptic_failed_criteria: "2,3,4,5,6"
   status: "not started"
 
 - number: 274
-  title: "Isaiah 53:12c — Numbered with the transgressors"
+  title: "Isaiah 53:12 — Numbered with transgressors, bore sin, and interceded"
   slug: "isaiah-53-12-274"
-  ot_reference: "Isaiah 53:12c"
-  claim_summary: "Numbered with the transgressors"
-  nt_fulfillment: "Mark 15:27-28"
-  skeptic_failed_criteria: "2,3,4,5,6"
-  status: "not started"
-
-- number: 275
-  title: "Isaiah 53:12d — Sin-bearer for all mankind"
-  slug: "isaiah-53-12-275"
-  ot_reference: "Isaiah 53:12d"
-  claim_summary: "Sin-bearer for all mankind"
-  nt_fulfillment: "1 Pet 2:24"
-  skeptic_failed_criteria: "2,3,4,5,6"
-  status: "not started"
-
-- number: 276
-  title: "Isaiah 53:12e — Intercede to God in behalf of mankind"
-  slug: "isaiah-53-12-276"
-  ot_reference: "Isaiah 53:12e"
-  claim_summary: "Intercede to God in behalf of mankind"
-  nt_fulfillment: "Luke 23:34; Rom 8:34"
+  ot_reference: "Isaiah 53:12"
+  claim_summary: "Numbered with transgressors, bore sin, and interceded"
+  nt_fulfillment: "Mark 15:27-28; Luke 23:34; Rom 8:34"
   skeptic_failed_criteria: "2,3,4,5,6"
   status: "not started"
 
@@ -2699,56 +2375,29 @@
   status: "in progress"
 
 - number: 301
-  title: "Daniel 9:24a — To make reconciliation for iniquity"
+  title: "Daniel 9:24 — Redemptive goals of the seventy weeks"
   slug: "daniel-9-24-301"
-  ot_reference: "Daniel 9:24a"
-  claim_summary: "To make reconciliation for iniquity"
+  ot_reference: "Daniel 9:24"
+  claim_summary: "Redemptive goals of the seventy weeks"
   nt_fulfillment: "Rom 5:10; 2 Cor 5:18-21"
   skeptic_failed_criteria: "2,3,4,5,6"
   status: "not started"
 
-- number: 302
-  title: "Daniel 9:24b — He would be holy"
-  slug: "daniel-9-24-302"
-  ot_reference: "Daniel 9:24b"
-  claim_summary: "He would be holy"
-  nt_fulfillment: "Luke 1:35"
-  skeptic_failed_criteria: "2,3,4,5,6"
-  status: "not started"
-
 - number: 303
-  title: "Daniel 9:25 — His announcement"
+  title: "Daniel 9:25 — Timed arrival of an anointed figure"
   slug: "daniel-9-25-303"
   ot_reference: "Daniel 9:25"
-  claim_summary: "His announcement"
+  claim_summary: "Timed arrival of an anointed figure"
   nt_fulfillment: "John 12:12-13"
   skeptic_failed_criteria: "2,3,4,5,6"
   status: "not started"
 
 - number: 304
-  title: "Daniel 9:26a — Cut off"
+  title: "Daniel 9:26 — Anointed one cut off before Jerusalem's devastation"
   slug: "daniel-9-26-304"
-  ot_reference: "Daniel 9:26a"
-  claim_summary: "Cut off"
-  nt_fulfillment: "Matt 16:21; 21:38-39"
-  skeptic_failed_criteria: "2,3,4,5,6"
-  status: "not started"
-
-- number: 305
-  title: "Daniel 9:26b — Die for the sins of the world"
-  slug: "daniel-9-26-305"
-  ot_reference: "Daniel 9:26b"
-  claim_summary: "Die for the sins of the world"
-  nt_fulfillment: "Heb 2:9"
-  skeptic_failed_criteria: "2,3,4,5,6"
-  status: "not started"
-
-- number: 306
-  title: "Daniel 9:26c — Killed before the destruction of the temple"
-  slug: "daniel-9-26-306"
-  ot_reference: "Daniel 9:26c"
-  claim_summary: "Killed before the destruction of the temple"
-  nt_fulfillment: "Matt 27:50-51"
+  ot_reference: "Daniel 9:26"
+  claim_summary: "Anointed one cut off before Jerusalem's devastation"
+  nt_fulfillment: "Matt 16:21; Mark 13:1-2"
   skeptic_failed_criteria: "2,3,4,5,6"
   status: "not started"
 
@@ -2933,110 +2582,20 @@
   status: "in progress"
 
 - number: 327
-  title: "Zechariah 11:4-6b — Rejection causes God to remove His protection"
+  title: "Zechariah 11:4-11 — Rejected shepherd and withdrawal of protection"
   slug: "zechariah-11-4-6-327"
-  ot_reference: "Zechariah 11:4-6b"
-  claim_summary: "Rejection causes God to remove His protection"
-  nt_fulfillment: "Luke 19:41-44"
-  skeptic_failed_criteria: "2,3,4,5,6"
-  status: "not started"
-
-- number: 328
-  title: "Zechariah 11:4-6c — Rejected in favor of another king"
-  slug: "zechariah-11-4-6-328"
-  ot_reference: "Zechariah 11:4-6c"
-  claim_summary: "Rejected in favor of another king"
-  nt_fulfillment: "John 19:13-15"
-  skeptic_failed_criteria: "2,3,4,5,6"
-  status: "not started"
-
-- number: 329
-  title: "Zechariah 11:7 — Ministry to \"poor,\" the believing remnant"
-  slug: "zechariah-11-7-329"
-  ot_reference: "Zechariah 11:7"
-  claim_summary: "Ministry to \"poor,\" the believing remnant"
-  nt_fulfillment: "Matt 9:35-36"
-  skeptic_failed_criteria: "2,3,4,5,6"
-  status: "not started"
-
-- number: 330
-  title: "Zechariah 11:8a — Unbelief forces Messiah to reject them"
-  slug: "zechariah-11-8-330"
-  ot_reference: "Zechariah 11:8a"
-  claim_summary: "Unbelief forces Messiah to reject them"
-  nt_fulfillment: "Matt 23:33"
-  skeptic_failed_criteria: "2,3,4,5,6"
-  status: "not started"
-
-- number: 331
-  title: "Zechariah 11:8b — Despised"
-  slug: "zechariah-11-8-331"
-  ot_reference: "Zechariah 11:8b"
-  claim_summary: "Despised"
-  nt_fulfillment: "Matt 27:20"
-  skeptic_failed_criteria: "2,3,4,5,6"
-  status: "not started"
-
-- number: 332
-  title: "Zechariah 11:9 — Stops ministering to those who rejected Him"
-  slug: "zechariah-11-9-332"
-  ot_reference: "Zechariah 11:9"
-  claim_summary: "Stops ministering to those who rejected Him"
-  nt_fulfillment: "Matt 13:10-11"
-  skeptic_failed_criteria: "2,3,4,5,6"
-  status: "not started"
-
-- number: 333
-  title: "Zechariah 11:10-11a — Rejection causes God to remove protection"
-  slug: "zechariah-11-10-11-333"
-  ot_reference: "Zechariah 11:10-11a"
-  claim_summary: "Rejection causes God to remove protection"
-  nt_fulfillment: "Luke 19:41-44"
-  skeptic_failed_criteria: "2,3,4,5,6"
-  status: "not started"
-
-- number: 334
-  title: "Zechariah 11:10-11b — The Messiah would be God"
-  slug: "zechariah-11-10-11-334"
-  ot_reference: "Zechariah 11:10-11b"
-  claim_summary: "The Messiah would be God"
-  nt_fulfillment: "John 14:7"
+  ot_reference: "Zechariah 11:4-11"
+  claim_summary: "Rejected shepherd and withdrawal of protection"
+  nt_fulfillment: "Luke 19:41-44; John 19:13-15"
   skeptic_failed_criteria: "2,3,4,5,6"
   status: "not started"
 
 - number: 335
-  title: "Zechariah 11:12-13a — Betrayed for thirty pieces of silver"
+  title: "Zechariah 11:12-13 — Thirty pieces of silver in the house of the Lord"
   slug: "zechariah-11-12-13-335"
-  ot_reference: "Zechariah 11:12-13a"
-  claim_summary: "Betrayed for thirty pieces of silver"
-  nt_fulfillment: "Matt 26:14-15"
-  skeptic_failed_criteria: "2,3,4,5,6"
-  status: "not started"
-
-- number: 336
-  title: "Zechariah 11:12-13b — Rejected"
-  slug: "zechariah-11-12-13-336"
-  ot_reference: "Zechariah 11:12-13b"
-  claim_summary: "Rejected"
-  nt_fulfillment: "Matt 26:14-15"
-  skeptic_failed_criteria: "2,3,4,5,6"
-  status: "not started"
-
-- number: 337
-  title: "Zechariah 11:12-13c — Thirty pieces of silver cast in the house of the Lord"
-  slug: "zechariah-11-12-13-337"
-  ot_reference: "Zechariah 11:12-13c"
-  claim_summary: "Thirty pieces of silver cast in the house of the Lord"
-  nt_fulfillment: "Matt 27:3-5"
-  skeptic_failed_criteria: "2,3,4,5,6"
-  status: "not started"
-
-- number: 338
-  title: "Zechariah 11:12-13d — The Messiah would be God"
-  slug: "zechariah-11-12-13-338"
-  ot_reference: "Zechariah 11:12-13d"
-  claim_summary: "The Messiah would be God"
-  nt_fulfillment: "John 12:45"
+  ot_reference: "Zechariah 11:12-13"
+  claim_summary: "Thirty pieces of silver, rejected shepherd, and temple disposal"
+  nt_fulfillment: "Matt 26:14-15; Matt 27:3-10"
   skeptic_failed_criteria: "2,3,4,5,6"
   status: "not started"
 
