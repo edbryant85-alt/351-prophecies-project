@@ -8,9 +8,9 @@
 ## Counts by Stage
 | Stage    | Count |
 | -------- | ----- |
-| complete | 20    |
+| complete | 21    |
 | focus    | 272   |
-| validate | 11    |
+| validate | 10    |
 
 ## Counts by Status
 | Status            | Count |
@@ -27,6 +27,7 @@
 | Moderate   | 24    |
 
 ## Recently Updated Items
+- `isaiah-7-14-171`: stage `complete`, status `Reviewed Analysis`, last run `2026-04-23`
 - `isaiah-53-9-262`: stage `complete`, status `Reviewed Analysis`, last run `2026-04-23`
 - `isaiah-53-8-258`: stage `complete`, status `Reviewed Analysis`, last run `2026-04-23`
 - `isaiah-53-7-255`: stage `complete`, status `Reviewed Analysis`, last run `2026-04-23`
@@ -36,13 +37,11 @@
 - `isaiah-53-2-243`: stage `complete`, status `Reviewed Analysis`, last run `2026-04-23`
 - `isaiah-53-12-274`: stage `complete`, status `Reviewed Analysis`, last run `2026-04-23`
 - `isaiah-53-10-266`: stage `complete`, status `Reviewed Analysis`, last run `2026-04-23`
-- `genesis-3-15-2`: stage `complete`, status `Reviewed Analysis`, last run `2026-04-23`
 
 ## Blocked Items
 - None
 
 ## Next Recommended Work Items
-- `isaiah-7-14-171`: stage `validate`, status `Reviewed Analysis`, confidence `Moderate`, score `710`
 - `micah-5-2-313`: stage `validate`, status `Reviewed Analysis`, confidence `Moderate`, score `710`
 - `micah-5-2-314`: stage `validate`, status `Reviewed Analysis`, confidence `Moderate`, score `710`
 - `psalm-22-1-75`: stage `validate`, status `Reviewed Analysis`, confidence `Moderate`, score `710`
@@ -52,4 +51,5 @@
 - `psalm-22-22-89`: stage `validate`, status `Reviewed Analysis`, confidence `Moderate`, score `710`
 - `psalm-22-7-77`: stage `validate`, status `Reviewed Analysis`, confidence `Moderate`, score `710`
 - `zechariah-11-12-13-335`: stage `validate`, status `Reviewed Analysis`, confidence `Moderate`, score `710`
+- `zechariah-11-4-6-327`: stage `validate`, status `Reviewed Analysis`, confidence `Moderate`, score `710`
 

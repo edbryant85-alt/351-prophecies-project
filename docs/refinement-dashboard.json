@@ -1,9 +1,9 @@
 {
   "generated_on": "2026-04-23",
   "counts_by_stage": {
-    "complete": 20,
+    "complete": 21,
     "focus": 272,
-    "validate": 11
+    "validate": 10
   },
   "counts_by_status": {
     "Draft Analysis": 272,
@@ -24,6 +24,13 @@
     "total": 7
   },
   "recently_updated_items": [
+    {
+      "id": "isaiah-7-14-171",
+      "stage": "complete",
+      "status": "Reviewed Analysis",
+      "last_run": "2026-04-23",
+      "notes": "Reviewed supporting claim page inside a flagship cluster; use validate/status passes to remove placeholders and keep it aligned with the overview.\n2026-04-23: Validate pass completed and pushed"
+    },
     {
       "id": "isaiah-53-9-262",
       "stage": "complete",
@@ -86,30 +93,10 @@
       "status": "Reviewed Analysis",
       "last_run": "2026-04-23",
       "notes": "Reviewed supporting claim page inside a flagship cluster; use validate/status passes to remove placeholders and keep it aligned with the overview.\n2026-04-23: Validate pass completed and pushed"
-    },
-    {
-      "id": "genesis-3-15-2",
-      "stage": "complete",
-      "status": "Reviewed Analysis",
-      "last_run": "2026-04-23",
-      "notes": "Reviewed supporting claim page inside a flagship cluster; use validate/status passes to remove placeholders and keep it aligned with the overview.\n2026-04-23: Validate pass completed and pushed"
     }
   ],
   "blocked_items": [],
   "next_recommended_items": [
-    {
-      "id": "isaiah-7-14-171",
-      "stage": "validate",
-      "status": "Reviewed Analysis",
-      "confidence": "Moderate",
-      "score": 710,
-      "reasons": [
-        "base priority 80",
-        "status Reviewed Analysis",
-        "type claim",
-        "stage validate"
-      ]
-    },
     {
       "id": "micah-5-2-313",
       "stage": "validate",
@@ -216,6 +203,19 @@
     },
     {
       "id": "zechariah-11-12-13-335",
+      "stage": "validate",
+      "status": "Reviewed Analysis",
+      "confidence": "Moderate",
+      "score": 710,
+      "reasons": [
+        "base priority 80",
+        "status Reviewed Analysis",
+        "type claim",
+        "stage validate"
+      ]
+    },
+    {
+      "id": "zechariah-11-4-6-327",
       "stage": "validate",
       "status": "Reviewed Analysis",
       "confidence": "Moderate",
