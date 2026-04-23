@@ -130,6 +130,41 @@ Optional quality-of-life flags:
 - `--open`: print a shell command for opening `prompts/current-task.md`
 - `--history`: list recent workflow updates
 
+## Simple Session Workflow
+
+`scripts/run_session.py` is the simplified session wrapper for non-technical use. It hides the queue mechanics and writes one combined prompt file for the session.
+
+Intended usage:
+
+1. Run `python scripts/run_session.py`
+2. Paste `prompts/session-task.md` into Codex Agent
+3. Review the final summary after Codex works through the queued tasks
+
+Default behavior:
+
+- queues the next 3 tasks
+- prefers beta-visible work first when eligible
+- otherwise falls back to the strongest reviewed items
+- writes one combined prompt to `prompts/session-task.md`
+
+Optional flags:
+
+```bash
+python scripts/run_session.py
+python scripts/run_session.py --limit 3
+python scripts/run_session.py --flagship-only
+python scripts/run_session.py --beta-visible-only
+```
+
+The session prompt tells Codex to:
+
+- complete the queued tasks in order
+- commit and push after each successful task
+- stop and report if anything is blocked
+- summarize all completed work at the end
+
+The underlying FS3 scripts still exist, but in this mode they are treated as internal machinery.
+
 ## Example Cluster Flow
 
 One cluster example using `isaiah-53`:

@@ -7,5 +7,6 @@ dist/
 __pycache__/
 *.pyc
 prompts/current-task.md
+prompts/session-task.md
 prompts/history/
 prompts/batch/
