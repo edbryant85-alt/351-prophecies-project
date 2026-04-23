@@ -1,9 +1,9 @@
 {
   "generated_on": "2026-04-23",
   "counts_by_stage": {
-    "complete": 16,
+    "complete": 17,
     "focus": 272,
-    "validate": 15
+    "validate": 14
   },
   "counts_by_status": {
     "Draft Analysis": 272,
@@ -24,6 +24,13 @@
     "total": 7
   },
   "recently_updated_items": [
+    {
+      "id": "isaiah-53-6-253",
+      "stage": "complete",
+      "status": "Reviewed Analysis",
+      "last_run": "2026-04-23",
+      "notes": "Reviewed supporting claim page inside a flagship cluster; use validate/status passes to remove placeholders and keep it aligned with the overview.\n2026-04-23: Validate pass completed and pushed"
+    },
     {
       "id": "isaiah-53-5-250",
       "stage": "complete",
@@ -86,30 +93,10 @@
       "status": "Reviewed Analysis",
       "last_run": "2026-04-23",
       "notes": "Reviewed supporting claim page inside a flagship cluster; use validate/status passes to remove placeholders and keep it aligned with the overview.\n2026-04-23: Validate pass completed and pushed\n2026-04-23: Validate pass completed and pushed\n2026-04-23: Validate pass completed and pushed\n2026-04-23: Validate pass completed and pushed\n2026-04-23: Validate pass completed and pushed"
-    },
-    {
-      "id": "zechariah-11-4-6-327",
-      "stage": "validate",
-      "status": "Reviewed Analysis",
-      "last_run": "2026-04-22",
-      "notes": "Reviewed supporting claim page inside a flagship cluster; use validate/status passes to remove placeholders and keep it aligned with the overview."
     }
   ],
   "blocked_items": [],
   "next_recommended_items": [
-    {
-      "id": "isaiah-53-6-253",
-      "stage": "validate",
-      "status": "Reviewed Analysis",
-      "confidence": "Moderate",
-      "score": 710,
-      "reasons": [
-        "base priority 80",
-        "status Reviewed Analysis",
-        "type claim",
-        "stage validate"
-      ]
-    },
     {
       "id": "isaiah-53-7-255",
       "stage": "validate",
@@ -216,6 +203,19 @@
     },
     {
       "id": "psalm-22-16-84",
+      "stage": "validate",
+      "status": "Reviewed Analysis",
+      "confidence": "Moderate",
+      "score": 710,
+      "reasons": [
+        "base priority 80",
+        "status Reviewed Analysis",
+        "type claim",
+        "stage validate"
+      ]
+    },
+    {
+      "id": "psalm-22-17-18-85",
       "stage": "validate",
       "status": "Reviewed Analysis",
       "confidence": "Moderate",
