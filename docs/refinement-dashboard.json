@@ -1,9 +1,9 @@
 {
   "generated_on": "2026-04-23",
   "counts_by_stage": {
-    "complete": 13,
+    "complete": 14,
     "focus": 272,
-    "validate": 18
+    "validate": 17
   },
   "counts_by_status": {
     "Draft Analysis": 272,
@@ -24,6 +24,13 @@
     "total": 7
   },
   "recently_updated_items": [
+    {
+      "id": "isaiah-53-2-243",
+      "stage": "complete",
+      "status": "Reviewed Analysis",
+      "last_run": "2026-04-23",
+      "notes": "Reviewed supporting claim page inside a flagship cluster; use validate/status passes to remove placeholders and keep it aligned with the overview.\n2026-04-23: Validate pass completed and pushed"
+    },
     {
       "id": "isaiah-53-12-274",
       "stage": "complete",
@@ -86,30 +93,10 @@
       "status": "Flagship Analysis",
       "last_run": "2026-04-22",
       "notes": "Seeded from the existing shareable-preview cluster and reviewed supporting pages."
-    },
-    {
-      "id": "psalm-22-7-77",
-      "stage": "validate",
-      "status": "Reviewed Analysis",
-      "last_run": "2026-04-22",
-      "notes": "Reviewed supporting claim page inside a flagship cluster; use validate/status passes to remove placeholders and keep it aligned with the overview."
     }
   ],
   "blocked_items": [],
   "next_recommended_items": [
-    {
-      "id": "isaiah-53-2-243",
-      "stage": "validate",
-      "status": "Reviewed Analysis",
-      "confidence": "Moderate",
-      "score": 710,
-      "reasons": [
-        "base priority 80",
-        "status Reviewed Analysis",
-        "type claim",
-        "stage validate"
-      ]
-    },
     {
       "id": "isaiah-53-4-248",
       "stage": "validate",
@@ -216,6 +203,19 @@
     },
     {
       "id": "micah-5-2-314",
+      "stage": "validate",
+      "status": "Reviewed Analysis",
+      "confidence": "Moderate",
+      "score": 710,
+      "reasons": [
+        "base priority 80",
+        "status Reviewed Analysis",
+        "type claim",
+        "stage validate"
+      ]
+    },
+    {
+      "id": "psalm-22-1-75",
       "stage": "validate",
       "status": "Reviewed Analysis",
       "confidence": "Moderate",
