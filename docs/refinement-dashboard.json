@@ -1,9 +1,9 @@
 {
   "generated_on": "2026-04-23",
   "counts_by_stage": {
-    "complete": 10,
+    "complete": 11,
     "focus": 272,
-    "validate": 21
+    "validate": 20
   },
   "counts_by_status": {
     "Draft Analysis": 272,
@@ -25,6 +25,13 @@
   },
   "recently_updated_items": [
     {
+      "id": "genesis-3-15-2",
+      "stage": "complete",
+      "status": "Reviewed Analysis",
+      "last_run": "2026-04-23",
+      "notes": "Reviewed supporting claim page inside a flagship cluster; use validate/status passes to remove placeholders and keep it aligned with the overview.\n2026-04-23: Validate pass completed and pushed"
+    },
+    {
       "id": "daniel-9-26-304",
       "stage": "complete",
       "status": "Reviewed Analysis",
@@ -43,7 +50,7 @@
       "stage": "complete",
       "status": "Reviewed Analysis",
       "last_run": "2026-04-23",
-      "notes": "Reviewed supporting claim page inside a flagship cluster; use validate/status passes to remove placeholders and keep it aligned with the overview.\n2026-04-23: Validate pass completed and pushed\n2026-04-23: Validate pass completed and pushed\n2026-04-23: Validate pass completed and pushed\n2026-04-23: Validate pass completed and pushed"
+      "notes": "Reviewed supporting claim page inside a flagship cluster; use validate/status passes to remove placeholders and keep it aligned with the overview.\n2026-04-23: Validate pass completed and pushed\n2026-04-23: Validate pass completed and pushed\n2026-04-23: Validate pass completed and pushed\n2026-04-23: Validate pass completed and pushed\n2026-04-23: Validate pass completed and pushed"
     },
     {
       "id": "zechariah-11-4-6-327",
@@ -86,30 +93,10 @@
       "status": "Reviewed Analysis",
       "last_run": "2026-04-22",
       "notes": "Reviewed supporting claim page inside a flagship cluster; use validate/status passes to remove placeholders and keep it aligned with the overview."
-    },
-    {
-      "id": "psalm-22-16-84",
-      "stage": "validate",
-      "status": "Reviewed Analysis",
-      "last_run": "2026-04-22",
-      "notes": "Reviewed supporting claim page inside a flagship cluster; use validate/status passes to remove placeholders and keep it aligned with the overview."
     }
   ],
   "blocked_items": [],
   "next_recommended_items": [
-    {
-      "id": "genesis-3-15-2",
-      "stage": "validate",
-      "status": "Reviewed Analysis",
-      "confidence": "Moderate",
-      "score": 710,
-      "reasons": [
-        "base priority 80",
-        "status Reviewed Analysis",
-        "type claim",
-        "stage validate"
-      ]
-    },
     {
       "id": "isaiah-53-10-266",
       "stage": "validate",
@@ -216,6 +203,19 @@
     },
     {
       "id": "isaiah-53-9-262",
+      "stage": "validate",
+      "status": "Reviewed Analysis",
+      "confidence": "Moderate",
+      "score": 710,
+      "reasons": [
+        "base priority 80",
+        "status Reviewed Analysis",
+        "type claim",
+        "stage validate"
+      ]
+    },
+    {
+      "id": "isaiah-7-14-171",
       "stage": "validate",
       "status": "Reviewed Analysis",
       "confidence": "Moderate",

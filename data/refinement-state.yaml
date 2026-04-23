@@ -243,6 +243,8 @@ pages:
 
       2026-04-23: Validate pass completed and pushed
 
+      2026-04-23: Validate pass completed and pushed
+
       2026-04-23: Validate pass completed and pushed'
     public_beta_visible: false
   daniel-9-25-303:
@@ -652,16 +654,18 @@ pages:
     type: claim
     files:
     - content/prophecies/genesis-3-15-2.md
-    stage: validate
+    stage: complete
     status: Reviewed Analysis
     confidence: Moderate
     priority: 80
     dependencies:
     - genesis-3-15
-    last_run: '2026-04-22'
-    last_result: seeded
-    notes: Reviewed supporting claim page inside a flagship cluster; use validate/status
+    last_run: '2026-04-23'
+    last_result: success
+    notes: 'Reviewed supporting claim page inside a flagship cluster; use validate/status
       passes to remove placeholders and keep it aligned with the overview.
+
+      2026-04-23: Validate pass completed and pushed'
     public_beta_visible: false
   genesis-49-10-16:
     type: claim
