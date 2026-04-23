@@ -147,6 +147,16 @@ def render_dashboard_markdown(payload: dict) -> str:
     )
 
 
+def write_dashboard_outputs(payload: dict) -> tuple[Path, Path]:
+    """Write dashboard markdown and JSON outputs."""
+
+    markdown = render_dashboard_markdown(payload)
+    MARKDOWN_OUTPUT.parent.mkdir(parents=True, exist_ok=True)
+    atomic_write_text(MARKDOWN_OUTPUT, markdown + "\n")
+    json_dump(JSON_OUTPUT, payload)
+    return MARKDOWN_OUTPUT, JSON_OUTPUT
+
+
 def main() -> int:
     """Run the CLI."""
 
@@ -154,12 +164,9 @@ def main() -> int:
     parser.parse_args()
     try:
         payload = build_dashboard_payload()
-        markdown = render_dashboard_markdown(payload)
-        MARKDOWN_OUTPUT.parent.mkdir(parents=True, exist_ok=True)
-        atomic_write_text(MARKDOWN_OUTPUT, markdown + "\n")
-        json_dump(JSON_OUTPUT, payload)
-        print(MARKDOWN_OUTPUT)
-        print(JSON_OUTPUT)
+        markdown_path, json_path = write_dashboard_outputs(payload)
+        print(markdown_path)
+        print(json_path)
         return 0
     except Exception as exc:  # pragma: no cover - CLI safety
         print(f"ERROR: {exc}", file=sys.stderr)

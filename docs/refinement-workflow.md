@@ -91,6 +91,45 @@ python scripts/check_links.py
 python scripts/check_placeholders.py
 ```
 
+## One-Command Operator Mode
+
+`scripts/run_next_task.py` is the operator-facing wrapper for the FS3 workflow. It sits on top of the existing state, prompt, advancement, dashboard, and validation tooling so you can keep the loop moving with one command at a time.
+
+Common operator flow:
+
+1. Ask for the next task and auto-generate the prompt.
+2. Do the editorial pass in Codex using `prompts/current-task.md`.
+3. Mark the task complete with a result and short note.
+4. Let the operator command rebuild the dashboard for you.
+
+Example operator commands:
+
+```bash
+python scripts/run_next_task.py --next
+python scripts/run_next_task.py --next --flagship-only
+python scripts/run_next_task.py --page psalm-97-9-143
+python scripts/run_next_task.py --cluster isaiah-53
+python scripts/run_next_task.py --complete isaiah-53 --result success --notes "Sync pass completed and pushed"
+python scripts/run_next_task.py --report
+python scripts/run_next_task.py --validate
+python scripts/run_next_task.py --history
+```
+
+When task selection succeeds, the operator command:
+
+- selects the next item from `data/refinement-state.yaml` or uses your manual target
+- reads the current stage from state
+- generates the correct stage prompt
+- writes `prompts/current-task.md`
+- also writes `prompts/history/<target>-<stage>.md`
+- prints the exact completion command to run afterward
+
+Optional quality-of-life flags:
+
+- `--stdout`: print the prompt instead of writing prompt files
+- `--open`: print a shell command for opening `prompts/current-task.md`
+- `--history`: list recent workflow updates
+
 ## Example Cluster Flow
 
 One cluster example using `isaiah-53`:
@@ -108,10 +147,17 @@ python scripts/build_dashboard.py
 
 If state becomes inconsistent:
 
-1. Run `python scripts/refinement_runner.py --validate`.
+1. Run `python scripts/run_next_task.py --validate` or `python scripts/refinement_runner.py --validate`.
 2. Fix the flagged YAML entry manually in `data/refinement-state.yaml`.
 3. Re-run validation.
 4. If the seed data needs to be rebuilt from current repo metadata, run `python scripts/refinement_runner.py --bootstrap`.
+
+If prompt generation fails:
+
+1. Confirm the page or cluster id exists in `data/refinement-state.yaml`.
+2. Confirm the current stage is not already `complete`.
+3. Re-run `python scripts/run_next_task.py --validate`.
+4. Inspect the referenced prompt template under `prompts/templates/`.
 
 The validation checks catch:
 
@@ -149,6 +195,13 @@ python scripts/advance_state.py --page zechariah-11 --result blocked --notes "Ne
 ```
 
 Blocked items stay on their current stage and are skipped by automatic queue selection until the result is changed later.
+
+Operator result meanings:
+
+- `success`: the current stage is complete and the item advances to the next legal stage
+- `partial`: work was useful but the current stage still needs another pass, so the stage stays where it is
+- `blocked`: the item cannot safely advance without human input, source work, or a structural decision
+- `failed`: the pass did not land cleanly and should be retried without advancing the stage
 
 ## Beta-Visible Priorities
 

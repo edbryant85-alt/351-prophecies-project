@@ -14,8 +14,8 @@ from refinement_lib import (
 SCAN_DIRS = [ROOT / "content", ROOT / "docs", ROOT / "notes"]
 
 
-def main() -> int:
-    """Run the CLI."""
+def find_broken_links() -> list[str]:
+    """Return local markdown link issues."""
 
     issues: list[str] = []
     for scan_dir in SCAN_DIRS:
@@ -27,6 +27,13 @@ def main() -> int:
                 resolved = resolve_local_link(path, target)
                 if not resolved.exists():
                     issues.append(f"{path.relative_to(ROOT)} -> missing target: {target}")
+    return issues
+
+
+def main() -> int:
+    """Run the CLI."""
+
+    issues = find_broken_links()
     if issues:
         print("\n".join(issues), file=sys.stderr)
         return 1

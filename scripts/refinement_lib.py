@@ -48,6 +48,11 @@ STYLE_CONSTRAINTS = [
     "Use the six project criteria selectively, focusing on the ones that materially matter.",
     "Keep conclusions brief, balanced, and explicit about predictive strength and limitations.",
 ]
+TYPE_SORT_RANK = {
+    "cluster": 0,
+    "overview": 1,
+    "claim": 2,
+}
 
 
 class RefinementError(Exception):
@@ -404,6 +409,7 @@ def list_candidates(
             -candidate.score,
             candidate.item["priority"] * -1,
             parse_iso_date(candidate.item.get("last_run")) or date.min,
+            TYPE_SORT_RANK.get(candidate.item["type"], 99),
             candidate.item_id,
         )
     )

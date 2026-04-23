@@ -12,12 +12,9 @@ from refinement_lib import PLACEHOLDER_PHRASES, ROOT, read_text
 SCAN_DIRS = [ROOT / "content", ROOT / "docs", ROOT / "notes"]
 
 
-def main() -> int:
-    """Run the CLI."""
+def scan_placeholder_hits() -> list[str]:
+    """Return placeholder-language hits."""
 
-    parser = argparse.ArgumentParser(description=__doc__)
-    parser.add_argument("--limit", type=int, default=100, help="Maximum matches to print.")
-    args = parser.parse_args()
     hits: list[str] = []
     for scan_dir in SCAN_DIRS:
         for path in sorted(scan_dir.rglob("*.md")):
@@ -26,6 +23,16 @@ def main() -> int:
                 if phrase in text:
                     hits.append(f"{path.relative_to(ROOT)}: {phrase}")
                     break
+    return hits
+
+
+def main() -> int:
+    """Run the CLI."""
+
+    parser = argparse.ArgumentParser(description=__doc__)
+    parser.add_argument("--limit", type=int, default=100, help="Maximum matches to print.")
+    args = parser.parse_args()
+    hits = scan_placeholder_hits()
     if not hits:
         print("No placeholder phrases detected.")
         return 0
