@@ -1,0 +1,4084 @@
+meta:
+  workflow: FS3
+  generated_on: '2026-04-23'
+  stage_config: config/refinement-stages.yaml
+  priority_config: config/refinement-priorities.yaml
+  notes: Seeded from current repository page metadata and preview coverage.
+pages:
+  1-chronicles-17-11-54:
+    type: claim
+    files:
+    - content/prophecies/1-chronicles-17-11-54.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  1-chronicles-17-12-13-55:
+    type: claim
+    files:
+    - content/prophecies/1-chronicles-17-12-13-55.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  1-chronicles-17-13-56:
+    type: claim
+    files:
+    - content/prophecies/1-chronicles-17-13-56.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  1-samuel-2-10-48:
+    type: claim
+    files:
+    - content/prophecies/1-samuel-2-10-48.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  1-samuel-2-35-47:
+    type: claim
+    files:
+    - content/prophecies/1-samuel-2-35-47.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  2-kings-2-11-53:
+    type: claim
+    files:
+    - content/prophecies/2-kings-2-11-53.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  2-samuel-7:
+    type: overview
+    files:
+    - content/prophecies/2-samuel-7.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 60
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  2-samuel-7-13-50:
+    type: claim
+    files:
+    - content/prophecies/2-samuel-7-13-50.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies:
+    - 2-samuel-7
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  2-samuel-7-14-51:
+    type: claim
+    files:
+    - content/prophecies/2-samuel-7-14-51.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies:
+    - 2-samuel-7
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  2-samuel-7-16-52:
+    type: claim
+    files:
+    - content/prophecies/2-samuel-7-16-52.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies:
+    - 2-samuel-7
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  daniel-10-5-6-307:
+    type: claim
+    files:
+    - content/prophecies/daniel-10-5-6-307.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  daniel-2-44-45-296:
+    type: claim
+    files:
+    - content/prophecies/daniel-2-44-45-296.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  daniel-7:
+    type: overview
+    files:
+    - content/prophecies/daniel-7.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 60
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  daniel-7-13-14-298:
+    type: claim
+    files:
+    - content/prophecies/daniel-7-13-14-298.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies:
+    - daniel-7
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  daniel-7-13-14-299:
+    type: claim
+    files:
+    - content/prophecies/daniel-7-13-14-299.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies:
+    - daniel-7
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  daniel-9:
+    type: cluster
+    files:
+    - content/prophecies/daniel-9.md
+    - content/prophecies/daniel-9-24-301.md
+    - content/prophecies/daniel-9-25-303.md
+    - content/prophecies/daniel-9-26-304.md
+    stage: complete
+    status: Flagship Analysis
+    confidence: High
+    priority: 100
+    dependencies: []
+    last_run: '2026-04-22'
+    last_result: success
+    notes: Seeded from the existing shareable-preview cluster and reviewed supporting
+      pages.
+    public_beta_visible: true
+  daniel-9-24-301:
+    type: claim
+    files:
+    - content/prophecies/daniel-9-24-301.md
+    stage: validate
+    status: Reviewed Analysis
+    confidence: Moderate
+    priority: 80
+    dependencies:
+    - daniel-9
+    last_run: '2026-04-22'
+    last_result: seeded
+    notes: Reviewed supporting claim page inside a flagship cluster; use validate/status
+      passes to remove placeholders and keep it aligned with the overview.
+    public_beta_visible: false
+  daniel-9-25-303:
+    type: claim
+    files:
+    - content/prophecies/daniel-9-25-303.md
+    stage: validate
+    status: Reviewed Analysis
+    confidence: Moderate
+    priority: 80
+    dependencies:
+    - daniel-9
+    last_run: '2026-04-22'
+    last_result: seeded
+    notes: Reviewed supporting claim page inside a flagship cluster; use validate/status
+      passes to remove placeholders and keep it aligned with the overview.
+    public_beta_visible: false
+  daniel-9-26-304:
+    type: claim
+    files:
+    - content/prophecies/daniel-9-26-304.md
+    stage: validate
+    status: Reviewed Analysis
+    confidence: Moderate
+    priority: 80
+    dependencies:
+    - daniel-9
+    last_run: '2026-04-22'
+    last_result: seeded
+    notes: Reviewed supporting claim page inside a flagship cluster; use validate/status
+      passes to remove placeholders and keep it aligned with the overview.
+    public_beta_visible: false
+  deuteronomy-18-15-16-41:
+    type: claim
+    files:
+    - content/prophecies/deuteronomy-18-15-16-41.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  deuteronomy-18-15-40:
+    type: claim
+    files:
+    - content/prophecies/deuteronomy-18-15-40.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  deuteronomy-18-18-42:
+    type: claim
+    files:
+    - content/prophecies/deuteronomy-18-18-42.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  deuteronomy-18-19-43:
+    type: claim
+    files:
+    - content/prophecies/deuteronomy-18-19-43.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  deuteronomy-21-23-44:
+    type: claim
+    files:
+    - content/prophecies/deuteronomy-21-23-44.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  exodus-12:
+    type: overview
+    files:
+    - content/prophecies/exodus-12.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 60
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  exodus-12-13-23:
+    type: claim
+    files:
+    - content/prophecies/exodus-12-13-23.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies:
+    - exodus-12
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  exodus-12-21-27-24:
+    type: claim
+    files:
+    - content/prophecies/exodus-12-21-27-24.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies:
+    - exodus-12
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  exodus-12-46-25:
+    type: claim
+    files:
+    - content/prophecies/exodus-12-46-25.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies:
+    - exodus-12
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  exodus-15-11-27:
+    type: claim
+    files:
+    - content/prophecies/exodus-15-11-27.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  exodus-15-2-26:
+    type: claim
+    files:
+    - content/prophecies/exodus-15-2-26.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  exodus-17-6-28:
+    type: claim
+    files:
+    - content/prophecies/exodus-17-6-28.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  exodus-3-13-15-21:
+    type: claim
+    files:
+    - content/prophecies/exodus-3-13-15-21.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  exodus-33-19-29:
+    type: claim
+    files:
+    - content/prophecies/exodus-33-19-29.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  ezekiel-34:
+    type: claim
+    files:
+    - content/prophecies/ezekiel-34.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  ezekiel-37-24-25-295:
+    type: claim
+    files:
+    - content/prophecies/ezekiel-37-24-25-295.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  genesis-12-3-5:
+    type: claim
+    files:
+    - content/prophecies/genesis-12-3-5.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  genesis-12-7-6:
+    type: claim
+    files:
+    - content/prophecies/genesis-12-7-6.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  genesis-14-18-7:
+    type: claim
+    files:
+    - content/prophecies/genesis-14-18-7.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  genesis-14-18-8:
+    type: claim
+    files:
+    - content/prophecies/genesis-14-18-8.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  genesis-14-18-9:
+    type: claim
+    files:
+    - content/prophecies/genesis-14-18-9.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  genesis-17-19-10:
+    type: claim
+    files:
+    - content/prophecies/genesis-17-19-10.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  genesis-22-18-12:
+    type: claim
+    files:
+    - content/prophecies/genesis-22-18-12.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  genesis-22-8:
+    type: claim
+    files:
+    - content/prophecies/genesis-22-8.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  genesis-26-2-5-13:
+    type: claim
+    files:
+    - content/prophecies/genesis-26-2-5-13.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  genesis-28-12-14:
+    type: claim
+    files:
+    - content/prophecies/genesis-28-12-14.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  genesis-28-14-15:
+    type: claim
+    files:
+    - content/prophecies/genesis-28-14-15.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  genesis-3-15:
+    type: cluster
+    files:
+    - content/prophecies/genesis-3-15.md
+    - content/prophecies/genesis-3-15-2.md
+    stage: complete
+    status: Flagship Analysis
+    confidence: High
+    priority: 99
+    dependencies: []
+    last_run: '2026-04-22'
+    last_result: success
+    notes: Seeded from the existing shareable-preview cluster and reviewed supporting
+      pages.
+    public_beta_visible: true
+  genesis-3-15-2:
+    type: claim
+    files:
+    - content/prophecies/genesis-3-15-2.md
+    stage: validate
+    status: Reviewed Analysis
+    confidence: Moderate
+    priority: 80
+    dependencies:
+    - genesis-3-15
+    last_run: '2026-04-22'
+    last_result: seeded
+    notes: Reviewed supporting claim page inside a flagship cluster; use validate/status
+      passes to remove placeholders and keep it aligned with the overview.
+    public_beta_visible: false
+  genesis-49-10-16:
+    type: claim
+    files:
+    - content/prophecies/genesis-49-10-16.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  genesis-49-10-17:
+    type: claim
+    files:
+    - content/prophecies/genesis-49-10-17.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  genesis-49-10-18:
+    type: claim
+    files:
+    - content/prophecies/genesis-49-10-18.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  genesis-49-10-19:
+    type: claim
+    files:
+    - content/prophecies/genesis-49-10-19.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  genesis-49-10-20:
+    type: claim
+    files:
+    - content/prophecies/genesis-49-10-20.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  genesis-5-24-3:
+    type: claim
+    files:
+    - content/prophecies/genesis-5-24-3.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  genesis-9-26-27-4:
+    type: claim
+    files:
+    - content/prophecies/genesis-9-26-27-4.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  haggai-2-23-316:
+    type: claim
+    files:
+    - content/prophecies/haggai-2-23-316.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  haggai-2-6-9-315:
+    type: claim
+    files:
+    - content/prophecies/haggai-2-6-9-315.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  hosea-11-1-308:
+    type: claim
+    files:
+    - content/prophecies/hosea-11-1-308.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  hosea-13-14-309:
+    type: claim
+    files:
+    - content/prophecies/hosea-13-14-309.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  isaiah-11:
+    type: overview
+    files:
+    - content/prophecies/isaiah-11.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 60
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  isaiah-11-1-187:
+    type: claim
+    files:
+    - content/prophecies/isaiah-11-1-187.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies:
+    - isaiah-11
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  isaiah-11-10-194:
+    type: claim
+    files:
+    - content/prophecies/isaiah-11-10-194.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies:
+    - isaiah-11
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  isaiah-11-2-188:
+    type: claim
+    files:
+    - content/prophecies/isaiah-11-2-188.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies:
+    - isaiah-11
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  isaiah-11-2-189:
+    type: claim
+    files:
+    - content/prophecies/isaiah-11-2-189.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies:
+    - isaiah-11
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  isaiah-11-3-190:
+    type: claim
+    files:
+    - content/prophecies/isaiah-11-3-190.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies:
+    - isaiah-11
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  isaiah-11-4-191:
+    type: claim
+    files:
+    - content/prophecies/isaiah-11-4-191.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies:
+    - isaiah-11
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  isaiah-11-4-192:
+    type: claim
+    files:
+    - content/prophecies/isaiah-11-4-192.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies:
+    - isaiah-11
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  isaiah-11-5-193:
+    type: claim
+    files:
+    - content/prophecies/isaiah-11-5-193.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies:
+    - isaiah-11
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  isaiah-12-2-195:
+    type: claim
+    files:
+    - content/prophecies/isaiah-12-2-195.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  isaiah-2-3-164:
+    type: claim
+    files:
+    - content/prophecies/isaiah-2-3-164.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  isaiah-2-4-165:
+    type: claim
+    files:
+    - content/prophecies/isaiah-2-4-165.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  isaiah-22-22-196:
+    type: claim
+    files:
+    - content/prophecies/isaiah-22-22-196.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  isaiah-25-8-197:
+    type: claim
+    files:
+    - content/prophecies/isaiah-25-8-197.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  isaiah-26-19-198:
+    type: claim
+    files:
+    - content/prophecies/isaiah-26-19-198.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  isaiah-28-16-199:
+    type: claim
+    files:
+    - content/prophecies/isaiah-28-16-199.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  isaiah-28-16-200:
+    type: claim
+    files:
+    - content/prophecies/isaiah-28-16-200.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  isaiah-29-13-201:
+    type: claim
+    files:
+    - content/prophecies/isaiah-29-13-201.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  isaiah-29-14-202:
+    type: claim
+    files:
+    - content/prophecies/isaiah-29-14-202.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  isaiah-32-2-203:
+    type: claim
+    files:
+    - content/prophecies/isaiah-32-2-203.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  isaiah-35-4-204:
+    type: claim
+    files:
+    - content/prophecies/isaiah-35-4-204.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  isaiah-35-5-6-205:
+    type: claim
+    files:
+    - content/prophecies/isaiah-35-5-6-205.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  isaiah-40-10-208:
+    type: claim
+    files:
+    - content/prophecies/isaiah-40-10-208.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  isaiah-40-11-209:
+    type: claim
+    files:
+    - content/prophecies/isaiah-40-11-209.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  isaiah-40-3-4-206:
+    type: claim
+    files:
+    - content/prophecies/isaiah-40-3-4-206.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  isaiah-40-9-207:
+    type: claim
+    files:
+    - content/prophecies/isaiah-40-9-207.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  isaiah-42:
+    type: overview
+    files:
+    - content/prophecies/isaiah-42.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 60
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  isaiah-42-1-6-215:
+    type: claim
+    files:
+    - content/prophecies/isaiah-42-1-6-215.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies:
+    - isaiah-42
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  isaiah-42-2-211:
+    type: claim
+    files:
+    - content/prophecies/isaiah-42-2-211.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies:
+    - isaiah-42
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  isaiah-42-3-212:
+    type: claim
+    files:
+    - content/prophecies/isaiah-42-3-212.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies:
+    - isaiah-42
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  isaiah-42-4-213:
+    type: claim
+    files:
+    - content/prophecies/isaiah-42-4-213.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies:
+    - isaiah-42
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  isaiah-42-6-214:
+    type: claim
+    files:
+    - content/prophecies/isaiah-42-6-214.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies:
+    - isaiah-42
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  isaiah-42-7-216:
+    type: claim
+    files:
+    - content/prophecies/isaiah-42-7-216.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies:
+    - isaiah-42
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  isaiah-43-11-217:
+    type: claim
+    files:
+    - content/prophecies/isaiah-43-11-217.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  isaiah-44-3-218:
+    type: claim
+    files:
+    - content/prophecies/isaiah-44-3-218.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  isaiah-45-21-25-219:
+    type: claim
+    files:
+    - content/prophecies/isaiah-45-21-25-219.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  isaiah-45-23-220:
+    type: claim
+    files:
+    - content/prophecies/isaiah-45-23-220.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  isaiah-46-9-10-221:
+    type: claim
+    files:
+    - content/prophecies/isaiah-46-9-10-221.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  isaiah-48-12-222:
+    type: claim
+    files:
+    - content/prophecies/isaiah-48-12-222.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  isaiah-48-16-17-223:
+    type: claim
+    files:
+    - content/prophecies/isaiah-48-16-17-223.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  isaiah-49-1-224:
+    type: claim
+    files:
+    - content/prophecies/isaiah-49-1-224.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  isaiah-49-5-225:
+    type: claim
+    files:
+    - content/prophecies/isaiah-49-5-225.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  isaiah-49-6-226:
+    type: claim
+    files:
+    - content/prophecies/isaiah-49-6-226.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  isaiah-49-6-227:
+    type: claim
+    files:
+    - content/prophecies/isaiah-49-6-227.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  isaiah-49-6-228:
+    type: claim
+    files:
+    - content/prophecies/isaiah-49-6-228.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  isaiah-49-6-229:
+    type: claim
+    files:
+    - content/prophecies/isaiah-49-6-229.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  isaiah-49-7-230:
+    type: claim
+    files:
+    - content/prophecies/isaiah-49-7-230.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  isaiah-50:
+    type: overview
+    files:
+    - content/prophecies/isaiah-50.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 60
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  isaiah-50-4-232:
+    type: claim
+    files:
+    - content/prophecies/isaiah-50-4-232.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies:
+    - isaiah-50
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  isaiah-50-5-233:
+    type: claim
+    files:
+    - content/prophecies/isaiah-50-5-233.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies:
+    - isaiah-50
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  isaiah-50-6-234:
+    type: claim
+    files:
+    - content/prophecies/isaiah-50-6-234.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies:
+    - isaiah-50
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  isaiah-50-6-235:
+    type: claim
+    files:
+    - content/prophecies/isaiah-50-6-235.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies:
+    - isaiah-50
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  isaiah-50-6-236:
+    type: claim
+    files:
+    - content/prophecies/isaiah-50-6-236.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies:
+    - isaiah-50
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  isaiah-52-13-238:
+    type: claim
+    files:
+    - content/prophecies/isaiah-52-13-238.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  isaiah-52-14-239:
+    type: claim
+    files:
+    - content/prophecies/isaiah-52-14-239.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  isaiah-52-15-240:
+    type: claim
+    files:
+    - content/prophecies/isaiah-52-15-240.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  isaiah-52-15-241:
+    type: claim
+    files:
+    - content/prophecies/isaiah-52-15-241.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  isaiah-52-7-237:
+    type: claim
+    files:
+    - content/prophecies/isaiah-52-7-237.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  isaiah-53:
+    type: cluster
+    files:
+    - content/prophecies/isaiah-53.md
+    - content/prophecies/isaiah-53-10-266.md
+    - content/prophecies/isaiah-53-12-274.md
+    - content/prophecies/isaiah-53-2-243.md
+    - content/prophecies/isaiah-53-4-248.md
+    - content/prophecies/isaiah-53-5-250.md
+    - content/prophecies/isaiah-53-6-253.md
+    - content/prophecies/isaiah-53-7-255.md
+    - content/prophecies/isaiah-53-8-258.md
+    - content/prophecies/isaiah-53-9-262.md
+    stage: complete
+    status: Flagship Analysis
+    confidence: High
+    priority: 98
+    dependencies: []
+    last_run: '2026-04-22'
+    last_result: success
+    notes: Seeded from the existing shareable-preview cluster and reviewed supporting
+      pages.
+    public_beta_visible: true
+  isaiah-53-10-266:
+    type: claim
+    files:
+    - content/prophecies/isaiah-53-10-266.md
+    stage: validate
+    status: Reviewed Analysis
+    confidence: Moderate
+    priority: 80
+    dependencies:
+    - isaiah-53
+    last_run: '2026-04-22'
+    last_result: seeded
+    notes: Reviewed supporting claim page inside a flagship cluster; use validate/status
+      passes to remove placeholders and keep it aligned with the overview.
+    public_beta_visible: false
+  isaiah-53-12-274:
+    type: claim
+    files:
+    - content/prophecies/isaiah-53-12-274.md
+    stage: validate
+    status: Reviewed Analysis
+    confidence: Moderate
+    priority: 80
+    dependencies:
+    - isaiah-53
+    last_run: '2026-04-22'
+    last_result: seeded
+    notes: Reviewed supporting claim page inside a flagship cluster; use validate/status
+      passes to remove placeholders and keep it aligned with the overview.
+    public_beta_visible: false
+  isaiah-53-2-243:
+    type: claim
+    files:
+    - content/prophecies/isaiah-53-2-243.md
+    stage: validate
+    status: Reviewed Analysis
+    confidence: Moderate
+    priority: 80
+    dependencies:
+    - isaiah-53
+    last_run: '2026-04-22'
+    last_result: seeded
+    notes: Reviewed supporting claim page inside a flagship cluster; use validate/status
+      passes to remove placeholders and keep it aligned with the overview.
+    public_beta_visible: false
+  isaiah-53-4-248:
+    type: claim
+    files:
+    - content/prophecies/isaiah-53-4-248.md
+    stage: validate
+    status: Reviewed Analysis
+    confidence: Moderate
+    priority: 80
+    dependencies:
+    - isaiah-53
+    last_run: '2026-04-22'
+    last_result: seeded
+    notes: Reviewed supporting claim page inside a flagship cluster; use validate/status
+      passes to remove placeholders and keep it aligned with the overview.
+    public_beta_visible: false
+  isaiah-53-5-250:
+    type: claim
+    files:
+    - content/prophecies/isaiah-53-5-250.md
+    stage: validate
+    status: Reviewed Analysis
+    confidence: Moderate
+    priority: 80
+    dependencies:
+    - isaiah-53
+    last_run: '2026-04-22'
+    last_result: seeded
+    notes: Reviewed supporting claim page inside a flagship cluster; use validate/status
+      passes to remove placeholders and keep it aligned with the overview.
+    public_beta_visible: false
+  isaiah-53-6-253:
+    type: claim
+    files:
+    - content/prophecies/isaiah-53-6-253.md
+    stage: validate
+    status: Reviewed Analysis
+    confidence: Moderate
+    priority: 80
+    dependencies:
+    - isaiah-53
+    last_run: '2026-04-22'
+    last_result: seeded
+    notes: Reviewed supporting claim page inside a flagship cluster; use validate/status
+      passes to remove placeholders and keep it aligned with the overview.
+    public_beta_visible: false
+  isaiah-53-7-255:
+    type: claim
+    files:
+    - content/prophecies/isaiah-53-7-255.md
+    stage: validate
+    status: Reviewed Analysis
+    confidence: Moderate
+    priority: 80
+    dependencies:
+    - isaiah-53
+    last_run: '2026-04-22'
+    last_result: seeded
+    notes: Reviewed supporting claim page inside a flagship cluster; use validate/status
+      passes to remove placeholders and keep it aligned with the overview.
+    public_beta_visible: false
+  isaiah-53-8-258:
+    type: claim
+    files:
+    - content/prophecies/isaiah-53-8-258.md
+    stage: validate
+    status: Reviewed Analysis
+    confidence: Moderate
+    priority: 80
+    dependencies:
+    - isaiah-53
+    last_run: '2026-04-22'
+    last_result: seeded
+    notes: Reviewed supporting claim page inside a flagship cluster; use validate/status
+      passes to remove placeholders and keep it aligned with the overview.
+    public_beta_visible: false
+  isaiah-53-9-262:
+    type: claim
+    files:
+    - content/prophecies/isaiah-53-9-262.md
+    stage: validate
+    status: Reviewed Analysis
+    confidence: Moderate
+    priority: 80
+    dependencies:
+    - isaiah-53
+    last_run: '2026-04-22'
+    last_result: seeded
+    notes: Reviewed supporting claim page inside a flagship cluster; use validate/status
+      passes to remove placeholders and keep it aligned with the overview.
+    public_beta_visible: false
+  isaiah-55-3-277:
+    type: claim
+    files:
+    - content/prophecies/isaiah-55-3-277.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  isaiah-55-4-278:
+    type: claim
+    files:
+    - content/prophecies/isaiah-55-4-278.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  isaiah-55-4-279:
+    type: claim
+    files:
+    - content/prophecies/isaiah-55-4-279.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  isaiah-55-5-280:
+    type: claim
+    files:
+    - content/prophecies/isaiah-55-5-280.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  isaiah-59-16-281:
+    type: claim
+    files:
+    - content/prophecies/isaiah-59-16-281.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  isaiah-59-16-282:
+    type: claim
+    files:
+    - content/prophecies/isaiah-59-16-282.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  isaiah-59-20-283:
+    type: claim
+    files:
+    - content/prophecies/isaiah-59-20-283.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  isaiah-6-1-166:
+    type: claim
+    files:
+    - content/prophecies/isaiah-6-1-166.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  isaiah-6-8-167:
+    type: claim
+    files:
+    - content/prophecies/isaiah-6-8-167.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  isaiah-6-9-10-168:
+    type: claim
+    files:
+    - content/prophecies/isaiah-6-9-10-168.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  isaiah-6-9-12-169:
+    type: claim
+    files:
+    - content/prophecies/isaiah-6-9-12-169.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  isaiah-60-1-3-284:
+    type: claim
+    files:
+    - content/prophecies/isaiah-60-1-3-284.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  isaiah-61:
+    type: overview
+    files:
+    - content/prophecies/isaiah-61.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 60
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  isaiah-61-1-2-288:
+    type: claim
+    files:
+    - content/prophecies/isaiah-61-1-2-288.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies:
+    - isaiah-61
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  isaiah-61-1-286:
+    type: claim
+    files:
+    - content/prophecies/isaiah-61-1-286.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies:
+    - isaiah-61
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  isaiah-61-1-287:
+    type: claim
+    files:
+    - content/prophecies/isaiah-61-1-287.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies:
+    - isaiah-61
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  isaiah-7-14:
+    type: cluster
+    files:
+    - content/prophecies/isaiah-7-14.md
+    - content/prophecies/isaiah-7-14-171.md
+    stage: complete
+    status: Flagship Analysis
+    confidence: High
+    priority: 97
+    dependencies: []
+    last_run: '2026-04-22'
+    last_result: success
+    notes: Seeded from the existing shareable-preview cluster and reviewed supporting
+      pages.
+    public_beta_visible: true
+  isaiah-7-14-171:
+    type: claim
+    files:
+    - content/prophecies/isaiah-7-14-171.md
+    stage: validate
+    status: Reviewed Analysis
+    confidence: Moderate
+    priority: 80
+    dependencies:
+    - isaiah-7-14
+    last_run: '2026-04-22'
+    last_result: seeded
+    notes: Reviewed supporting claim page inside a flagship cluster; use validate/status
+      passes to remove placeholders and keep it aligned with the overview.
+    public_beta_visible: false
+  isaiah-8-14-173:
+    type: claim
+    files:
+    - content/prophecies/isaiah-8-14-173.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  isaiah-8-8-172:
+    type: claim
+    files:
+    - content/prophecies/isaiah-8-8-172.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  isaiah-9-1-2-174:
+    type: claim
+    files:
+    - content/prophecies/isaiah-9-1-2-174.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  isaiah-9-6:
+    type: overview
+    files:
+    - content/prophecies/isaiah-9-6.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 60
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  isaiah-9-6-176:
+    type: claim
+    files:
+    - content/prophecies/isaiah-9-6-176.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies:
+    - isaiah-9-6
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  isaiah-9-6-177:
+    type: claim
+    files:
+    - content/prophecies/isaiah-9-6-177.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies:
+    - isaiah-9-6
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  isaiah-9-6-178:
+    type: claim
+    files:
+    - content/prophecies/isaiah-9-6-178.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies:
+    - isaiah-9-6
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  isaiah-9-6-179:
+    type: claim
+    files:
+    - content/prophecies/isaiah-9-6-179.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies:
+    - isaiah-9-6
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  isaiah-9-6-180:
+    type: claim
+    files:
+    - content/prophecies/isaiah-9-6-180.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies:
+    - isaiah-9-6
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  isaiah-9-6-181:
+    type: claim
+    files:
+    - content/prophecies/isaiah-9-6-181.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies:
+    - isaiah-9-6
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  isaiah-9-6-182:
+    type: claim
+    files:
+    - content/prophecies/isaiah-9-6-182.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies:
+    - isaiah-9-6
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  isaiah-9-7-183:
+    type: claim
+    files:
+    - content/prophecies/isaiah-9-7-183.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  isaiah-9-7-184:
+    type: claim
+    files:
+    - content/prophecies/isaiah-9-7-184.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  isaiah-9-7-185:
+    type: claim
+    files:
+    - content/prophecies/isaiah-9-7-185.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  jeremiah-23-5-6-289:
+    type: claim
+    files:
+    - content/prophecies/jeremiah-23-5-6-289.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  jeremiah-23-5-6-290:
+    type: claim
+    files:
+    - content/prophecies/jeremiah-23-5-6-290.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  jeremiah-31:
+    type: overview
+    files:
+    - content/prophecies/jeremiah-31.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 60
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  jeremiah-31-31-292:
+    type: claim
+    files:
+    - content/prophecies/jeremiah-31-31-292.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies:
+    - jeremiah-31
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  jeremiah-33-14-15-293:
+    type: claim
+    files:
+    - content/prophecies/jeremiah-33-14-15-293.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  job-19-23-27-58:
+    type: claim
+    files:
+    - content/prophecies/job-19-23-27-58.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  job-9-32-33-57:
+    type: claim
+    files:
+    - content/prophecies/job-9-32-33-57.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  joel-2-32-310:
+    type: claim
+    files:
+    - content/prophecies/joel-2-32-310.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  jonah-1-17-311:
+    type: claim
+    files:
+    - content/prophecies/jonah-1-17-311.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  joshua-5-14-15-45:
+    type: claim
+    files:
+    - content/prophecies/joshua-5-14-15-45.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  leviticus-1-2-9-30:
+    type: claim
+    files:
+    - content/prophecies/leviticus-1-2-9-30.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  leviticus-14-11-31:
+    type: claim
+    files:
+    - content/prophecies/leviticus-14-11-31.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  leviticus-16-15-17-32:
+    type: claim
+    files:
+    - content/prophecies/leviticus-16-15-17-32.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  leviticus-16-27-33:
+    type: claim
+    files:
+    - content/prophecies/leviticus-16-27-33.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  leviticus-17-11-34:
+    type: claim
+    files:
+    - content/prophecies/leviticus-17-11-34.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  leviticus-17-11-35:
+    type: claim
+    files:
+    - content/prophecies/leviticus-17-11-35.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  leviticus-23-36-37-36:
+    type: claim
+    files:
+    - content/prophecies/leviticus-23-36-37-36.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  malachi-3:
+    type: overview
+    files:
+    - content/prophecies/malachi-3.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 60
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  malachi-3-1-348:
+    type: claim
+    files:
+    - content/prophecies/malachi-3-1-348.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies:
+    - malachi-3
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  malachi-3-1-349:
+    type: claim
+    files:
+    - content/prophecies/malachi-3-1-349.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies:
+    - malachi-3
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  malachi-4:
+    type: overview
+    files:
+    - content/prophecies/malachi-4.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 60
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  malachi-4-6-351:
+    type: claim
+    files:
+    - content/prophecies/malachi-4-6-351.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies:
+    - malachi-4
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  micah-4:
+    type: claim
+    files:
+    - content/prophecies/micah-4.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  micah-5-2:
+    type: cluster
+    files:
+    - content/prophecies/micah-5-2.md
+    - content/prophecies/micah-5-2-313.md
+    - content/prophecies/micah-5-2-314.md
+    stage: complete
+    status: Flagship Analysis
+    confidence: High
+    priority: 96
+    dependencies: []
+    last_run: '2026-04-22'
+    last_result: success
+    notes: Seeded from the existing shareable-preview cluster and reviewed supporting
+      pages.
+    public_beta_visible: true
+  micah-5-2-313:
+    type: claim
+    files:
+    - content/prophecies/micah-5-2-313.md
+    stage: validate
+    status: Reviewed Analysis
+    confidence: Moderate
+    priority: 80
+    dependencies:
+    - micah-5-2
+    last_run: '2026-04-22'
+    last_result: seeded
+    notes: Reviewed supporting claim page inside a flagship cluster; use validate/status
+      passes to remove placeholders and keep it aligned with the overview.
+    public_beta_visible: false
+  micah-5-2-314:
+    type: claim
+    files:
+    - content/prophecies/micah-5-2-314.md
+    stage: validate
+    status: Reviewed Analysis
+    confidence: Moderate
+    priority: 80
+    dependencies:
+    - micah-5-2
+    last_run: '2026-04-22'
+    last_result: seeded
+    notes: Reviewed supporting claim page inside a flagship cluster; use validate/status
+      passes to remove placeholders and keep it aligned with the overview.
+    public_beta_visible: false
+  numbers-21-9-38:
+    type: claim
+    files:
+    - content/prophecies/numbers-21-9-38.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  numbers-24-17-39:
+    type: claim
+    files:
+    - content/prophecies/numbers-24-17-39.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  numbers-9-12-37:
+    type: claim
+    files:
+    - content/prophecies/numbers-9-12-37.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  proverbs-1-23-161:
+    type: claim
+    files:
+    - content/prophecies/proverbs-1-23-161.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  proverbs-8-23-162:
+    type: claim
+    files:
+    - content/prophecies/proverbs-8-23-162.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  psalm-100-5-144:
+    type: claim
+    files:
+    - content/prophecies/psalm-100-5-144.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  psalm-102-1-11-145:
+    type: claim
+    files:
+    - content/prophecies/psalm-102-1-11-145.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  psalm-102-25-27-146:
+    type: claim
+    files:
+    - content/prophecies/psalm-102-25-27-146.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  psalm-109-25-147:
+    type: claim
+    files:
+    - content/prophecies/psalm-109-25-147.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  psalm-110:
+    type: overview
+    files:
+    - content/prophecies/psalm-110.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 60
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  psalm-110-1-149:
+    type: claim
+    files:
+    - content/prophecies/psalm-110-1-149.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies:
+    - psalm-110
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  psalm-110-1-150:
+    type: claim
+    files:
+    - content/prophecies/psalm-110-1-150.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies:
+    - psalm-110
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  psalm-110-4-151:
+    type: claim
+    files:
+    - content/prophecies/psalm-110-4-151.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies:
+    - psalm-110
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  psalm-112-4-152:
+    type: claim
+    files:
+    - content/prophecies/psalm-112-4-152.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  psalm-118-17-18-153:
+    type: claim
+    files:
+    - content/prophecies/psalm-118-17-18-153.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  psalm-118-22-23-154:
+    type: claim
+    files:
+    - content/prophecies/psalm-118-22-23-154.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  psalm-118-26-155:
+    type: claim
+    files:
+    - content/prophecies/psalm-118-26-155.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  psalm-118-26-156:
+    type: claim
+    files:
+    - content/prophecies/psalm-118-26-156.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  psalm-129-3-158:
+    type: claim
+    files:
+    - content/prophecies/psalm-129-3-158.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  psalm-132-11-157:
+    type: claim
+    files:
+    - content/prophecies/psalm-132-11-157.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  psalm-138-1-6-159:
+    type: claim
+    files:
+    - content/prophecies/psalm-138-1-6-159.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  psalm-147-3-6-160:
+    type: claim
+    files:
+    - content/prophecies/psalm-147-3-6-160.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  psalm-16:
+    type: overview
+    files:
+    - content/prophecies/psalm-16.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 60
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  psalm-16-9-11-71:
+    type: claim
+    files:
+    - content/prophecies/psalm-16-9-11-71.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies:
+    - psalm-16
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  psalm-17-15-72:
+    type: claim
+    files:
+    - content/prophecies/psalm-17-15-72.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  psalm-18-2-3-73:
+    type: claim
+    files:
+    - content/prophecies/psalm-18-2-3-73.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  psalm-2:
+    type: overview
+    files:
+    - content/prophecies/psalm-2.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 60
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  psalm-2-12-66:
+    type: claim
+    files:
+    - content/prophecies/psalm-2-12-66.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies:
+    - psalm-2
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  psalm-2-2-60:
+    type: claim
+    files:
+    - content/prophecies/psalm-2-2-60.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies:
+    - psalm-2
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  psalm-2-6-61:
+    type: claim
+    files:
+    - content/prophecies/psalm-2-6-61.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies:
+    - psalm-2
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  psalm-2-6-62:
+    type: claim
+    files:
+    - content/prophecies/psalm-2-6-62.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies:
+    - psalm-2
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  psalm-2-7-63:
+    type: claim
+    files:
+    - content/prophecies/psalm-2-7-63.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies:
+    - psalm-2
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  psalm-2-7-8-64:
+    type: claim
+    files:
+    - content/prophecies/psalm-2-7-8-64.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies:
+    - psalm-2
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  psalm-2-8-9-65:
+    type: claim
+    files:
+    - content/prophecies/psalm-2-8-9-65.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies:
+    - psalm-2
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  psalm-22:
+    type: cluster
+    files:
+    - content/prophecies/psalm-22.md
+    - content/prophecies/psalm-22-1-75.md
+    - content/prophecies/psalm-22-14-15-82.md
+    - content/prophecies/psalm-22-16-84.md
+    - content/prophecies/psalm-22-17-18-85.md
+    - content/prophecies/psalm-22-22-89.md
+    - content/prophecies/psalm-22-7-77.md
+    stage: complete
+    status: Flagship Analysis
+    confidence: High
+    priority: 95
+    dependencies: []
+    last_run: '2026-04-22'
+    last_result: success
+    notes: Seeded from the existing shareable-preview cluster and reviewed supporting
+      pages.
+    public_beta_visible: true
+  psalm-22-1-75:
+    type: claim
+    files:
+    - content/prophecies/psalm-22-1-75.md
+    stage: validate
+    status: Reviewed Analysis
+    confidence: Moderate
+    priority: 80
+    dependencies:
+    - psalm-22
+    last_run: '2026-04-22'
+    last_result: seeded
+    notes: Reviewed supporting claim page inside a flagship cluster; use validate/status
+      passes to remove placeholders and keep it aligned with the overview.
+    public_beta_visible: false
+  psalm-22-14-15-82:
+    type: claim
+    files:
+    - content/prophecies/psalm-22-14-15-82.md
+    stage: validate
+    status: Reviewed Analysis
+    confidence: Moderate
+    priority: 80
+    dependencies:
+    - psalm-22
+    last_run: '2026-04-22'
+    last_result: seeded
+    notes: Reviewed supporting claim page inside a flagship cluster; use validate/status
+      passes to remove placeholders and keep it aligned with the overview.
+    public_beta_visible: false
+  psalm-22-16-84:
+    type: claim
+    files:
+    - content/prophecies/psalm-22-16-84.md
+    stage: validate
+    status: Reviewed Analysis
+    confidence: Moderate
+    priority: 80
+    dependencies:
+    - psalm-22
+    last_run: '2026-04-22'
+    last_result: seeded
+    notes: Reviewed supporting claim page inside a flagship cluster; use validate/status
+      passes to remove placeholders and keep it aligned with the overview.
+    public_beta_visible: false
+  psalm-22-17-18-85:
+    type: claim
+    files:
+    - content/prophecies/psalm-22-17-18-85.md
+    stage: validate
+    status: Reviewed Analysis
+    confidence: Moderate
+    priority: 80
+    dependencies:
+    - psalm-22
+    last_run: '2026-04-22'
+    last_result: seeded
+    notes: Reviewed supporting claim page inside a flagship cluster; use validate/status
+      passes to remove placeholders and keep it aligned with the overview.
+    public_beta_visible: false
+  psalm-22-22-89:
+    type: claim
+    files:
+    - content/prophecies/psalm-22-22-89.md
+    stage: validate
+    status: Reviewed Analysis
+    confidence: Moderate
+    priority: 80
+    dependencies:
+    - psalm-22
+    last_run: '2026-04-22'
+    last_result: seeded
+    notes: Reviewed supporting claim page inside a flagship cluster; use validate/status
+      passes to remove placeholders and keep it aligned with the overview.
+    public_beta_visible: false
+  psalm-22-7-77:
+    type: claim
+    files:
+    - content/prophecies/psalm-22-7-77.md
+    stage: validate
+    status: Reviewed Analysis
+    confidence: Moderate
+    priority: 80
+    dependencies:
+    - psalm-22
+    last_run: '2026-04-22'
+    last_result: seeded
+    notes: Reviewed supporting claim page inside a flagship cluster; use validate/status
+      passes to remove placeholders and keep it aligned with the overview.
+    public_beta_visible: false
+  psalm-23-1-92:
+    type: claim
+    files:
+    - content/prophecies/psalm-23-1-92.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  psalm-24-3-93:
+    type: claim
+    files:
+    - content/prophecies/psalm-24-3-93.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  psalm-30-3-94:
+    type: claim
+    files:
+    - content/prophecies/psalm-30-3-94.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  psalm-31-11-96:
+    type: claim
+    files:
+    - content/prophecies/psalm-31-11-96.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  psalm-31-13-97:
+    type: claim
+    files:
+    - content/prophecies/psalm-31-13-97.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  psalm-31-14-15-98:
+    type: claim
+    files:
+    - content/prophecies/psalm-31-14-15-98.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  psalm-31-5-95:
+    type: claim
+    files:
+    - content/prophecies/psalm-31-5-95.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  psalm-34-20-99:
+    type: claim
+    files:
+    - content/prophecies/psalm-34-20-99.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  psalm-35-11-100:
+    type: claim
+    files:
+    - content/prophecies/psalm-35-11-100.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  psalm-35-19-101:
+    type: claim
+    files:
+    - content/prophecies/psalm-35-19-101.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  psalm-38-11-102:
+    type: claim
+    files:
+    - content/prophecies/psalm-38-11-102.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  psalm-38-12-103:
+    type: claim
+    files:
+    - content/prophecies/psalm-38-12-103.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  psalm-38-12-13-104:
+    type: claim
+    files:
+    - content/prophecies/psalm-38-12-13-104.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  psalm-38-20-105:
+    type: claim
+    files:
+    - content/prophecies/psalm-38-20-105.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  psalm-40-14-109:
+    type: claim
+    files:
+    - content/prophecies/psalm-40-14-109.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  psalm-40-2-5-106:
+    type: claim
+    files:
+    - content/prophecies/psalm-40-2-5-106.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  psalm-40-6-8-107:
+    type: claim
+    files:
+    - content/prophecies/psalm-40-6-8-107.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  psalm-40-9-108:
+    type: claim
+    files:
+    - content/prophecies/psalm-40-9-108.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  psalm-41-9:
+    type: claim
+    files:
+    - content/prophecies/psalm-41-9.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  psalm-45-17-115:
+    type: claim
+    files:
+    - content/prophecies/psalm-45-17-115.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  psalm-45-2-111:
+    type: claim
+    files:
+    - content/prophecies/psalm-45-2-111.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  psalm-45-6-112:
+    type: claim
+    files:
+    - content/prophecies/psalm-45-6-112.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  psalm-45-7-113:
+    type: claim
+    files:
+    - content/prophecies/psalm-45-7-113.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  psalm-45-7-8-114:
+    type: claim
+    files:
+    - content/prophecies/psalm-45-7-8-114.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  psalm-55-12-14-116:
+    type: claim
+    files:
+    - content/prophecies/psalm-55-12-14-116.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  psalm-55-15-117:
+    type: claim
+    files:
+    - content/prophecies/psalm-55-15-117.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  psalm-68-18-118:
+    type: claim
+    files:
+    - content/prophecies/psalm-68-18-118.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  psalm-68-18-119:
+    type: claim
+    files:
+    - content/prophecies/psalm-68-18-119.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  psalm-69-14-20-123:
+    type: claim
+    files:
+    - content/prophecies/psalm-69-14-20-123.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  psalm-69-20-124:
+    type: claim
+    files:
+    - content/prophecies/psalm-69-20-124.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  psalm-69-21-125:
+    type: claim
+    files:
+    - content/prophecies/psalm-69-21-125.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  psalm-69-26-126:
+    type: claim
+    files:
+    - content/prophecies/psalm-69-26-126.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  psalm-69-4-120:
+    type: claim
+    files:
+    - content/prophecies/psalm-69-4-120.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  psalm-69-8-121:
+    type: claim
+    files:
+    - content/prophecies/psalm-69-8-121.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  psalm-69-9-122:
+    type: claim
+    files:
+    - content/prophecies/psalm-69-9-122.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  psalm-72-10-11-127:
+    type: claim
+    files:
+    - content/prophecies/psalm-72-10-11-127.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  psalm-72-16-128:
+    type: claim
+    files:
+    - content/prophecies/psalm-72-16-128.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  psalm-72-17-129:
+    type: claim
+    files:
+    - content/prophecies/psalm-72-17-129.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  psalm-72-17-130:
+    type: claim
+    files:
+    - content/prophecies/psalm-72-17-130.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  psalm-72-17-131:
+    type: claim
+    files:
+    - content/prophecies/psalm-72-17-131.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  psalm-78-1-2-132:
+    type: claim
+    files:
+    - content/prophecies/psalm-78-1-2-132.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  psalm-78-2-133:
+    type: claim
+    files:
+    - content/prophecies/psalm-78-2-133.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  psalm-8-2-67:
+    type: claim
+    files:
+    - content/prophecies/psalm-8-2-67.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  psalm-8-5-6-68:
+    type: claim
+    files:
+    - content/prophecies/psalm-8-5-6-68.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  psalm-80-17-134:
+    type: claim
+    files:
+    - content/prophecies/psalm-80-17-134.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  psalm-88-135:
+    type: claim
+    files:
+    - content/prophecies/psalm-88-135.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  psalm-88-8-136:
+    type: claim
+    files:
+    - content/prophecies/psalm-88-8-136.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  psalm-89-27-137:
+    type: claim
+    files:
+    - content/prophecies/psalm-89-27-137.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  psalm-89-27-138:
+    type: claim
+    files:
+    - content/prophecies/psalm-89-27-138.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  psalm-89-35-37-139:
+    type: claim
+    files:
+    - content/prophecies/psalm-89-35-37-139.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  psalm-89-36-37-140:
+    type: claim
+    files:
+    - content/prophecies/psalm-89-36-37-140.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  psalm-9-7-10-69:
+    type: claim
+    files:
+    - content/prophecies/psalm-9-7-10-69.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  psalm-90-2-141:
+    type: claim
+    files:
+    - content/prophecies/psalm-90-2-141.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  psalm-91-11-12-142:
+    type: claim
+    files:
+    - content/prophecies/psalm-91-11-12-142.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  psalm-97-9-143:
+    type: claim
+    files:
+    - content/prophecies/psalm-97-9-143.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  ruth-4-4-10-46:
+    type: claim
+    files:
+    - content/prophecies/ruth-4-4-10-46.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  song-of-solomon-5-16-163:
+    type: claim
+    files:
+    - content/prophecies/song-of-solomon-5-16-163.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  zechariah-10-4-325:
+    type: claim
+    files:
+    - content/prophecies/zechariah-10-4-325.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  zechariah-11:
+    type: cluster
+    files:
+    - content/prophecies/zechariah-11.md
+    - content/prophecies/zechariah-11-12-13-335.md
+    - content/prophecies/zechariah-11-4-6-327.md
+    stage: complete
+    status: Flagship Analysis
+    confidence: High
+    priority: 94
+    dependencies: []
+    last_run: '2026-04-22'
+    last_result: success
+    notes: Seeded from the existing shareable-preview cluster and reviewed supporting
+      pages.
+    public_beta_visible: true
+  zechariah-11-12-13-335:
+    type: claim
+    files:
+    - content/prophecies/zechariah-11-12-13-335.md
+    stage: validate
+    status: Reviewed Analysis
+    confidence: Moderate
+    priority: 80
+    dependencies:
+    - zechariah-11
+    last_run: '2026-04-22'
+    last_result: seeded
+    notes: Reviewed supporting claim page inside a flagship cluster; use validate/status
+      passes to remove placeholders and keep it aligned with the overview.
+    public_beta_visible: false
+  zechariah-11-4-6-327:
+    type: claim
+    files:
+    - content/prophecies/zechariah-11-4-6-327.md
+    stage: validate
+    status: Reviewed Analysis
+    confidence: Moderate
+    priority: 80
+    dependencies:
+    - zechariah-11
+    last_run: '2026-04-22'
+    last_result: seeded
+    notes: Reviewed supporting claim page inside a flagship cluster; use validate/status
+      passes to remove placeholders and keep it aligned with the overview.
+    public_beta_visible: false
+  zechariah-12:
+    type: overview
+    files:
+    - content/prophecies/zechariah-12.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 60
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  zechariah-12-10-340:
+    type: claim
+    files:
+    - content/prophecies/zechariah-12-10-340.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies:
+    - zechariah-12
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  zechariah-12-10-341:
+    type: claim
+    files:
+    - content/prophecies/zechariah-12-10-341.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies:
+    - zechariah-12
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  zechariah-13-7-342:
+    type: claim
+    files:
+    - content/prophecies/zechariah-13-7-342.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  zechariah-13-7-343:
+    type: claim
+    files:
+    - content/prophecies/zechariah-13-7-343.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  zechariah-13-7-344:
+    type: claim
+    files:
+    - content/prophecies/zechariah-13-7-344.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  zechariah-13-7-345:
+    type: claim
+    files:
+    - content/prophecies/zechariah-13-7-345.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  zechariah-14-4-346:
+    type: claim
+    files:
+    - content/prophecies/zechariah-14-4-346.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  zechariah-3-8-317:
+    type: claim
+    files:
+    - content/prophecies/zechariah-3-8-317.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  zechariah-6-12-13-318:
+    type: claim
+    files:
+    - content/prophecies/zechariah-6-12-13-318.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  zechariah-9:
+    type: overview
+    files:
+    - content/prophecies/zechariah-9.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 60
+    dependencies: []
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  zechariah-9-9-320:
+    type: claim
+    files:
+    - content/prophecies/zechariah-9-9-320.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies:
+    - zechariah-9
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  zechariah-9-9-321:
+    type: claim
+    files:
+    - content/prophecies/zechariah-9-9-321.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies:
+    - zechariah-9
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  zechariah-9-9-322:
+    type: claim
+    files:
+    - content/prophecies/zechariah-9-9-322.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies:
+    - zechariah-9
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  zechariah-9-9-323:
+    type: claim
+    files:
+    - content/prophecies/zechariah-9-9-323.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies:
+    - zechariah-9
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false
+  zechariah-9-9-324:
+    type: claim
+    files:
+    - content/prophecies/zechariah-9-9-324.md
+    stage: focus
+    status: Draft Analysis
+    confidence: Low
+    priority: 20
+    dependencies:
+    - zechariah-9
+    last_run: null
+    last_result: pending
+    notes: Contains placeholder language and still needs a first editorial pass.
+    public_beta_visible: false

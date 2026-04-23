@@ -1,0 +1,90 @@
+ordered_stages:
+  - focus
+  - steelman
+  - structure
+  - sync
+  - overview
+  - status
+  - validate
+  - complete
+
+allowed_results:
+  - pending
+  - seeded
+  - success
+  - partial
+  - blocked
+  - failed
+
+stages:
+  focus:
+    description: Tighten the main claim, reduce redundancy, and clarify page scope.
+    surface: content
+    generates_codex_prompt: true
+    skippable: false
+    applicable_types:
+      - cluster
+      - overview
+      - claim
+  steelman:
+    description: Strengthen Christian, skeptical, and Jewish readings without collapsing distinctions.
+    surface: content
+    generates_codex_prompt: true
+    skippable: true
+    applicable_types:
+      - cluster
+      - overview
+      - claim
+  structure:
+    description: Prune, merge, or consolidate over-fragmented claims and keep scope disciplined.
+    surface: content
+    generates_codex_prompt: true
+    skippable: true
+    applicable_types:
+      - cluster
+      - overview
+      - claim
+  sync:
+    description: Sync overview pages, indexes, tracker notes, preview links, and metadata after edits.
+    surface: sync
+    generates_codex_prompt: true
+    skippable: false
+    applicable_types:
+      - cluster
+      - overview
+      - claim
+  overview:
+    description: Reconcile overview coverage with surviving claim pages after structural changes.
+    surface: sync
+    generates_codex_prompt: true
+    skippable: true
+    applicable_types:
+      - cluster
+      - overview
+  status:
+    description: Assign or refresh page status and confidence labels after editorial changes.
+    surface: sync
+    generates_codex_prompt: true
+    skippable: false
+    applicable_types:
+      - cluster
+      - overview
+      - claim
+  validate:
+    description: Final sanity pass for placeholders, links, stale references, and lingering mismatches.
+    surface: validation
+    generates_codex_prompt: true
+    skippable: false
+    applicable_types:
+      - cluster
+      - overview
+      - claim
+  complete:
+    description: Item satisfies the current editorial standard and does not need automatic advancement.
+    surface: terminal
+    generates_codex_prompt: false
+    skippable: false
+    applicable_types:
+      - cluster
+      - overview
+      - claim

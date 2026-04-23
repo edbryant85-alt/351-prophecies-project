@@ -1,0 +1,37 @@
+selection:
+  include_complete: false
+  skip_blocked: true
+  skip_blocked_dependencies: true
+  default_limit: 20
+
+weights:
+  status:
+    Flagship Analysis: 1000
+    Reviewed Analysis: 500
+    Draft Analysis: 100
+  type:
+    cluster: 300
+    overview: 180
+    claim: 100
+  stage:
+    focus: 90
+    steelman: 80
+    structure: 70
+    sync: 60
+    overview: 50
+    status: 40
+    validate: 30
+    complete: 0
+  public_beta_visible: 180
+  missing_last_run: 45
+  blocked_penalty: 10000
+  dependency_penalty: 10000
+
+stale_boost:
+  threshold_days: 14
+  points_per_day: 4
+  max_points: 120
+
+reporting:
+  recent_days: 14
+  recommended_items: 10

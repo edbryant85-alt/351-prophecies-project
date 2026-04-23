@@ -1,0 +1,232 @@
+{
+  "generated_on": "2026-04-23",
+  "counts_by_stage": {
+    "complete": 7,
+    "focus": 272,
+    "validate": 24
+  },
+  "counts_by_status": {
+    "Draft Analysis": 272,
+    "Flagship Analysis": 7,
+    "Reviewed Analysis": 24
+  },
+  "counts_by_confidence": {
+    "High": 7,
+    "Low": 272,
+    "Moderate": 24
+  },
+  "flagship_progress": {
+    "complete": 7,
+    "total": 7
+  },
+  "beta_progress": {
+    "complete": 7,
+    "total": 7
+  },
+  "recently_updated_items": [
+    {
+      "id": "zechariah-11-4-6-327",
+      "stage": "validate",
+      "status": "Reviewed Analysis",
+      "last_run": "2026-04-22",
+      "notes": "Reviewed supporting claim page inside a flagship cluster; use validate/status passes to remove placeholders and keep it aligned with the overview."
+    },
+    {
+      "id": "zechariah-11-12-13-335",
+      "stage": "validate",
+      "status": "Reviewed Analysis",
+      "last_run": "2026-04-22",
+      "notes": "Reviewed supporting claim page inside a flagship cluster; use validate/status passes to remove placeholders and keep it aligned with the overview."
+    },
+    {
+      "id": "zechariah-11",
+      "stage": "complete",
+      "status": "Flagship Analysis",
+      "last_run": "2026-04-22",
+      "notes": "Seeded from the existing shareable-preview cluster and reviewed supporting pages."
+    },
+    {
+      "id": "psalm-22-7-77",
+      "stage": "validate",
+      "status": "Reviewed Analysis",
+      "last_run": "2026-04-22",
+      "notes": "Reviewed supporting claim page inside a flagship cluster; use validate/status passes to remove placeholders and keep it aligned with the overview."
+    },
+    {
+      "id": "psalm-22-22-89",
+      "stage": "validate",
+      "status": "Reviewed Analysis",
+      "last_run": "2026-04-22",
+      "notes": "Reviewed supporting claim page inside a flagship cluster; use validate/status passes to remove placeholders and keep it aligned with the overview."
+    },
+    {
+      "id": "psalm-22-17-18-85",
+      "stage": "validate",
+      "status": "Reviewed Analysis",
+      "last_run": "2026-04-22",
+      "notes": "Reviewed supporting claim page inside a flagship cluster; use validate/status passes to remove placeholders and keep it aligned with the overview."
+    },
+    {
+      "id": "psalm-22-16-84",
+      "stage": "validate",
+      "status": "Reviewed Analysis",
+      "last_run": "2026-04-22",
+      "notes": "Reviewed supporting claim page inside a flagship cluster; use validate/status passes to remove placeholders and keep it aligned with the overview."
+    },
+    {
+      "id": "psalm-22-14-15-82",
+      "stage": "validate",
+      "status": "Reviewed Analysis",
+      "last_run": "2026-04-22",
+      "notes": "Reviewed supporting claim page inside a flagship cluster; use validate/status passes to remove placeholders and keep it aligned with the overview."
+    },
+    {
+      "id": "psalm-22-1-75",
+      "stage": "validate",
+      "status": "Reviewed Analysis",
+      "last_run": "2026-04-22",
+      "notes": "Reviewed supporting claim page inside a flagship cluster; use validate/status passes to remove placeholders and keep it aligned with the overview."
+    },
+    {
+      "id": "psalm-22",
+      "stage": "complete",
+      "status": "Flagship Analysis",
+      "last_run": "2026-04-22",
+      "notes": "Seeded from the existing shareable-preview cluster and reviewed supporting pages."
+    }
+  ],
+  "blocked_items": [],
+  "next_recommended_items": [
+    {
+      "id": "daniel-9-24-301",
+      "stage": "validate",
+      "status": "Reviewed Analysis",
+      "confidence": "Moderate",
+      "score": 710,
+      "reasons": [
+        "base priority 80",
+        "status Reviewed Analysis",
+        "type claim",
+        "stage validate"
+      ]
+    },
+    {
+      "id": "daniel-9-25-303",
+      "stage": "validate",
+      "status": "Reviewed Analysis",
+      "confidence": "Moderate",
+      "score": 710,
+      "reasons": [
+        "base priority 80",
+        "status Reviewed Analysis",
+        "type claim",
+        "stage validate"
+      ]
+    },
+    {
+      "id": "daniel-9-26-304",
+      "stage": "validate",
+      "status": "Reviewed Analysis",
+      "confidence": "Moderate",
+      "score": 710,
+      "reasons": [
+        "base priority 80",
+        "status Reviewed Analysis",
+        "type claim",
+        "stage validate"
+      ]
+    },
+    {
+      "id": "genesis-3-15-2",
+      "stage": "validate",
+      "status": "Reviewed Analysis",
+      "confidence": "Moderate",
+      "score": 710,
+      "reasons": [
+        "base priority 80",
+        "status Reviewed Analysis",
+        "type claim",
+        "stage validate"
+      ]
+    },
+    {
+      "id": "isaiah-53-10-266",
+      "stage": "validate",
+      "status": "Reviewed Analysis",
+      "confidence": "Moderate",
+      "score": 710,
+      "reasons": [
+        "base priority 80",
+        "status Reviewed Analysis",
+        "type claim",
+        "stage validate"
+      ]
+    },
+    {
+      "id": "isaiah-53-12-274",
+      "stage": "validate",
+      "status": "Reviewed Analysis",
+      "confidence": "Moderate",
+      "score": 710,
+      "reasons": [
+        "base priority 80",
+        "status Reviewed Analysis",
+        "type claim",
+        "stage validate"
+      ]
+    },
+    {
+      "id": "isaiah-53-2-243",
+      "stage": "validate",
+      "status": "Reviewed Analysis",
+      "confidence": "Moderate",
+      "score": 710,
+      "reasons": [
+        "base priority 80",
+        "status Reviewed Analysis",
+        "type claim",
+        "stage validate"
+      ]
+    },
+    {
+      "id": "isaiah-53-4-248",
+      "stage": "validate",
+      "status": "Reviewed Analysis",
+      "confidence": "Moderate",
+      "score": 710,
+      "reasons": [
+        "base priority 80",
+        "status Reviewed Analysis",
+        "type claim",
+        "stage validate"
+      ]
+    },
+    {
+      "id": "isaiah-53-5-250",
+      "stage": "validate",
+      "status": "Reviewed Analysis",
+      "confidence": "Moderate",
+      "score": 710,
+      "reasons": [
+        "base priority 80",
+        "status Reviewed Analysis",
+        "type claim",
+        "stage validate"
+      ]
+    },
+    {
+      "id": "isaiah-53-6-253",
+      "stage": "validate",
+      "status": "Reviewed Analysis",
+      "confidence": "Moderate",
+      "score": 710,
+      "reasons": [
+        "base priority 80",
+        "status Reviewed Analysis",
+        "type claim",
+        "stage validate"
+      ]
+    }
+  ],
+  "total_items": 303
+}
