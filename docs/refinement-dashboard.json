@@ -1,9 +1,9 @@
 {
   "generated_on": "2026-04-23",
   "counts_by_stage": {
-    "complete": 22,
+    "complete": 23,
     "focus": 272,
-    "validate": 9
+    "validate": 8
   },
   "counts_by_status": {
     "Draft Analysis": 272,
@@ -24,6 +24,13 @@
     "total": 7
   },
   "recently_updated_items": [
+    {
+      "id": "micah-5-2-314",
+      "stage": "complete",
+      "status": "Reviewed Analysis",
+      "last_run": "2026-04-23",
+      "notes": "Reviewed supporting claim page inside a flagship cluster; use validate/status passes to remove placeholders and keep it aligned with the overview.\n2026-04-23: Validate pass completed and pushed"
+    },
     {
       "id": "micah-5-2-313",
       "stage": "complete",
@@ -86,30 +93,10 @@
       "status": "Reviewed Analysis",
       "last_run": "2026-04-23",
       "notes": "Reviewed supporting claim page inside a flagship cluster; use validate/status passes to remove placeholders and keep it aligned with the overview.\n2026-04-23: Validate pass completed and pushed"
-    },
-    {
-      "id": "isaiah-53-12-274",
-      "stage": "complete",
-      "status": "Reviewed Analysis",
-      "last_run": "2026-04-23",
-      "notes": "Reviewed supporting claim page inside a flagship cluster; use validate/status passes to remove placeholders and keep it aligned with the overview.\n2026-04-23: Validate pass completed and pushed"
     }
   ],
   "blocked_items": [],
   "next_recommended_items": [
-    {
-      "id": "micah-5-2-314",
-      "stage": "validate",
-      "status": "Reviewed Analysis",
-      "confidence": "Moderate",
-      "score": 710,
-      "reasons": [
-        "base priority 80",
-        "status Reviewed Analysis",
-        "type claim",
-        "stage validate"
-      ]
-    },
     {
       "id": "psalm-22-1-75",
       "stage": "validate",
@@ -216,6 +203,20 @@
     },
     {
       "id": "2-samuel-7",
+      "stage": "focus",
+      "status": "Draft Analysis",
+      "confidence": "Low",
+      "score": 475,
+      "reasons": [
+        "base priority 60",
+        "status Draft Analysis",
+        "type overview",
+        "stage focus",
+        "never run"
+      ]
+    },
+    {
+      "id": "daniel-7",
       "stage": "focus",
       "status": "Draft Analysis",
       "confidence": "Low",
