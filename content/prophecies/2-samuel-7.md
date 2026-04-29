@@ -2,61 +2,88 @@
 
 **Page Status:** Draft Analysis<br>
 **Confidence Level:** Low<br>
-**Last Updated:** 2026-04-22<br>
+**Last Updated:** 2026-04-29<br>
 
-> NOTE: The following content is AI-generated placeholder analysis for structural and research development purposes. It is subject to review, correction, and expansion.
-
-> NOTE: This is an overview page summarizing multiple prophecy claims associated with this passage. For detailed analysis, see the individual claim pages linked below.
+> NOTE: This overview page summarizes multiple prophecy claims associated with this passage. For detailed analysis, see the individual claim pages linked below.
 
 ## Related Prophecy Claims
+- 2 Samuel 7:12 (Claim 49): David's seed
 - [2 Samuel 7:13 (Claim 50)](./2-samuel-7-13-50.md)
 - [2 Samuel 7:14a (Claim 51)](./2-samuel-7-14-51.md)
 - [2 Samuel 7:16 (Claim 52)](./2-samuel-7-16-52.md)
 
 ## Claim
-This entry examines the claimed prophecy associated with 2 Samuel 7.
+Christians often read 2 Samuel 7 as one of the foundational Old Testament texts for messianic hope because it promises David an enduring house, throne, kingdom, and royal sonship. The strongest Christian reading is not that every line is a narrow prediction about Jesus in isolation, but that the Davidic covenant creates a royal pattern that later Jewish and Christian interpretation came to associate with the Messiah.
 
 ## Scripture Text
 
-**Focus Verses:** 2 Samuel 7:13-14, 16
+**Focus Verses:** 2 Samuel 7:12-16
 
-- Display scope: Full passage / logical section
-- Passage reference: - Claim Summary:
-- [View full passage on Bible Gateway](https://www.biblegateway.com/passage/?search=-%20Claim%20Summary%3A&version=NRSVUE)
+- **Passage Reference:** 2 Samuel 7
+- [View full passage on Bible Gateway](https://www.biblegateway.com/passage/?search=2%20Samuel%207&version=NRSVUE)
 
 ## 351 List Reference
-- Number:
-- OT Reference:
-- Claim Summary:
-- Claimed NT Fulfillment:
+- Number: Claims 49-52
+- OT Reference: 2 Samuel 7:12-16
+- Claim Summary: David's seed, everlasting kingdom, divine sonship, and established house
+- Claimed NT Fulfillment: Matt 1:1; Luke 1:32; Rom 1:3-4; 2 Pet 1:11; Rev 22:16
 
 ## Skeptic Criteria Evaluation
-In the current project dataset, this claim is provisionally marked as failing criteria 2,3,4,5,6. Many skeptics argue that passages like this are being read through later theological framing rather than as clear, self-contained predictions. On that reading, the claim may depend on ambiguity, typology, or retrospective interpretation rather than a single direct fulfillment.
+Skeptics commonly argue that 2 Samuel 7 fails criteria 2, 3, 4, 5, and 6 when it is presented as a set of direct predictions about Jesus. The strongest objection is criterion 2, predictive intent: in its original narrative setting, the passage speaks first about David's dynasty and the succession of royal sons after him. Criteria 4 and 5 are also disputed because "seed," "house," "throne," and "forever" are covenantal and dynastic terms rather than a detailed description of one future individual. Criterion 6 matters less than in Gospel-narrative cases, but skeptics still note that later Christian interpretation is consciously reading Jesus through established Davidic categories.
+
 ## Old Testament Passage
-This entry centers on 2 Samuel 7:12, a passage situated in biblical narrative, law, or covenantal tradition. Its meaning depends in part on how it functions in the immediate scene, not only on later theological use. A final version of this section should summarize the surrounding passage, its role in the broader narrative or legal context, and the specific wording attached to the prophecy claim.
+2 Samuel 7 records Nathan's oracle to David after David proposes building a house for the Lord. The response reverses the initiative: David will not build God's house in the immediate sense; instead, God promises to build David a "house," meaning a dynasty. The passage then looks to David's offspring, the establishment of his kingdom, a father-son relationship between God and the king, and the endurance of David's house and throne.
+
+As an overview page, this entry covers the whole Davidic-covenant cluster rather than one narrow phrase. Claim 49 focuses on David's seed, claim 50 on the enduring kingdom, claim 51 on royal sonship, and claim 52 on the permanence of David's house.
+
 ## Old Testament Context
-The historical setting is likely tied to the Israelite monarchy, royal ideology, dynastic promise, temple-centered politics, or later reflection on kingship. The original audience would have heard the passage in relation to concrete questions about rule, covenant loyalty, judgment, succession, or national identity. This matters because many disputed prophecy claims arise from texts that may first address an immediate royal or political circumstance.
+In its immediate context, 2 Samuel 7 is about monarchy, succession, temple hopes, and dynastic legitimacy. The "offspring" after David naturally points first to Solomon and to the royal line that follows David. The passage also includes discipline language, which fits ordinary Davidic kings more directly than an ideal sinless messiah.
+
+That local setting does not make later messianic interpretation arbitrary, but it does set limits. The passage establishes a theological framework for Davidic kingship before it functions as a Christian claim about Jesus.
+
 ## Claimed New Testament Fulfillment
-The dataset associates this claim with Matt 1:1. In Christian interpretation, the New Testament reference is taken either as a direct fulfillment text, a typological echo, or a theological application of the Old Testament passage. A final draft should explain how explicit the connection actually is and whether the New Testament is quoting, alluding to, or conceptually reframing the earlier text.
+The New Testament uses Davidic identity as a major category for Jesus. Matthew opens by identifying Jesus as son of David, Luke 1:32 says he will receive the throne of David, Romans 1:3-4 describes him as descended from David and declared Son of God in power, and Revelation 22:16 calls him the root and descendant of David. These are not usually direct quotations of 2 Samuel 7, but they depend on the Davidic covenant tradition that 2 Samuel 7 anchors.
+
+The Christian fulfillment claim is therefore mostly canonical and cumulative. Jesus is presented as the final Davidic heir, not merely as someone who happens to match one isolated phrase.
+
 ## Why a Skeptic Says It Fails
-Typical skeptical objections include context mismatch, ambiguity of wording, and the possibility that the passage functions better as pattern or typology than as direct prediction. Skeptics also argue that some fulfillment claims depend heavily on New Testament framing, which can make the relationship look retrospective rather than independently predictive. In a final analysis, this section should distinguish between objections to the original meaning of the passage and objections to the later Christian use of it.
+### C2 Predictive Intent
+The core skeptical objection is that 2 Samuel 7 is not framed as a direct prediction of Jesus of Nazareth. It is a dynastic oracle about David's house, his successor, and the royal line. Later messianic hope may grow from this promise, but that is not the same as the original passage explicitly forecasting Jesus.
+
+### C4 Specific and Verifiable
+The claims are broad: seed, sonship, house, kingdom, throne, and forever. These are meaningful royal-theological categories, but they do not identify a specific future event in the way stricter predictive criteria require.
+
+### C5 Clarity
+The passage can be read at several levels: Solomon, the Davidic dynasty, later messianic hope, and Christian fulfillment in Jesus. That layered readability is a strength for canonical interpretation, but a weakness for direct-prediction apologetics.
+
+### C6 Independence
+The New Testament's use of Davidic categories is deliberate and theological. Skeptics therefore ask whether the text independently points to Jesus or whether early Christians identified Jesus through the available scriptural grammar of Davidic kingship.
+
 ## Original Language Notes
-Interpretation may depend in part on Hebrew terms in the Old Testament and, where relevant, on Greek wording in the Septuagint or New Testament. Translation choices can shape whether a phrase sounds like direct prediction, poetic description, royal ideology, or theological symbolism. A final draft should identify the key lexical or grammatical terms that materially affect the claim rather than assuming that standard English renderings settle the question.
+The key terms are dynastic rather than obscure: "seed" or offspring, "house," "kingdom," "throne," and "son." The Hebrew idea of house can refer to a physical building, a temple, or a dynasty, and the passage plays on that range of meaning. The father-son language also belongs to royal covenant theology; it does not automatically mean divine sonship in the later Christian doctrinal sense.
+
 ## Historical and Cultural Context
-Relevant background may include covenant traditions, kinship structures, sacrificial practice, royal legitimacy, or national identity in the ancient Near East. Some interpreters also consider how later Second Temple readers might have received older Israelite texts in new historical settings. This broader context does not decide the interpretation by itself, but it often narrows what kinds of readings are historically plausible.
+Royal grants and dynastic promises were a major part of ancient Near Eastern political theology. In Israel's context, 2 Samuel 7 became a central explanation for Davidic legitimacy and later hope. After the monarchy failed and exile disrupted the royal line, promises about David's house and throne became especially important for later reflection on restoration and messianic expectation.
+
 ## Jewish Interpretation
-Many Jewish interpreters read passages like this first within their original literary and historical setting rather than as direct predictions of Jesus. Depending on the text, Jewish readings may emphasize immediate historical referents, corporate Israel, the Davidic line, temple concerns, wisdom themes, or future messianic hope understood differently from Christian readings. Jewish interpretation is not monolithic, so a final draft should note major streams of interpretation without reducing them to a single position.
+Jewish interpretation commonly treats 2 Samuel 7 as foundational for the Davidic covenant and for later messianic hope, while still reading the immediate referent in relation to David's dynasty and Solomon. It is not usually read as a direct prophecy of Jesus. Some Jewish readings emphasize the continuing significance of the Davidic line, the temple, and the hope for a future anointed king understood within Israel's own covenant story.
+
 ## Christian Interpretation
-Many Christians read this passage messianically, typologically, or prophetically in relation to Jesus. Interpretations vary: some argue for a direct prediction, others for dual fulfillment, and others for a broader canonical or typological pattern that culminates in the New Testament. A final draft should distinguish these interpretive approaches rather than treating all Christian readings as identical.
+Christian interpretation sees Jesus as the culmination of the Davidic promise. In this reading, Jesus fulfills the covenant not because every phrase in 2 Samuel 7 is a one-to-one forecast, but because his identity as David's son, royal Messiah, and risen Lord brings the Davidic line to its theological goal. More cautious Christian readings frame this as typological or canonical fulfillment rather than simple direct prediction.
+
 ## Textual Issues
-Textual questions may involve the Masoretic Text, the Septuagint, and where relevant the Dead Sea Scrolls. In some passages, these witnesses differ in wording or nuance enough to affect interpretation; in others, the debate is less about textual instability and more about how a relatively stable text should be read. This means textual criticism can be important, but it is not always decisive for the larger prophecy debate.
+There is no major textual problem that decides the argument. The debate is mostly interpretive: whether "forever" should be read as dynastic promise, eschatological hope, messianic expectation, or Christian fulfillment in Jesus. The relationship between 2 Samuel 7 and its parallel in 1 Chronicles 17 may also shape interpretation, since Chronicles presents the Davidic promise in a later theological setting.
+
 ## My Conclusion
-This entry remains under review and should be treated as a structured placeholder rather than a final judgment. Its eventual classification will depend in part on how prophecy is defined in this project: as direct prediction, as typological pattern, or as a broader canonical reading. For now, the main goal is to preserve the research structure and identify the key interpretive questions without forcing a premature conclusion.
+2 Samuel 7 is extremely important for Christian messianic interpretation, but it is weaker as a set of stand-alone direct predictions. Its strongest role is as a covenantal foundation for Davidic messianism, later read by Christians as culminating in Jesus. Under strict criteria, the passage works best as canonical or typological fulfillment rather than as a simple forecast of isolated New Testament events.
+
 ## Sources
-- Standard biblical commentaries
-- Lexical studies (Hebrew/Greek)
-- Jewish and Christian interpretive traditions
-- Historical-critical scholarship
+- Walter Brueggemann
+- P. Kyle McCarter
+- Robert Alter
+- John Goldingay
+- Richard B. Hays
+- Major Samuel and biblical theology commentaries
 
 ## Copyright Notice
 Scripture quotations are from the New Revised Standard Version Updated Edition (NRSVUE), copyright © 2021 by the National Council of the Churches of Christ in the United States of America. Used by permission. All rights reserved.
