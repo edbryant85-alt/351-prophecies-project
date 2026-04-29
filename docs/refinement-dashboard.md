@@ -1,6 +1,6 @@
 # Refinement Dashboard
 
-- Generated on: 2026-04-23
+- Generated on: 2026-04-29
 - Total tracked items: 303
 - Flagship progress: 7/7 complete
 - Beta-visible progress: 7/7 complete
@@ -8,9 +8,9 @@
 ## Counts by Stage
 | Stage    | Count |
 | -------- | ----- |
-| complete | 24    |
+| complete | 25    |
 | focus    | 272   |
-| validate | 7     |
+| validate | 6     |
 
 ## Counts by Status
 | Status            | Count |
@@ -27,6 +27,7 @@
 | Moderate   | 24    |
 
 ## Recently Updated Items
+- `psalm-22-14-15-82`: stage `complete`, status `Reviewed Analysis`, last run `2026-04-29`
 - `psalm-22-1-75`: stage `complete`, status `Reviewed Analysis`, last run `2026-04-23`
 - `micah-5-2-314`: stage `complete`, status `Reviewed Analysis`, last run `2026-04-23`
 - `micah-5-2-313`: stage `complete`, status `Reviewed Analysis`, last run `2026-04-23`
@@ -36,13 +37,11 @@
 - `isaiah-53-7-255`: stage `complete`, status `Reviewed Analysis`, last run `2026-04-23`
 - `isaiah-53-6-253`: stage `complete`, status `Reviewed Analysis`, last run `2026-04-23`
 - `isaiah-53-5-250`: stage `complete`, status `Reviewed Analysis`, last run `2026-04-23`
-- `isaiah-53-4-248`: stage `complete`, status `Reviewed Analysis`, last run `2026-04-23`
 
 ## Blocked Items
 - None
 
 ## Next Recommended Work Items
-- `psalm-22-14-15-82`: stage `validate`, status `Reviewed Analysis`, confidence `Moderate`, score `710`
 - `psalm-22-16-84`: stage `validate`, status `Reviewed Analysis`, confidence `Moderate`, score `710`
 - `psalm-22-17-18-85`: stage `validate`, status `Reviewed Analysis`, confidence `Moderate`, score `710`
 - `psalm-22-22-89`: stage `validate`, status `Reviewed Analysis`, confidence `Moderate`, score `710`
@@ -52,4 +51,5 @@
 - `2-samuel-7`: stage `focus`, status `Draft Analysis`, confidence `Low`, score `475`
 - `daniel-7`: stage `focus`, status `Draft Analysis`, confidence `Low`, score `475`
 - `exodus-12`: stage `focus`, status `Draft Analysis`, confidence `Low`, score `475`
+- `isaiah-11`: stage `focus`, status `Draft Analysis`, confidence `Low`, score `475`
 
