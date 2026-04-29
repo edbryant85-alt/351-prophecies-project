@@ -3893,16 +3893,18 @@ pages:
     type: claim
     files:
     - content/prophecies/zechariah-11-12-13-335.md
-    stage: validate
+    stage: complete
     status: Reviewed Analysis
     confidence: Moderate
     priority: 80
     dependencies:
     - zechariah-11
-    last_run: '2026-04-22'
-    last_result: seeded
-    notes: Reviewed supporting claim page inside a flagship cluster; use validate/status
+    last_run: '2026-04-29'
+    last_result: success
+    notes: 'Reviewed supporting claim page inside a flagship cluster; use validate/status
       passes to remove placeholders and keep it aligned with the overview.
+
+      2026-04-29: Validate pass completed and pushed'
     public_beta_visible: false
   zechariah-11-4-6-327:
     type: claim
