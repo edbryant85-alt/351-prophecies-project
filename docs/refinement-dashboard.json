@@ -2,8 +2,8 @@
   "generated_on": "2026-04-29",
   "counts_by_stage": {
     "complete": 31,
-    "focus": 269,
-    "steelman": 2,
+    "focus": 268,
+    "steelman": 3,
     "structure": 1
   },
   "counts_by_status": {
@@ -75,6 +75,13 @@
       "notes": "Reviewed supporting claim page inside a flagship cluster; use validate/status passes to remove placeholders and keep it aligned with the overview.\n2026-04-29: Validate pass completed and pushed"
     },
     {
+      "id": "isaiah-11",
+      "stage": "steelman",
+      "status": "Draft Analysis",
+      "last_run": "2026-04-29",
+      "notes": "Contains placeholder language and still needs a first editorial pass.\n2026-04-29: Focus pass completed and pushed"
+    },
+    {
       "id": "exodus-12",
       "stage": "structure",
       "status": "Draft Analysis",
@@ -87,31 +94,10 @@
       "status": "Draft Analysis",
       "last_run": "2026-04-29",
       "notes": "Contains placeholder language and still needs a first editorial pass.\n2026-04-29: Focus pass completed and pushed"
-    },
-    {
-      "id": "2-samuel-7",
-      "stage": "steelman",
-      "status": "Draft Analysis",
-      "last_run": "2026-04-29",
-      "notes": "Contains placeholder language and still needs a first editorial pass.\n2026-04-29: Focus pass completed and pushed"
     }
   ],
   "blocked_items": [],
   "next_recommended_items": [
-    {
-      "id": "isaiah-11",
-      "stage": "focus",
-      "status": "Draft Analysis",
-      "confidence": "Low",
-      "score": 475,
-      "reasons": [
-        "base priority 60",
-        "status Draft Analysis",
-        "type overview",
-        "stage focus",
-        "never run"
-      ]
-    },
     {
       "id": "isaiah-42",
       "stage": "focus",
@@ -226,6 +212,20 @@
     },
     {
       "id": "psalm-16",
+      "stage": "focus",
+      "status": "Draft Analysis",
+      "confidence": "Low",
+      "score": 475,
+      "reasons": [
+        "base priority 60",
+        "status Draft Analysis",
+        "type overview",
+        "stage focus",
+        "never run"
+      ]
+    },
+    {
+      "id": "psalm-2",
       "stage": "focus",
       "status": "Draft Analysis",
       "confidence": "Low",

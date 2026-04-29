@@ -9,8 +9,8 @@
 | Stage     | Count |
 | --------- | ----- |
 | complete  | 31    |
-| focus     | 269   |
-| steelman  | 2     |
+| focus     | 268   |
+| steelman  | 3     |
 | structure | 1     |
 
 ## Counts by Status
@@ -35,15 +35,14 @@
 - `psalm-22-17-18-85`: stage `complete`, status `Reviewed Analysis`, last run `2026-04-29`
 - `psalm-22-16-84`: stage `complete`, status `Reviewed Analysis`, last run `2026-04-29`
 - `psalm-22-14-15-82`: stage `complete`, status `Reviewed Analysis`, last run `2026-04-29`
+- `isaiah-11`: stage `steelman`, status `Draft Analysis`, last run `2026-04-29`
 - `exodus-12`: stage `structure`, status `Draft Analysis`, last run `2026-04-29`
 - `daniel-7`: stage `steelman`, status `Draft Analysis`, last run `2026-04-29`
-- `2-samuel-7`: stage `steelman`, status `Draft Analysis`, last run `2026-04-29`
 
 ## Blocked Items
 - None
 
 ## Next Recommended Work Items
-- `isaiah-11`: stage `focus`, status `Draft Analysis`, confidence `Low`, score `475`
 - `isaiah-42`: stage `focus`, status `Draft Analysis`, confidence `Low`, score `475`
 - `isaiah-50`: stage `focus`, status `Draft Analysis`, confidence `Low`, score `475`
 - `isaiah-61`: stage `focus`, status `Draft Analysis`, confidence `Low`, score `475`
@@ -53,4 +52,5 @@
 - `malachi-4`: stage `focus`, status `Draft Analysis`, confidence `Low`, score `475`
 - `psalm-110`: stage `focus`, status `Draft Analysis`, confidence `Low`, score `475`
 - `psalm-16`: stage `focus`, status `Draft Analysis`, confidence `Low`, score `475`
+- `psalm-2`: stage `focus`, status `Draft Analysis`, confidence `Low`, score `475`
 
