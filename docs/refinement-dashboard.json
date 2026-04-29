@@ -1,9 +1,8 @@
 {
   "generated_on": "2026-04-29",
   "counts_by_stage": {
-    "complete": 30,
-    "focus": 272,
-    "validate": 1
+    "complete": 31,
+    "focus": 272
   },
   "counts_by_status": {
     "Draft Analysis": 272,
@@ -24,6 +23,13 @@
     "total": 7
   },
   "recently_updated_items": [
+    {
+      "id": "zechariah-11-4-6-327",
+      "stage": "complete",
+      "status": "Reviewed Analysis",
+      "last_run": "2026-04-29",
+      "notes": "Reviewed supporting claim page inside a flagship cluster; use validate/status passes to remove placeholders and keep it aligned with the overview.\n2026-04-29: Validate pass completed and pushed"
+    },
     {
       "id": "zechariah-11-12-13-335",
       "stage": "complete",
@@ -86,30 +92,10 @@
       "status": "Reviewed Analysis",
       "last_run": "2026-04-23",
       "notes": "Reviewed supporting claim page inside a flagship cluster; use validate/status passes to remove placeholders and keep it aligned with the overview.\n2026-04-23: Validate pass completed and pushed"
-    },
-    {
-      "id": "isaiah-7-14-171",
-      "stage": "complete",
-      "status": "Reviewed Analysis",
-      "last_run": "2026-04-23",
-      "notes": "Reviewed supporting claim page inside a flagship cluster; use validate/status passes to remove placeholders and keep it aligned with the overview.\n2026-04-23: Validate pass completed and pushed"
     }
   ],
   "blocked_items": [],
   "next_recommended_items": [
-    {
-      "id": "zechariah-11-4-6-327",
-      "stage": "validate",
-      "status": "Reviewed Analysis",
-      "confidence": "Moderate",
-      "score": 710,
-      "reasons": [
-        "base priority 80",
-        "status Reviewed Analysis",
-        "type claim",
-        "stage validate"
-      ]
-    },
     {
       "id": "2-samuel-7",
       "stage": "focus",
@@ -224,6 +210,20 @@
     },
     {
       "id": "jeremiah-31",
+      "stage": "focus",
+      "status": "Draft Analysis",
+      "confidence": "Low",
+      "score": 475,
+      "reasons": [
+        "base priority 60",
+        "status Draft Analysis",
+        "type overview",
+        "stage focus",
+        "never run"
+      ]
+    },
+    {
+      "id": "malachi-3",
       "stage": "focus",
       "status": "Draft Analysis",
       "confidence": "Low",
