@@ -2,11 +2,9 @@
 
 **Page Status:** Draft Analysis<br>
 **Confidence Level:** Low<br>
-**Last Updated:** 2026-04-22<br>
+**Last Updated:** 2026-04-29<br>
 
-> NOTE: The following content is AI-generated placeholder analysis for structural and research development purposes. It is subject to review, correction, and expansion.
-
-> NOTE: This is an overview page summarizing multiple prophecy claims associated with this passage. For detailed analysis, see the individual claim pages linked below.
+> NOTE: This overview page summarizes multiple prophecy claims associated with this passage. For detailed analysis, see the individual claim pages linked below.
 
 ## Related Prophecy Claims
 - [Exodus 12:13 (Claim 23)](./exodus-12-13-23.md)
@@ -14,49 +12,83 @@
 - [Exodus 12:46 (Claim 25)](./exodus-12-46-25.md)
 
 ## Claim
-This entry examines the claimed prophecy associated with Exodus 12.
+Christians often read Exodus 12 as one of the Bible's foundational Passover patterns that later culminate in Jesus. The strongest Christian case is not that Exodus 12 directly predicts Jesus in a narrow forecasting sense, but that the lamb, the blood, the deliverance from judgment, and the unbroken bones become a major typological framework for New Testament interpretation.
 
 ## Scripture Text
 
-**Focus Verses:** Exodus 12:13, 21-27, 46
+> "The blood shall be a sign for you on the houses where you live: when I see the blood, I will pass over you, and no plague shall destroy you when I strike the land of Egypt." (Exodus 12:13, NRSVue)
+>
+> "They shall eat the lamb that same night; they shall eat it roasted over the fire with unleavened bread and bitter herbs." (Exodus 12:8, NRSVue)
+>
+> "It shall be eaten in one house; you shall not take any of the animal outside the house, and you shall not break any of its bones." (Exodus 12:46, NRSVue)
 
-- Display scope: Full passage / logical section
-- Passage reference: - Claim Summary:
-- [View full passage on Bible Gateway](https://www.biblegateway.com/passage/?search=-%20Claim%20Summary%3A&version=NRSVUE)
+**Focus Verses:** Exodus 12:5-13, 21-27, 43-46
+
+- **Passage Reference:** Exodus 12
+- [View full passage on Bible Gateway](https://www.biblegateway.com/passage/?search=Exodus%2012&version=NRSVUE)
 
 ## 351 List Reference
-- Number:
-- OT Reference:
-- Claim Summary:
-- Claimed NT Fulfillment:
+- Number: Claims 23-25
+- OT Reference: Exodus 12
+- Claim Summary: the blood protects from judgment, Passover as a saving pattern, and no broken bones
+- Claimed NT Fulfillment: Rom 5:8; 1 Cor 5:7; Heb 9:14; 1 Pet 1:19; John 19:31-36
 
 ## Skeptic Criteria Evaluation
-In the current project dataset, this claim is provisionally marked as failing criteria 2,3,4,5,6. Many skeptics argue that passages like this are being read through later theological framing rather than as clear, self-contained predictions. On that reading, the claim may depend on ambiguity, typology, or retrospective interpretation rather than a single direct fulfillment.
+Skeptics commonly argue that Exodus 12 fails criteria 2, 4, 5, and 6 if it is presented as a set of direct predictions about Jesus. The central issue is criterion 2, predictive intent: in context, Exodus 12 institutes Israel's Passover and explains deliverance from Egypt, not a future messianic forecast. Criteria 4 and 5 also matter because the Christian case depends on symbolic correspondences rather than explicit prediction. Criterion 6 is weaker than in some Gospel-shaped passages, but skeptics still note that the New Testament deliberately rereads Passover imagery through Jesus' death.
+
 ## Old Testament Passage
-This entry centers on Exodus 12:5, a passage situated in biblical narrative, law, or covenantal tradition. Its meaning depends in part on how it functions in the immediate scene, not only on later theological use. A final version of this section should summarize the surrounding passage, its role in the broader narrative or legal context, and the specific wording attached to the prophecy claim.
+Exodus 12 describes the first Passover on the eve of Israel's deliverance from Egypt. Israel is told to select a lamb, mark the houses with blood, eat the meal in readiness, and remember the event through ritual observance. The chapter combines historical narrative, liturgical instruction, covenant memory, and sacrificial symbolism.
+
+As an overview page, this entry covers the full Passover cluster rather than one isolated phrase. Claim 23 emphasizes the blood as protection from judgment, claim 24 focuses on Passover as a saving pattern, and claim 25 centers on the instruction that no bone of the lamb is to be broken.
+
 ## Old Testament Context
-The historical setting is likely tied to early Israelite origins, ancestral traditions, covenant formation, wilderness identity, or the settlement period. The original audience would have encountered the passage as part of a broader narrative about Israel's relationship to God, land, promise, law, or deliverance. Many scholars therefore stress that any later messianic reading must first account for the passage's function in that earlier literary and historical setting.
+In its original setting, Exodus 12 explains Israel's redemption from Egypt and establishes a recurring memorial practice. The lamb is part of a liberation event tied to Israel's identity, worship, and covenant story. That means the passage is first about deliverance, judgment on Egypt, and ritual remembrance, not about an explicit future messiah.
+
+At the same time, the chapter is unusually fertile for later theology because it unites sacrifice, deliverance, blood, covenant memory, and communal identity in one narrative moment. That helps explain why later Jewish and Christian interpretation found it so important.
+
 ## Claimed New Testament Fulfillment
-The dataset associates this claim with Heb 9:14; 1 Pet 1:19. In Christian interpretation, the New Testament reference is taken either as a direct fulfillment text, a typological echo, or a theological application of the Old Testament passage. A final draft should explain how explicit the connection actually is and whether the New Testament is quoting, alluding to, or conceptually reframing the earlier text.
+The New Testament does not usually present Exodus 12 as a single direct fulfillment proof text. Instead, it reuses Passover categories in several places: Paul says, "Christ our Passover has been sacrificed for us" in 1 Corinthians 5:7; 1 Peter 1:19 compares Jesus to a spotless lamb; Hebrews 9 uses sacrificial blood imagery in a broader way; and John 19:36 links Jesus' unbroken bones to Passover-like scripture.
+
+The Christian argument is therefore strongly typological and cumulative. Jesus is portrayed as the true Passover lamb whose death brings deliverance, rather than as the object of a single explicit prediction embedded in Exodus 12.
+
 ## Why a Skeptic Says It Fails
-Typical skeptical objections include context mismatch, ambiguity of wording, and the possibility that the passage functions better as pattern or typology than as direct prediction. Skeptics also argue that some fulfillment claims depend heavily on New Testament framing, which can make the relationship look retrospective rather than independently predictive. In a final analysis, this section should distinguish between objections to the original meaning of the passage and objections to the later Christian use of it.
+### C2 Predictive Intent
+The main skeptical objection is that Exodus 12 is not a messianic oracle. It institutes Passover for Israel in the Exodus story. Reading Jesus directly out of it requires later theological interpretation rather than the plain original function of the passage.
+
+### C4 Specific and Verifiable
+The correspondences can be meaningful, but they are pattern-based: lamb, blood, deliverance, purity, remembrance, and unbroken bones. Skeptics argue that this is different from a specific prediction about one future individual.
+
+### C5 Clarity
+Nothing in Exodus 12 explicitly says that the lamb points to a future messiah. The Christian reading depends on canonical development rather than on a transparent one-step prediction.
+
+### C6 Independence
+New Testament writers are clearly aware of Passover symbolism. Skeptics therefore ask whether Jesus independently fulfills Exodus 12 or whether his death is being narrated and interpreted through already available Passover categories.
+
 ## Original Language Notes
-Interpretation may depend in part on Hebrew terms in the Old Testament and, where relevant, on Greek wording in the Septuagint or New Testament. Translation choices can shape whether a phrase sounds like direct prediction, poetic description, royal ideology, or theological symbolism. A final draft should identify the key lexical or grammatical terms that materially affect the claim rather than assuming that standard English renderings settle the question.
+The important language is ritual and narrative rather than obscure. Terms involving lamb, blood, pass over, memorial, and ordinance shape the theology of the chapter. The significance lies less in one disputed word than in the total symbolic structure of the passage.
+
 ## Historical and Cultural Context
-Relevant background may include covenant traditions, kinship structures, sacrificial practice, royal legitimacy, or national identity in the ancient Near East. Some interpreters also consider how later Second Temple readers might have received older Israelite texts in new historical settings. This broader context does not decide the interpretation by itself, but it often narrows what kinds of readings are historically plausible.
+Passover stands at the center of Israel's remembered liberation from Egypt and became one of the defining rituals of Jewish communal life. Sacrificial meals, protective blood rites, and memorial observance all belong to the ancient Near Eastern and Israelite religious world, but Exodus 12 gives them a uniquely national and covenantal shape. That background explains why the chapter remained so powerful in later theological interpretation.
+
 ## Jewish Interpretation
-Many Jewish interpreters read passages like this first within their original literary and historical setting rather than as direct predictions of Jesus. Depending on the text, Jewish readings may emphasize immediate historical referents, corporate Israel, the Davidic line, temple concerns, wisdom themes, or future messianic hope understood differently from Christian readings. Jewish interpretation is not monolithic, so a final draft should note major streams of interpretation without reducing them to a single position.
+Jewish interpretation reads Exodus 12 first as the institution of Passover and the story of Israel's redemption from Egypt. The lamb, the blood, and the memorial meal are bound to covenant memory and communal identity, not to a future prediction of Jesus. Some later Jewish traditions deepen the symbolic meaning of Passover, but they do not usually treat the chapter as messianic prophecy in the Christian sense.
+
 ## Christian Interpretation
-Many Christians read this passage messianically, typologically, or prophetically in relation to Jesus. Interpretations vary: some argue for a direct prediction, others for dual fulfillment, and others for a broader canonical or typological pattern that culminates in the New Testament. A final draft should distinguish these interpretive approaches rather than treating all Christian readings as identical.
+Christian interpretation has long treated Passover as one of the strongest Old Testament patterns fulfilled in Jesus. The Christian case is especially strong at the level of canonical theology: deliverance through blood, a spotless victim, sacrificial substitution, and the unbroken bones motif all converge in Jesus' death. More careful Christian readers typically describe this as typology or canonical fulfillment rather than as direct prediction.
+
 ## Textual Issues
-Textual questions may involve the Masoretic Text, the Septuagint, and where relevant the Dead Sea Scrolls. In some passages, these witnesses differ in wording or nuance enough to affect interpretation; in others, the debate is less about textual instability and more about how a relatively stable text should be read. This means textual criticism can be important, but it is not always decisive for the larger prophecy debate.
+There is no major textual instability that drives the debate here. The main issues are hermeneutical: whether Passover symbolism should be read primarily within Israel's own story or as a deliberate forward pattern that later culminates in Christ. The wording about the lamb's bones is especially important because John 19 uses it explicitly, but the larger interpretive question is broader than any single verse.
+
 ## My Conclusion
-This entry remains under review and should be treated as a structured placeholder rather than a final judgment. Its eventual classification will depend in part on how prophecy is defined in this project: as direct prediction, as typological pattern, or as a broader canonical reading. For now, the main goal is to preserve the research structure and identify the key interpretive questions without forcing a premature conclusion.
+Exodus 12 is one of the most important Christian prefiguration texts in the Old Testament, but it is not strongest as direct prediction. Its main limitation under strict criteria is that the chapter institutes Israel's Passover rather than forecasting Jesus in explicit terms. It works best as a powerful typological and canonical fulfillment pattern.
+
 ## Sources
-- Standard biblical commentaries
-- Lexical studies (Hebrew/Greek)
-- Jewish and Christian interpretive traditions
-- Historical-critical scholarship
+- Brevard Childs
+- Nahum Sarna
+- William H. C. Propp
+- R. Alan Cole
+- N. T. Wright
+- Major Exodus and biblical theology commentaries
 
 ## Copyright Notice
 Scripture quotations are from the New Revised Standard Version Updated Edition (NRSVUE), copyright © 2021 by the National Council of the Churches of Christ in the United States of America. Used by permission. All rights reserved.

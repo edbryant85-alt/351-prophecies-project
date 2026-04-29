@@ -354,14 +354,16 @@ pages:
     type: overview
     files:
     - content/prophecies/exodus-12.md
-    stage: focus
+    stage: structure
     status: Draft Analysis
     confidence: Low
     priority: 60
     dependencies: []
-    last_run: null
-    last_result: pending
-    notes: Contains placeholder language and still needs a first editorial pass.
+    last_run: '2026-04-29'
+    last_result: success
+    notes: 'Contains placeholder language and still needs a first editorial pass.
+
+      2026-04-29: Focus pass completed and pushed'
     public_beta_visible: false
   exodus-12-13-23:
     type: claim
